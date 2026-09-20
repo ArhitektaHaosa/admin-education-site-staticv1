@@ -56,3 +56,8 @@ WordPress on the domain is still the default Hello world post from 18 September 
 - Facebook https://www.facebook.com/ArhitektaHaosa
 - Threads https://www.threads.com/@arhitektahaosa
 - Substack https://arhitektahaosa.substack.com/
+
+## Social card
+
+- Bluesky wide (16:9): `img/social/bluesky-wide.jpg`
+  Paper, ink, accent, `a.` mark, wordmark, home lead. No extra art.
