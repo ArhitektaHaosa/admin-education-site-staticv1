@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="certs.xsd"?>
+<certs title="Platform exams" source="Freelancer.com / vWorker hire-platform record, as shown on 19 September 2026 screenshots." rule="The hire-platform UI labels these Certifications. On this domain they stay marketplace exams. Not a ministry diploma. Not a doctorate. School record stays on Method.">
+  <item slug="unix" kind="exam" stars="1">
+    <label>Unix</label>
+    <what>The tile text Unix is a hire-platform exam on Unix-family command line and process basics.</what>
+    <note>A marketplace pass is not the same object as years on a box. Operator record of systems administration starts 2002 and lives on Method.</note>
+  </item>
+  <item slug="nginx" kind="exam" stars="1">
+    <label>Nginx</label>
+    <what>The tile text Nginx is a hire-platform exam on the Nginx HTTP server and reverse proxy.</what>
+    <note>It tests vocabulary for static files, proxy_pass, and virtual hosts. It is not a vendor certificate from F5/Nginx Inc.</note>
+  </item>
+  <item slug="sql" kind="exam" stars="1">
+    <label>SQL</label>
+    <what>The tile text SQL is a hire-platform exam on generic Structured Query Language: select, join, filter, aggregate.</what>
+    <note>Kept separate from the MySQL product exam on the same record.</note>
+  </item>
+  <item slug="mysql" kind="exam" stars="1">
+    <label>MySQL</label>
+    <what>The tile text MySQL is a hire-platform exam on the MySQL database product, not on SQL as a language in the abstract.</what>
+    <note>Product exam. Distinct from the SQL tile.</note>
+  </item>
+  <item slug="html" kind="exam" stars="1">
+    <label>HTML</label>
+    <what>The tile text HTML is a hire-platform exam on markup structure, elements, and document outline.</what>
+    <note>Not a W3C membership and not a living-standard editorship.</note>
+  </item>
+  <item slug="php" kind="exam" stars="1">
+    <label>PHP</label>
+    <what>The tile text PHP is a hire-platform exam on PHP language basics used in older web stacks.</what>
+    <note>One exam. The record shows the same PHP tile twice across screens; it is not two credentials.</note>
+  </item>
+  <item slug="javascript" kind="exam" stars="1">
+    <label>JavaScript</label>
+    <what>The tile text JavaScript is a hire-platform exam on JS language basics in the browser era of the test.</what>
+    <note>Not TC39 membership. Not a Node.js foundation credential.</note>
+  </item>
+  <item slug="csharp" kind="exam" stars="1">
+    <label>C# Programming</label>
+    <what>The tile text C# Programming is a hire-platform exam on C# syntax and object basics.</what>
+    <note>Not a Microsoft Certified credential. No exam ID from Microsoft is claimed here.</note>
+  </item>
+  <item slug="wordpress" kind="exam" stars="1">
+    <label>WordPress</label>
+    <what>The tile text WordPress is a hire-platform exam on WordPress as a CMS: themes, posts, plugins at the level the test used.</what>
+    <note>Not a WordPress.org or Automattic staff credential. The live domain currently still has a default WordPress Hello world until the static spine replaces the document root.</note>
+  </item>
+  <item slug="photoshop-cs5" kind="exam" stars="1">
+    <label>Adobe Photoshop CS5</label>
+    <what>The tile text Adobe Photoshop CS5 is a hire-platform exam on Photoshop as it existed in the CS5 product line.</what>
+    <note>Dated tool. CS5 is a 2010-era release. Not a current Adobe Certified Professional ID.</note>
+  </item>
+  <item slug="seo" kind="exam" stars="1">
+    <label>SEO</label>
+    <what>The tile text SEO is a hire-platform exam on search-engine optimisation vocabulary: titles, crawlers, links, on-page basics.</what>
+    <note>A marketplace quiz is not a ranking. This domain does not sell a miracle listing.</note>
+  </item>
+  <item slug="adwords" kind="exam" stars="1">
+    <label>AdWords</label>
+    <what>The tile text AdWords is a hire-platform exam on Google’s paid-search product under the name it used before Google Ads.</what>
+    <note>Not a current Google Skillshop certificate unless a Skillshop ID is produced. None is on this record.</note>
+  </item>
+  <item slug="adsense" kind="exam" stars="1">
+    <label>Google AdSense</label>
+    <what>The tile text Google AdSense is a hire-platform exam on the AdSense publisher product: placements, policies, basic reporting.</what>
+    <note>Not proof of an active AdSense account on this domain. This site ships with no ads and no tracker.</note>
+  </item>
+  <item slug="us-english" kind="exam" stars="2">
+    <label>US English</label>
+    <what>The tile text US English is a hire-platform language exam. Two stars are what the record shows.</what>
+    <note>A language exam on a hire site is not a university degree in English. School English sits on the Vukova diploma line on Method.</note>
+  </item>
+  <item slug="uk-english" kind="exam" stars="2">
+    <label>UK English</label>
+    <what>The tile text UK English is a hire-platform language exam. Two stars are what the record shows.</what>
+    <note>Kept beside US English because the platform issued two tiles. Spelling variants are not two diplomas.</note>
+  </item>
+  <item slug="basic-numeracy" kind="exam" stars="1">
+    <label>Basic Numeracy</label>
+    <what>The tile text Basic Numeracy is a hire-platform arithmetic exam: the four operations as the test framed them.</what>
+    <note>Not a mathematics degree. School mathematics sits on the Vukova diploma line on Method.</note>
+  </item>
+  <item slug="freelancer-orientation" kind="orientation" stars="1">
+    <label>Freelancer Orientation</label>
+    <what>The tile text Freelancer Orientation is a platform onboarding exam: how that marketplace expected sellers to behave.</what>
+    <note>Orientation, not a skill. freelancer.com/u/kerberus remains a hire record from 2006, not a current bid profile on this domain.</note>
+  </item>
+  <item slug="employer-orientation" kind="orientation" stars="1">
+    <label>Employer Orientation Exam</label>
+    <what>The tile text Employer Orientation Exam is a platform onboarding exam for the hiring side of the same marketplace.</what>
+    <note>Orientation, not a skill. It does not make this domain a staffing agency.</note>
+  </item>
+  <item slug="general-orientation" kind="orientation" stars="1">
+    <label>General Orientation Exam</label>
+    <what>The tile text General Orientation Exam is a catch-all platform onboarding test.</what>
+    <note>Orientation, not a skill.</note>
+  </item>
+  <item slug="vworker-foundation" kind="membership">
+    <label>Foundation vWorker Member</label>
+    <what>The tile text Foundation vWorker Member is a legacy membership badge from vWorker, a hire marketplace later absorbed by Freelancer.</what>
+    <note>No star on the tile. Membership, not an exam score. Do not restyle it as a university foundation year.</note>
+  </item>
+</certs>

@@ -4,12 +4,14 @@ This repository is the only work surface for https://admin.education right now.
 
 No rush. Owner sends more copy when ready. Fold it in. Do not invent pages to look busy. Do not open other GitHub tokens or other repos unless the owner says so.
 
-Overnight instructions for this pass: `OVERNIGHT.md`.
+Overnight prompt: `PROMPT-STATIC-SITE-MASTER.md`
+Short index: `OVERNIGHT.md`
 
 ## Locked (2026-09-20 night, Europe/Belgrade)
 
 - Stack: static HTML and CSS. No tracker. System UI stack. SVG wordmark.
-- Optional local script only: `node scripts/render-exams.mjs` (reads `data/certs.json`, writes `exams.html`).
+- Optional local script: `node scripts/render-exams.mjs` reads `data/certs.json`, writes `exams.html` and `data/certs.xml`.
+- XML schema: `data/certs.xsd`. JSON is canonical.
 - Brand: paper `#F7F4EE`, ink `#111111`, accent `#FF6719`.
 - Marks: `img/wordmark.svg`, `img/logo.svg`. Exam marks: original SVG in `img/certs/`.
 - Do not print the personal legal name on any public page. Display name is admin.education. Public handle is @ArhitektaHaosa.
@@ -41,8 +43,10 @@ Old Bluesky `arhitektahaosa.bsky.social` is retired on this domain. Use `admin.e
 - `links.html` Link-in-bio
 - `contact.html` Contact
 - `data/certs.json` exam source of truth
+- `data/certs.xml` XML twin
+- `data/certs.xsd` schema
 - `img/certs/` original SVG marks
-- `OVERNIGHT.md` current work order
+- `PROMPT-STATIC-SITE-MASTER.md` current work order
 
 Nav on every page: Home, Method, Writing, Exams, Links, Contact.
 

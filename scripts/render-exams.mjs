@@ -21,6 +21,20 @@ function starsLine(stars) {
   return `Hire-platform record: ${stars} stars.`;
 }
 
+function escapeXml(value) {
+  return String(value).replace(/[&<>"']/g, (ch) => {
+    if (ch === "&") return "&" + "amp;";
+    if (ch === "<") return "&" + "lt;";
+    if (ch === ">") return "&" + "gt;";
+    if (ch === '"') return "&" + "quot;";
+    return "&" + "apos;";
+  });
+}
+
+function attr(value) {
+  return `"${escapeXml(value)}"`;
+}
+
 const kindLabel = { exam: "Exam", orientation: "Orientation", membership: "Membership" };
 
 const cards = data.items
@@ -72,5 +86,24 @@ ${cards}
 </html>
 `;
 
+const xmlItems = data.items
+  .map((item) => {
+    const stars = item.stars == null ? "" : ` stars="${Number(item.stars)}"`;
+    return `  <item slug=${attr(item.slug)} kind=${attr(item.kind)}${stars}>
+    <label>${escapeXml(item.label)}</label>
+    <what>${escapeXml(item.what)}</what>
+    <note>${escapeXml(item.note)}</note>
+  </item>`;
+  })
+  .join("\n");
+
+const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="certs.xsd"?>
+<certs title=${attr(data.title)} source=${attr(data.source)} rule=${attr(data.rule)}>
+${xmlItems}
+</certs>
+`;
+
 writeFileSync(join(root, "exams.html"), html);
-console.log("wrote exams.html", data.items.length, "items");
+writeFileSync(join(root, "data/certs.xml"), xml);
+console.log("wrote exams.html and data/certs.xml", data.items.length, "items");

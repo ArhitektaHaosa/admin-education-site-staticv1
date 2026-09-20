@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:documentation>
+      Serialization of data/certs.json. JSON is canonical. XML is the validated copy.
+      Do not add date, score, or issuer unless a sourced value exists.
+    </xs:documentation>
+  </xs:annotation>
+  <xs:element name="certs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="item" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="label" type="xs:string"/>
+              <xs:element name="what" type="xs:string"/>
+              <xs:element name="note" type="xs:string"/>
+            </xs:sequence>
+            <xs:attribute name="slug" use="required" type="slugType"/>
+            <xs:attribute name="stars" type="starsType"/>
+            <xs:attribute name="kind" use="required" type="kindType"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="title" use="required" type="xs:string"/>
+      <xs:attribute name="source" use="required" type="xs:string"/>
+      <xs:attribute name="rule" use="required" type="xs:string"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:simpleType name="slugType">
+    <xs:restriction base="xs:token">
+      <xs:pattern value="[a-z0-9]+(-[a-z0-9]+)*"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="kindType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="exam"/>
+      <xs:enumeration value="orientation"/>
+      <xs:enumeration value="membership"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="starsType">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="1"/>
+      <xs:maxInclusive value="2"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
