@@ -3,14 +3,17 @@
 Static spine for https://admin.education
 
 Snapshot date: 2026-09-20  
-Version: staticv1  
+Version: staticv1.1  
 No build step. No tracker. System UI stack. SVG wordmark.
+
+Read `HANDOFF.md` before editing. That file is the continue-from point for the next editor.
 
 ## Pages
 
 - `index.html` Home
 - `method.html` Method
 - `writing.html` Writing
+- `links.html` Links
 - `contact.html` Contact
 
 ## Local
@@ -33,3 +36,11 @@ WordPress on the domain is still the default Hello world post from 18 September 
 - Paper `#F7F4EE`
 - Wordmark `img/wordmark.svg`
 - Logo `img/logo.svg`
+
+## Live surfaces (locked)
+
+- Bluesky https://bsky.app/profile/admin.education
+- Instagram https://www.instagram.com/ArhitektaHaosa/
+- Facebook https://www.facebook.com/ArhitektaHaosa
+- Threads https://www.threads.com/@arhitektahaosa
+- Substack https://arhitektahaosa.substack.com/
