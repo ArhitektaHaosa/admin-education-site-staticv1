@@ -2,11 +2,11 @@
 
 Static spine for https://admin.education
 
-Snapshot date: 2026-09-20  
-Version: staticv1.2  
+Snapshot date: 2026-09-21  
+Version: staticv1.3  
 No tracker. System UI stack. SVG wordmark. Optional local render for exams only.
 
-Read `OVERNIGHT.md` then `HANDOFF.md` before editing.
+Read `OVERNIGHT.md` then `HANDOFF.md` before editing. Deploy: `DEPLOY.md`.
 
 ## Pages
 
@@ -20,27 +20,22 @@ Read `OVERNIGHT.md` then `HANDOFF.md` before editing.
 ## Exams (easy to update)
 
 Source of truth: `data/certs.json`  
+Twin: `data/certs.xml` (schema `data/certs.xsd`)  
 Marks: `img/certs/{slug}.svg` (original geometry, not marketplace art)
 
 ```
 node scripts/render-exams.mjs
 ```
 
-writes `exams.html`. Deploy is still copy files.
-
-## Local
-
-```
-python3 -m http.server 8080 --directory .
-```
+writes `exams.html` and `data/certs.xml`.
 
 ## Deploy
 
-WordPress on the domain is still the default Hello world post from 18 September 2026 until you replace the document root with this folder.
+Every push to `main` publishes to GitHub Pages:
 
-1. Snapshot current WP files.
-2. Put this folder at the web root.
-3. Point the vhost at it.
+https://arhitektahaosa.github.io/admin-education-site-staticv1/
+
+`https://admin.education` is still WordPress until DNS is an explicit owner cutover. Do not add a CNAME here until then. Details in `DEPLOY.md`.
 
 ## Brand
 
@@ -56,7 +51,6 @@ WordPress on the domain is still the default Hello world post from 18 September 
 - Facebook https://www.facebook.com/ArhitektaHaosa
 - Threads https://www.threads.com/@arhitektahaosa
 - Substack https://arhitektahaosa.substack.com/
-
 
 ## Social cards
 

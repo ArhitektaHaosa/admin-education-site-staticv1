@@ -50,6 +50,10 @@ Old Bluesky `arhitektahaosa.bsky.social` is retired on this domain. Use `admin.e
 
 Nav on every page: Home, Method, Writing, Exams, Links, Contact.
 
-## Deploy reminder (owner action, not yours unless asked)
+## Deploy
 
-WordPress Hello world is still on the live domain until the owner replaces the document root with this folder.
+Push to `main` publishes GitHub Pages automatically. Workflow: `.github/workflows/pages.yml`. Notes: `DEPLOY.md`.
+
+Preview: https://arhitektahaosa.github.io/admin-education-site-staticv1/
+
+WordPress Hello world is still on https://admin.education until the owner points DNS. Do not add a CNAME or claim the apex until that cutover is explicit.
