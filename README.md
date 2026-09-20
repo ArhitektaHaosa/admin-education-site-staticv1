@@ -3,18 +3,30 @@
 Static spine for https://admin.education
 
 Snapshot date: 2026-09-20  
-Version: staticv1.1  
-No build step. No tracker. System UI stack. SVG wordmark.
+Version: staticv1.2  
+No tracker. System UI stack. SVG wordmark. Optional local render for exams only.
 
-Read `HANDOFF.md` before editing. That file is the continue-from point for the next editor.
+Read `OVERNIGHT.md` then `HANDOFF.md` before editing.
 
 ## Pages
 
 - `index.html` Home
-- `method.html` Method
+- `method.html` Method (school record)
 - `writing.html` Writing
+- `exams.html` Platform exams
 - `links.html` Links
 - `contact.html` Contact
+
+## Exams (easy to update)
+
+Source of truth: `data/certs.json`  
+Marks: `img/certs/{slug}.svg` (original geometry, not marketplace art)
+
+```
+node scripts/render-exams.mjs
+```
+
+writes `exams.html`. Deploy is still copy files.
 
 ## Local
 

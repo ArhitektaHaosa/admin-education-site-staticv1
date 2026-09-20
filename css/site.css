@@ -134,3 +134,23 @@ a.stack-link small {
   color: var(--muted);
   margin-top: 0.15rem;
 }
+
+.exam {
+  display: grid;
+  grid-template-columns: 64px 1fr;
+  gap: 0.9rem 1rem;
+  padding: 1.1rem 0;
+  border-top: 1px solid var(--line);
+}
+.exam:first-of-type { margin-top: 1.4rem; }
+.exam h2 { margin: 0 0 0.25rem; font-size: 1.05rem; }
+.exam-mark {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+}
+.exam-meta {
+  color: var(--muted);
+  font-size: 0.88rem;
+  margin: 0 0 0.45rem;
+}
