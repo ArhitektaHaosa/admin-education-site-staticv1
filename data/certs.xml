@@ -56,16 +56,6 @@
     <what>The tile text SEO is a hire-platform exam on search-engine optimisation vocabulary: titles, crawlers, links, on-page basics.</what>
     <note>A marketplace quiz is not a ranking. This domain does not sell a miracle listing.</note>
   </item>
-  <item slug="adwords" kind="exam" stars="1">
-    <label>AdWords</label>
-    <what>The tile text AdWords is a hire-platform exam on Google’s paid-search product under the name it used before Google Ads.</what>
-    <note>Not a current Google Skillshop certificate unless a Skillshop ID is produced. None is on this record.</note>
-  </item>
-  <item slug="adsense" kind="exam" stars="1">
-    <label>Google AdSense</label>
-    <what>The tile text Google AdSense is a hire-platform exam on the AdSense publisher product: placements, policies, basic reporting.</what>
-    <note>Not proof of an active AdSense account on this domain. This site ships with no ads and no tracker.</note>
-  </item>
   <item slug="us-english" kind="exam" stars="2">
     <label>US English</label>
     <what>The tile text US English is a hire-platform language exam. Two stars are what the record shows.</what>
@@ -80,6 +70,16 @@
     <label>Basic Numeracy</label>
     <what>The tile text Basic Numeracy is a hire-platform arithmetic exam: the four operations as the test framed them.</what>
     <note>Not a mathematics degree. School mathematics sits on the Vukova diploma line on Method.</note>
+  </item>
+  <item slug="adwords" kind="exam" stars="1">
+    <label>AdWords</label>
+    <what>The tile text AdWords is a hire-platform exam on Google’s paid-search product under the name it used before Google Ads.</what>
+    <note>Not a current Google Skillshop certificate unless a Skillshop ID is produced. None is on this record.</note>
+  </item>
+  <item slug="adsense" kind="exam" stars="1">
+    <label>Google AdSense</label>
+    <what>The tile text Google AdSense is a hire-platform exam on the AdSense publisher product: placements, policies, basic reporting.</what>
+    <note>Not proof of an active AdSense account on this domain. This site ships with no ads and no tracker.</note>
   </item>
   <item slug="freelancer-orientation" kind="orientation" stars="1">
     <label>Freelancer Orientation</label>

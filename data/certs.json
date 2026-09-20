@@ -92,22 +92,6 @@
       "note": "A marketplace quiz is not a ranking. This domain does not sell a miracle listing."
     },
     {
-      "slug": "adwords",
-      "label": "AdWords",
-      "stars": 1,
-      "kind": "exam",
-      "what": "The tile text AdWords is a hire-platform exam on Google’s paid-search product under the name it used before Google Ads.",
-      "note": "Not a current Google Skillshop certificate unless a Skillshop ID is produced. None is on this record."
-    },
-    {
-      "slug": "adsense",
-      "label": "Google AdSense",
-      "stars": 1,
-      "kind": "exam",
-      "what": "The tile text Google AdSense is a hire-platform exam on the AdSense publisher product: placements, policies, basic reporting.",
-      "note": "Not proof of an active AdSense account on this domain. This site ships with no ads and no tracker."
-    },
-    {
       "slug": "us-english",
       "label": "US English",
       "stars": 2,
@@ -130,6 +114,22 @@
       "kind": "exam",
       "what": "The tile text Basic Numeracy is a hire-platform arithmetic exam: the four operations as the test framed them.",
       "note": "Not a mathematics degree. School mathematics sits on the Vukova diploma line on Method."
+    },
+    {
+      "slug": "adwords",
+      "label": "AdWords",
+      "stars": 1,
+      "kind": "exam",
+      "what": "The tile text AdWords is a hire-platform exam on Google’s paid-search product under the name it used before Google Ads.",
+      "note": "Not a current Google Skillshop certificate unless a Skillshop ID is produced. None is on this record."
+    },
+    {
+      "slug": "adsense",
+      "label": "Google AdSense",
+      "stars": 1,
+      "kind": "exam",
+      "what": "The tile text Google AdSense is a hire-platform exam on the AdSense publisher product: placements, policies, basic reporting.",
+      "note": "Not proof of an active AdSense account on this domain. This site ships with no ads and no tracker."
     },
     {
       "slug": "freelancer-orientation",
