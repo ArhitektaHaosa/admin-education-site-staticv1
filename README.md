@@ -57,7 +57,13 @@ WordPress on the domain is still the default Hello world post from 18 September 
 - Threads https://www.threads.com/@arhitektahaosa
 - Substack https://arhitektahaosa.substack.com/
 
-## Social card
 
-- Bluesky wide (16:9): `img/social/bluesky-wide.jpg`
-  Paper, ink, accent, `a.` mark, wordmark, home lead. No extra art.
+## Social cards
+
+Static marks only. Paper `#F7F4EE`, ink `#111111`, accent `#FF6719`. No extra art.
+
+- `img/social/wide.svg` source
+- `img/social/wide.png` and `wide-1920x1080.png` — 16:9 (Bluesky, Threads, Instagram landscape)
+- `img/social/og-1200x630.png` — Open Graph / Facebook
+- `img/social/wide-1600x900.png` — 16:9 smaller
+- `img/social/bluesky-wide.jpg` — earlier painted 16:9; prefer the PNG/SVG above
