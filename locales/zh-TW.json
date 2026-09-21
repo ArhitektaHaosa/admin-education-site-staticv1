@@ -1,0 +1,136 @@
+{
+  "locale": "zh-TW",
+  "lang_native": "繁體中文",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "知識免費",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "首頁",
+    "method": "方法",
+    "writing": "寫作",
+    "exams": "考試",
+    "links": "連結",
+    "contact": "聯絡"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "系統管理和技術教育的公開方法。知識保持免費。",
+    "h1": "系統管理作為公開方法。",
+    "lead": "admin.education 是一個教學平台。不是部門。不是課程商店。不是投標簡介。",
+    "intro": "工作是基礎設施、應用的 AI 素養和測量。知識保持免費。方法的所有權留在此域名的操作者處。",
+    "what_heading": "這個網站是什麼",
+    "what_items": [
+      "長篇文字和實驗室筆記的基礎。",
+      "發佈方法的地方，不出售簽證、文憑或奇蹟。",
+      "公開記錄，操作者是系統管理員和教育者，不是國家機構。"
+    ],
+    "what_not_heading": "這個網站不是什麼",
+    "what_not_items": [
+      "不是 RateZip.com。那份記錄是過時的工作，2007–2022。",
+      "不是 freelancer.com/u/kerberus。那頁是 2006 年的招聘記錄。",
+      "不是音樂會推廣者，不是借用的專輯標題。",
+      "不是博士學位。這裡沒有 PhD。畢業論文仍未完成。"
+    ],
+    "note": "如果句子無法測量或引用來源，它不屬於此域名。"
+  },
+  "method": {
+    "title": "方法",
+    "page_title": "方法 — admin.education",
+    "description": "admin.education 如何教學：測量優先、免費知識、僅 White Hat。",
+    "h1": "方法",
+    "lead": "先測量。後教學。不要發明頭銜來承載句子。",
+    "rules_heading": "留在頁面上的規則",
+    "rules_items": [
+      "知識是免費的。無需訪問。僅限線上。",
+      "僅 White Hat。命令是您自己機器上的隱喻。不對第三方執行任何操作。",
+      "首先同意。歸屬和互惠。小型共享核心，本地項目。",
+      "學校記錄和平台考試保留在兩行上。它們不是同一個對象。平台考試在<a href=\"exams.html\">考試</a>。",
+      "當涉及金錢時，聯盟工作在句子中標記。"
+    ],
+    "operator_heading": "此處使用的操作者事實",
+    "operator_items": [
+      "自 2002 年起擔任系統管理員。首先是 Webmin、Virtualmin、CentOS。後來的機器包括 Linode、Vercel、DigitalOcean。",
+      "默認是自託管，當速度不是優先事項時。",
+      "資訊學、IT 和 AI 教育者。獨立。從未被塞爾維亞國家機構雇用。",
+      "Vukova 文憑，OŠ Nikola Tesla，Vinča，1998 年 6 月 11 日。該學校文憑上的科目：英語、生物、物理、數學。",
+      "沒有博士學位。畢業論文未完成。然後為加拿大公司進行遠程工作。"
+    ],
+    "muted": "任何人都可以要求對陳述的事實進行補充或來源。"
+  },
+  "writing": {
+    "title": "寫作",
+    "page_title": "寫作 — admin.education",
+    "description": "admin.education 的長篇寫作在 Substack 上。",
+    "h1": "寫作",
+    "lead": "報紙在 Substack 上。此域名是骨幹。",
+    "intro": "長篇形式前往 <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>。簡短的公開剪輯首先前往 Bluesky，然後前往其他活躍的表面。此網站不重印提要。",
+    "priority": "文章承載方法。簡短的帖子是表面。如果兩者不同意，文章獲勝。",
+    "live_heading": "寫作的活躍表面",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X 未列出。LinkedIn 在此處不用作草稿表面。"
+  },
+  "exams": {
+    "title": "平台考試",
+    "page_title": "平台考試 — admin.education",
+    "description": "來自 freelancer/vWorker 記錄的招聘平台考試。不是部門文憑。學校記錄留在方法中。",
+    "h1": "平台考試",
+    "lead": "招聘平台界面將這些標記為認證。在此域名上，它們保持為市場考試。不是部門文憑。不是博士學位。學校記錄留在方法中。",
+    "source": "Freelancer.com / vWorker 招聘平台記錄，如 2026 年 9 月 19 日截圖所示。此頁面上的原始小型 SVG 標記。不是市場的藝術作品。",
+    "muted": "學校記錄（Vukova 文憑，1998 年 6 月 11 日）是不同的對象，留在方法中。不要合併兩個列表。",
+    "note": "任何人都可以要求對陳述的事實提供來源。如果稍後生成官方 Skillshop、Adobe 或 Microsoft ID，它會獲得自己的行。這些磁貼不是那個。",
+    "exam_meta": "考試。招聘平台記錄：{stars} 星。",
+    "exam_meta_plural": "考試。招聘平台記錄：{stars} 星。",
+    "orientation_meta": "定向。招聘平台記錄：{stars} 星。",
+    "membership_meta": "會員資格。會員徽章。磁貼上沒有星星。"
+  },
+  "links": {
+    "title": "連結",
+    "page_title": "連結 — admin.education",
+    "description": "admin.education 的精選連結。Bluesky、寫作、來源、聯絡。",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "系統管理作為公開方法。基礎設施、應用的 AI 素養和測量的教學平台。知識保持免費。",
+    "featured_label": "精選連結",
+    "link_method": "方法",
+    "link_method_desc": "此域名如何教學",
+    "link_exams": "考試",
+    "link_exams_desc": "招聘平台磁貼，已解釋",
+    "link_writing": "寫作",
+    "link_writing_desc": "Substack 上的長篇形式",
+    "link_source": "來源",
+    "link_source_desc": "GitHub 上的靜態骨幹",
+    "link_contact": "聯絡",
+    "link_contact_desc": "先寫。這裡沒有號碼。",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "聯絡",
+    "page_title": "聯絡 — admin.education",
+    "description": "admin.education 的聯絡路徑。WhatsApp Business 或電子郵件。",
+    "h1": "聯絡",
+    "lead": "主要路徑：WhatsApp Business。電子郵件作為備份。",
+    "whatsapp_label": "WhatsApp Business：",
+    "email_label": "電子郵件：",
+    "email_also": "也到達 gmail.com 上的 mapkomah",
+    "bluesky_label": "Bluesky：",
+    "instagram_label": "Instagram：",
+    "facebook_label": "Facebook：",
+    "substack_label": "Substack：",
+    "other_channels": "Viber 和 Telegram 存在於同一個真實的辦公室號碼上。這些頻道未發布。Cloaked 用於陌生人和表格的別名，而不是該辦公室的替代品。",
+    "note": "如果請求是簽名、許可證或金錢，請先閱讀文件。花時間。在您簽署之前詢問，而不是之後。"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "locale": "ar",
+  "lang_native": "العربية",
+  "lang_dir": "rtl",
+  "site": {
+    "name": "admin.education",
+    "tagline": "المعرفة مجانية",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "method": "الطريقة",
+    "writing": "الكتابة",
+    "exams": "الاختبارات",
+    "links": "الروابط",
+    "contact": "اتصل"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "طريقة عامة لإدارة الأنظمة والتعليم التقني. المعرفة تبقى مجانية.",
+    "h1": "إدارة الأنظمة كطريقة عامة.",
+    "lead": "admin.education هي منصة تعليمية. ليست وزارة. ليست متجر دورات. ليست ملف عروض.",
+    "intro": "العمل هو البنية التحتية ومحو الأمية بالذكاء الاصطناعي التطبيقي والقياس. المعرفة تبقى مجانية. ملكية الطريقة تبقى مع مشغل هذا النطاق.",
+    "what_heading": "ما هو هذا الموقع",
+    "what_items": [
+      "أساس للنصوص الطويلة وملاحظات المختبر.",
+      "مكان لنشر الطريقة دون بيع تأشيرة أو شهادة أو معجزة.",
+      "سجل عام أن المشغل هو مسؤول أنظمة ومعلم، وليس مؤسسة حكومية."
+    ],
+    "what_not_heading": "ما ليس هذا الموقع",
+    "what_not_items": [
+      "ليس RateZip.com. ذلك السجل عمل قديم، 2007–2022.",
+      "ليس freelancer.com/u/kerberus. تلك الصفحة سجل توظيف من 2006.",
+      "ليس منظم حفلات وليس عنوان ألبوم مستعار.",
+      "ليس دكتوراه. لا يوجد PhD هنا. أطروحة الدبلوم تبقى غير مكتملة."
+    ],
+    "note": "إذا كانت الجملة لا يمكن قياسها أو الاستشهاد بمصدرها، فهي لا تنتمي إلى هذا النطاق."
+  },
+  "method": {
+    "title": "الطريقة",
+    "page_title": "الطريقة — admin.education",
+    "description": "كيف يعلم admin.education: القياس أولاً، المعرفة المجانية، فقط White Hat.",
+    "h1": "الطريقة",
+    "lead": "قِس أولاً. علِّم ثانياً. لا تخترع لقباً لحمل الجملة.",
+    "rules_heading": "القواعد التي تبقى على الصفحة",
+    "rules_items": [
+      "المعرفة مجانية. لا حاجة لزيارة. عبر الإنترنت فقط.",
+      "فقط White Hat. الأوامر استعارات على أجهزتك الخاصة. لا يتم تنفيذ أي شيء ضد طرف ثالث.",
+      "الموافقة أولاً. الإسناد والمعاملة بالمثل. نواة مشتركة صغيرة، مشروع محلي.",
+      "السجل المدرسي واختبارات المنصة تبقى على سطرين. ليسا نفس الكائن. اختبارات المنصة في <a href=\"exams.html\">الاختبارات</a>.",
+      "العمل التابع محدد في الجملة عندما يكون المال متورطاً."
+    ],
+    "operator_heading": "حقائق المشغل المستخدمة هنا",
+    "operator_items": [
+      "مسؤول أنظمة منذ 2002. أولاً Webmin، Virtualmin، CentOS. الأجهزة اللاحقة تشمل Linode، Vercel، DigitalOcean.",
+      "الافتراضي هو الاستضافة الذاتية عندما لا تكون السرعة أولوية.",
+      "معلم في المعلوماتية وتكنولوجيا المعلومات والذكاء الاصطناعي. مستقل. لم يتم توظيفه أبداً من قبل المؤسسات الحكومية الصربية.",
+      "دبلوم Vukova، مدرسة OŠ Nikola Tesla، Vinča، 11 يونيو 1998. المواد في تلك الشهادة المدرسية: الإنجليزية، الأحياء، الفيزياء، الرياضيات.",
+      "لا دكتوراه. أطروحة الدبلوم غير مكتملة. ثم العمل عن بُعد لشركة كندية."
+    ],
+    "muted": "يمكن لأي شخص أن يطلب إضافات أو مصادر لحقيقة مذكورة."
+  },
+  "writing": {
+    "title": "الكتابة",
+    "page_title": "الكتابة — admin.education",
+    "description": "الكتابة طويلة الشكل لـ admin.education على Substack.",
+    "h1": "الكتابة",
+    "lead": "الصحيفة على Substack. هذا النطاق هو العمود الفقري.",
+    "intro": "الشكل الطويل يذهب إلى <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. المقتطفات العامة القصيرة تذهب أولاً إلى Bluesky، ثم الأسطح النشطة الأخرى. هذا الموقع لا يعيد طباعة التغذية.",
+    "priority": "المقالات تحمل الطريقة. المنشورات القصيرة هي السطح. إذا اختلف الاثنان، تفوز المقالة.",
+    "live_heading": "الأسطح النشطة للكتابة",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X غير مدرج. LinkedIn غير مستخدم كسطح مسودة هنا."
+  },
+  "exams": {
+    "title": "اختبارات المنصة",
+    "page_title": "اختبارات المنصة — admin.education",
+    "description": "اختبارات منصة التوظيف من سجل freelancer/vWorker. ليست شهادة وزارة. السجل المدرسي يبقى في الطريقة.",
+    "h1": "اختبارات المنصة",
+    "lead": "واجهة منصة التوظيف تسمي هذه الشهادات. في هذا النطاق تبقى اختبارات السوق. ليست شهادة وزارة. ليست دكتوراه. السجل المدرسي يبقى في الطريقة.",
+    "source": "سجل منصة التوظيف Freelancer.com / vWorker، كما هو موضح في لقطات الشاشة من 19 سبتمبر 2026. علامات SVG الصغيرة الأصلية على هذه الصفحة. ليست الأعمال الفنية للسوق.",
+    "muted": "السجل المدرسي (دبلوم Vukova، 11 يونيو 1998) كائن مختلف ويبقى في الطريقة. لا تدمج القائمتين.",
+    "note": "يمكن لأي شخص أن يطلب مصدراً لحقيقة مذكورة. إذا تم إنتاج معرف Skillshop أو Adobe أو Microsoft رسمي لاحقاً، يحصل على سطره الخاص. هذه البلاطات ليست ذلك.",
+    "exam_meta": "اختبار. سجل منصة التوظيف: {stars} نجمة.",
+    "exam_meta_plural": "اختبار. سجل منصة التوظيف: {stars} نجمة.",
+    "orientation_meta": "توجيه. سجل منصة التوظيف: {stars} نجمة.",
+    "membership_meta": "عضوية. شارة عضوية. لا نجمة على البلاطة."
+  },
+  "links": {
+    "title": "الروابط",
+    "page_title": "الروابط — admin.education",
+    "description": "روابط مميزة لـ admin.education. Bluesky، الكتابة، المصدر، اتصل.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "إدارة الأنظمة كطريقة عامة. منصة تعليمية للبنية التحتية ومحو الأمية بالذكاء الاصطناعي التطبيقي والقياس. المعرفة تبقى مجانية.",
+    "featured_label": "روابط مميزة",
+    "link_method": "الطريقة",
+    "link_method_desc": "كيف يعلم هذا النطاق",
+    "link_exams": "الاختبارات",
+    "link_exams_desc": "بلاطات منصة التوظيف، موضحة",
+    "link_writing": "الكتابة",
+    "link_writing_desc": "شكل طويل على Substack",
+    "link_source": "المصدر",
+    "link_source_desc": "العمود الفقري الثابت على GitHub",
+    "link_contact": "اتصل",
+    "link_contact_desc": "اكتب أولاً. لا رقم هنا.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "اتصل",
+    "page_title": "اتصل — admin.education",
+    "description": "طرق الاتصال بـ admin.education. WhatsApp Business أو البريد الإلكتروني.",
+    "h1": "اتصل",
+    "lead": "الطريق الأساسي: WhatsApp Business. البريد الإلكتروني كنسخة احتياطية.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "البريد الإلكتروني:",
+    "email_also": "يصل أيضاً إلى mapkomah في gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber و Telegram موجودان على نفس رقم المكتب الحقيقي. تلك القنوات غير منشورة. Cloaked للأسماء المستعارة للغرباء والنماذج، وليس بديلاً لذلك المكتب.",
+    "note": "إذا كان الطلب توقيعاً أو ترخيصاً أو مالاً، اقرأ الوثيقة أولاً. خذ وقتك. اسأل قبل أن توقع، وليس بعد."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "locale": "fi",
+  "lang_native": "Suomi",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "tieto on ilmaista",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Etusivu",
+    "method": "Menetelmä",
+    "writing": "Kirjoitus",
+    "exams": "Kokeet",
+    "links": "Linkit",
+    "contact": "Yhteystiedot"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Julkinen menetelmä järjestelmähallintaan ja teknologiakoulutukseen. Tieto pysyy ilmaisena.",
+    "h1": "Järjestelmähallinto julkisena menetelmänä.",
+    "lead": "admin.education on opetusalusta. Ei ministeriö. Ei kurssikauppa. Ei tarjousprofili.",
+    "intro": "Työ on infrastruktuuria, sovellettua AI-lukutaitoa ja mittausta. Tieto pysyy ilmaisena. Menetelmän omistus pysyy tämän verkkotunnuksen operaattorilla.",
+    "what_heading": "Mitä tämä sivusto on",
+    "what_items": [
+      "Perusta pitkille teksteille ja laboratoriomuistiinpanoille.",
+      "Paikka julkaista menetelmää ilman viisumin, tutkinnon tai ihmeen myyntiä.",
+      "Julkinen kirjaus, että operaattori on järjestelmänvalvoja ja kouluttaja, ei valtion laitos."
+    ],
+    "what_not_heading": "Mitä tämä sivusto ei ole",
+    "what_not_items": [
+      "Ei RateZip.com. Tuo rekisteri on vanhentunutta työtä, 2007–2022.",
+      "Ei freelancer.com/u/kerberus. Tuo sivu on palkkauskertaus vuodelta 2006.",
+      "Ei konserttijärjestäjä eikä lainattu albumin nimi.",
+      "Ei tohtorintutkinto. Täällä ei ole PhD:tä. Diplomityö jää keskeneräiseksi."
+    ],
+    "note": "Jos lausetta ei voida mitata tai lähteistää, se ei kuulu tähän verkkotunnukseen."
+  },
+  "method": {
+    "title": "Menetelmä",
+    "page_title": "Menetelmä — admin.education",
+    "description": "Kuinka admin.education opettaa: ensin mittaus, ilmainen tieto, vain White Hat.",
+    "h1": "Menetelmä",
+    "lead": "Mittaa ensin. Opeta sitten. Älä keksi arvonimeä kantamaan lausetta.",
+    "rules_heading": "Säännöt, jotka pysyvät sivulla",
+    "rules_items": [
+      "Tieto on ilmaista. Vierailua ei tarvita. Vain verkossa.",
+      "Vain White Hat. Komennot ovat metaforia omilla koneillasi. Mitään ei suoriteta kolmatta osapuolta vastaan.",
+      "Ensin suostumus. Viittaus ja vastavuoroisuus. Pieni jaettu ydin, paikallinen projekti.",
+      "Koulurekisteri ja alustakoeet pysyvät kahdella rivillä. Ne eivät ole sama objekti. Alustakoeet ovat sivulla <a href=\"exams.html\">Kokeet</a>.",
+      "Yhteistyö on merkitty lauseessa, kun raha on mukana."
+    ],
+    "operator_heading": "Operaattorin tiedot, joita käytetään täällä",
+    "operator_items": [
+      "Järjestelmänvalvoja vuodesta 2002. Ensin Webmin, Virtualmin, CentOS. Myöhemmät koneet sisältävät Linode, Vercel, DigitalOcean.",
+      "Oletus on oma isännöinti, kun nopeus ei ole prioriteetti.",
+      "Kouluttaja informatiikassa, IT:ssä ja AI:ssa. Riippumaton. Ei koskaan Serbian valtion laitoksen palveluksessa.",
+      "Vukova-tutkinto, OŠ Nikola Tesla, Vinča, 11. kesäkuuta 1998. Tuon koulututkinnon aineet: englanti, biologia, fysiikka, matematiikka.",
+      "Ei tohtorintutkintoa. Diplomityö keskeneräinen. Sitten etätyö kanadalaiselle yritykselle."
+    ],
+    "muted": "Kuka tahansa voi pyytää lisäyksiä tai lähteitä ilmoitetulle tosiasialle."
+  },
+  "writing": {
+    "title": "Kirjoitus",
+    "page_title": "Kirjoitus — admin.education",
+    "description": "Pitkän muodon kirjoitus admin.educationille on Substackissa.",
+    "h1": "Kirjoitus",
+    "lead": "Lehti on Substackissa. Tämä verkkotunnus on perusta.",
+    "intro": "Pitkä muoto menee osoitteeseen <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Lyhyet julkiset leikkeet menevät ensin Blueskyyn, sitten muille aktiivisille alustoille. Tämä sivu ei paineta uudelleen syötettä.",
+    "priority": "Artikkelit kantavat menetelmää. Lyhyet viestit ovat pintaa. Jos kaksi eivät ole samaa mieltä, artikkeli voittaa.",
+    "live_heading": "Aktiiviset alustat kirjoittamiseen",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X:ää ei ole listattu. LinkedIniä ei käytetä luonnosalustana täällä."
+  },
+  "exams": {
+    "title": "Alustakokeet",
+    "page_title": "Alustakokeet — admin.education",
+    "description": "Palkkausalustan kokeet freelancer/vWorker-rekisteristä. Ei ministeriön tutkinto. Koulurekisteri pysyy menetelmässä.",
+    "h1": "Alustakokeet",
+    "lead": "Palkkausalustan käyttöliittymä merkitsee nämä sertifikaateiksi. Tässä verkkotunnuksessa ne pysyvät markkinakokeina. Ei ministeriön tutkinto. Ei tohtorintutkinto. Koulurekisteri pysyy menetelmässä.",
+    "source": "Freelancer.com / vWorker palkkausalustan rekisteri, kuten näkyy 19. syyskuuta 2026 kuvakaappauksissa. Alkuperäiset pienet SVG-merkit tällä sivulla. Eivät markkinoiden taideteoksia.",
+    "muted": "Koulurekisteri (Vukova-tutkinto, 11. kesäkuuta 1998) on eri objekti ja pysyy menetelmässä. Älä yhdistä kahta listaa.",
+    "note": "Kuka tahansa voi pyytää lähdettä ilmoitetulle tosiasialle. Jos myöhemmin tuotetaan virallinen Skillshop, Adobe tai Microsoft ID, se saa oman rivin. Nämä laatat eivät ole sitä.",
+    "exam_meta": "Koe. Palkkausalustan rekisteri: {stars} tähti.",
+    "exam_meta_plural": "Koe. Palkkausalustan rekisteri: {stars} tähteä.",
+    "orientation_meta": "Suuntautuminen. Palkkausalustan rekisteri: {stars} tähti.",
+    "membership_meta": "Jäsenyys. Jäsenyysmerkki. Ei tähteä laatassa."
+  },
+  "links": {
+    "title": "Linkit",
+    "page_title": "Linkit — admin.education",
+    "description": "Esillä olevat linkit admin.educationille. Bluesky, kirjoitus, lähde, yhteystiedot.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Järjestelmähallinto julkisena menetelmänä. Opetusalusta infrastruktuurille, sovelletulle AI-lukutaidolle ja mittaukselle. Tieto pysyy ilmaisena.",
+    "featured_label": "Esillä olevat linkit",
+    "link_method": "Menetelmä",
+    "link_method_desc": "Kuinka tämä verkkotunnus opettaa",
+    "link_exams": "Kokeet",
+    "link_exams_desc": "Palkkausalustan laatat, selitettynä",
+    "link_writing": "Kirjoitus",
+    "link_writing_desc": "Pitkä muoto Substackissa",
+    "link_source": "Lähde",
+    "link_source_desc": "Staattinen perusta GitHubissa",
+    "link_contact": "Yhteystiedot",
+    "link_contact_desc": "Kirjoita ensin. Ei numeroa täällä.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Yhteystiedot",
+    "page_title": "Yhteystiedot — admin.education",
+    "description": "Yhteydenottopolut admin.educationille. WhatsApp Business tai sähköposti.",
+    "h1": "Yhteystiedot",
+    "lead": "Ensisijainen polku: WhatsApp Business. Sähköposti varmuuskopioksi.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "Sähköposti:",
+    "email_also": "Tavoittaa myös mapkomah gmail.comissa",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber ja Telegram ovat samassa todellisessa toimistonumerossa. Näitä kanavia ei ole julkaistu. Cloaked on aliaksille vieraille ja lomakkeille, ei korvike tuolle toimistolle.",
+    "note": "Jos pyyntö on allekirjoitus, lisenssi tai rahaa, lue ensin asiakirja. Käytä aikaa. Kysy ennen allekirjoitusta, ei jälkeen."
+  }
+}

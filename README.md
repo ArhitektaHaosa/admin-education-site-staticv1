@@ -3,10 +3,11 @@
 Static spine for https://admin.education
 
 Snapshot date: 2026-09-21  
-Version: staticv1.6  
+Version: staticv1.7  
 No tracker. System UI stack. SVG wordmark. Optional local render for exams only.
 
-**Multilingual:** 16 locales with URL-prefix routing (`/en/`, `/sr/`, `/fr/`, etc.)
+**Multilingual:** 31 locales with URL-prefix routing (`/en/`, `/sr/`, `/fr/`, `/ar/`, etc.)  
+**SEO:** Full hreflang, canonical tags, sitemap.xml, robots.txt, JSON-LD structured data
 
 Read `OVERNIGHT.md` then `HANDOFF.md` before editing. Deploy: `DEPLOY.md`.
 
@@ -19,9 +20,9 @@ Read `OVERNIGHT.md` then `HANDOFF.md` before editing. Deploy: `DEPLOY.md`.
 - `links.html` Links
 - `contact.html` Contact
 
-## Multilingual (16 locales)
+## Multilingual (31 locales)
 
-Languages: English (en), Serbian Latin (sr), French (fr), German (de), Hindi (hi), Vietnamese (vi), Portuguese Brazil (pt-BR), Spanish (es), Japanese (ja), Korean (ko), Simplified Chinese (zh-CN), Russian (ru), Polish (pl), Italian (it), Dutch (nl), Turkish (tr).
+Languages: English (en), Serbian Latin (sr), French (fr), German (de), Hindi (hi), Vietnamese (vi), Portuguese Brazil (pt-BR), Spanish (es), Japanese (ja), Korean (ko), Simplified Chinese (zh-CN), Russian (ru), Polish (pl), Italian (it), Dutch (nl), Turkish (tr), Croatian (hr), Ukrainian (uk), Czech (cs), Slovak (sk), Romanian (ro), Hungarian (hu), Swedish (sv), Finnish (fi), Danish (da), Indonesian (id), Thai (th), Arabic RTL (ar), Traditional Chinese (zh-TW), Greek (el), Bengali (bn).
 
 **Build all locales:**
 
@@ -29,7 +30,15 @@ Languages: English (en), Serbian Latin (sr), French (fr), German (de), Hindi (hi
 node scripts/build-i18n.mjs
 ```
 
-Generates 96 HTML files (6 pages × 16 locales) in locale directories: `/en/`, `/sr/`, `/fr/`, etc.
+Generates 186 HTML files (6 pages × 31 locales) in locale directories: `/en/`, `/sr/`, `/fr/`, `/ar/`, etc.
+
+**Generate sitemap:**
+
+```
+node scripts/generate-sitemap.mjs
+```
+
+Creates sitemap.xml with all 186 URLs for Google indexing.
 
 **URL scheme:** Prefix-based routing. English: `/en/index.html`, Serbian: `/sr/index.html`, etc.
 
@@ -37,11 +46,11 @@ Generates 96 HTML files (6 pages × 16 locales) in locale directories: `/en/`, `
 
 **Strings:** `locales/{code}.json` files contain all UI text. Edit JSON, then rebuild.
 
-**To add a 17th language:**
+**To add a 32nd language:**
 1. Create `locales/XX.json` (copy `en.json` as template)
-2. Translate all strings, keep `lang_native` in native script
+2. Translate all strings, set `lang_native` in native script, set `lang_dir` to `"rtl"` for right-to-left languages
 3. Add `'XX'` to `LOCALES` array in `scripts/build-i18n.mjs`
-4. Run `node scripts/build-i18n.mjs`
+4. Run `node scripts/build-i18n.mjs` and `node scripts/generate-sitemap.mjs`
 
 ## Exams (easy to update)
 

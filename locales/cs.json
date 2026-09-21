@@ -1,0 +1,136 @@
+{
+  "locale": "cs",
+  "lang_native": "Čeština",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "znalosti jsou zdarma",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Domů",
+    "method": "Metoda",
+    "writing": "Psaní",
+    "exams": "Zkoušky",
+    "links": "Odkazy",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Veřejná metoda pro správu systémů a technologické vzdělávání. Znalosti zůstávají zdarma.",
+    "h1": "Správa systémů jako veřejná metoda.",
+    "lead": "admin.education je vzdělávací platforma. Není ministerstvo. Není obchod s kurzy. Není profil pro nabídky.",
+    "intro": "Práce je infrastruktura, aplikovaná AI gramotnost a měření. Znalosti zůstávají zdarma. Vlastnictví metody zůstává u operátora této domény.",
+    "what_heading": "Co tato stránka je",
+    "what_items": [
+      "Základ pro dlouhé texty a laboratorní poznámky.",
+      "Místo pro publikování metody bez prodeje víza, diplomu nebo zázraku.",
+      "Veřejný záznam, že operátor je správce systémů a educator, nikoli státní instituce."
+    ],
+    "what_not_heading": "Čím tato stránka není",
+    "what_not_items": [
+      "Není RateZip.com. Tento registr je zastaralá práce, 2007–2022.",
+      "Není freelancer.com/u/kerberus. Tato stránka je záznam o najímání z roku 2006.",
+      "Není koncertní promotér a není vypůjčený název alba.",
+      "Není doktorát. Zde není PhD. Diplomová práce zůstává nedokončená."
+    ],
+    "note": "Pokud věta nemůže být změřena nebo podložena zdrojem, nepatří do této domény."
+  },
+  "method": {
+    "title": "Metoda",
+    "page_title": "Metoda — admin.education",
+    "description": "Jak admin.education učí: nejprve měření, znalosti zdarma, pouze White Hat.",
+    "h1": "Metoda",
+    "lead": "Nejprve změř. Poté uč. Nevymýšlej titul, aby nesl větu.",
+    "rules_heading": "Pravidla, která zůstávají na stránce",
+    "rules_items": [
+      "Znalosti jsou zdarma. Není nutná návštěva. Pouze online.",
+      "Pouze White Hat. Příkazy jsou metafory na vašich strojích. Nic se neprovádí proti třetí straně.",
+      "Nejprve souhlas. Atribuce a reciprocita. Malé sdílené jádro, lokální projekt.",
+      "Školní záznam a platformové zkoušky zůstávají na dvou řádcích. Nejsou stejný objekt. Platformové zkoušky jsou na <a href=\"exams.html\">Zkoušky</a>.",
+      "Partnerská práce je označena ve větě, když jsou zapojeny peníze."
+    ],
+    "operator_heading": "Fakta o operátorovi použitá zde",
+    "operator_items": [
+      "Správce systémů od roku 2002. Nejprve Webmin, Virtualmin, CentOS. Pozdější stroje zahrnují Linode, Vercel, DigitalOcean.",
+      "Výchozí je self-hosting, když rychlost není priorita.",
+      "Educator v informatice, IT a AI. Nezávislý. Nikdy zaměstnaný srbskými státními institucemi.",
+      "Diplom Vukova, OŠ Nikola Tesla, Vinča, 11. června 1998. Předměty na tomto školním diplomu: angličtina, biologie, fyzika, matematika.",
+      "Bez doktorátu. Diplomová práce nedokončena. Poté práce na dálku pro kanadskou společnost."
+    ],
+    "muted": "Kdokoli může požádat o doplnění nebo zdroje pro uvedený fakt."
+  },
+  "writing": {
+    "title": "Psaní",
+    "page_title": "Psaní — admin.education",
+    "description": "Dlouhé formy psaní pro admin.education jsou na Substacku.",
+    "h1": "Psaní",
+    "lead": "Noviny jsou na Substacku. Tato doména je základ.",
+    "intro": "Dlouhé formy jdou na <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Krátké veřejné výstřižky jdou nejprve na Bluesky, poté na další aktivní platformy. Tato stránka nepřetiskuje feed.",
+    "priority": "Články nesou metodu. Krátké příspěvky jsou povrch. Pokud se obě neshodují, článek vyhrává.",
+    "live_heading": "Aktivní platformy pro psaní",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X není uvedeno. LinkedIn se nepoužívá jako platforma pro návrhy."
+  },
+  "exams": {
+    "title": "Platformové zkoušky",
+    "page_title": "Platformové zkoušky — admin.education",
+    "description": "Zkoušky platformy pro najímání ze záznamu freelancera/vWorkera. Není ministerský diplom. Školní záznam zůstává v Metodě.",
+    "h1": "Platformové zkoušky",
+    "lead": "Rozhraní platformy pro najímání to označuje jako Certifikace. Na této doméně zůstávají zkoušky trhu. Není ministerský diplom. Není doktorát. Školní záznam zůstává v Metodě.",
+    "source": "Záznam platformy pro najímání Freelancer.com / vWorker, jak je zobrazeno na screenshotech z 19. září 2026. Originální malé SVG značky na této stránce. Není umělecká díla trhu.",
+    "muted": "Školní záznam (diplom Vukova, 11. června 1998) je jiný objekt a zůstává v Metodě. Neslučujte dva seznamy.",
+    "note": "Kdokoli může požádat o zdroj pro uvedený fakt. Pokud je později vytvořeno oficiální Skillshop, Adobe nebo Microsoft ID, získá svůj řádek. Tyto dlaždice to nejsou.",
+    "exam_meta": "Zkouška. Záznam platformy pro najímání: {stars} hvězdička.",
+    "exam_meta_plural": "Zkouška. Záznam platformy pro najímání: {stars} hvězdičky.",
+    "orientation_meta": "Orientace. Záznam platformy pro najímání: {stars} hvězdička.",
+    "membership_meta": "Členství. Odznak členství. Žádná hvězdička na dlaždici."
+  },
+  "links": {
+    "title": "Odkazy",
+    "page_title": "Odkazy — admin.education",
+    "description": "Doporučené odkazy pro admin.education. Bluesky, psaní, zdroj, kontakt.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Správa systémů jako veřejná metoda. Vzdělávací platforma pro infrastrukturu, aplikovanou AI gramotnost a měření. Znalosti zůstávají zdarma.",
+    "featured_label": "Doporučené odkazy",
+    "link_method": "Metoda",
+    "link_method_desc": "Jak tato doména učí",
+    "link_exams": "Zkoušky",
+    "link_exams_desc": "Dlaždice platformy pro najímání, vysvětleno",
+    "link_writing": "Psaní",
+    "link_writing_desc": "Dlouhé formy na Substacku",
+    "link_source": "Zdroj",
+    "link_source_desc": "Statický základ na GitHubu",
+    "link_contact": "Kontakt",
+    "link_contact_desc": "Nejprve napište. Číslo zde není.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "page_title": "Kontakt — admin.education",
+    "description": "Kontaktní cesty pro admin.education. WhatsApp Business nebo email.",
+    "h1": "Kontakt",
+    "lead": "Primární cesta: WhatsApp Business. Email jako záloha.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "Email:",
+    "email_also": "Také dosahuje mapkomah na gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber a Telegram existují na stejném skutečném čísle stolu. Tyto kanály nejsou publikovány. Cloaked je pro pseudonymy pro cizince a formuláře, nikoli náhrada za ten stůl.",
+    "note": "Pokud je žádost podpis, licence nebo peníze, nejprve si přečtěte dokument. Věnujte čas. Ptejte se, než podepíšete, nikoli potom."
+  }
+}
