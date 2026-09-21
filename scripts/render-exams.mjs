@@ -21,6 +21,13 @@ function starsLine(stars) {
   return `Hire-platform record: ${stars} stars.`;
 }
 
+const qualityMax = 3;
+
+function qualityBadge(contentQuality) {
+  if (!contentQuality) return "";
+  return ` <span class="quality-tag">Content quality: ${contentQuality.score}/${qualityMax} (confidence ${contentQuality.confidence})</span>`;
+}
+
 function escapeXml(value) {
   return String(value).replace(/[&<>"']/g, (ch) => {
     if (ch === "&") return "&" + "amp;";
@@ -44,7 +51,7 @@ const cards = data.items
         <img class="exam-mark" src="img/certs/${item.slug}.svg" alt="" width="64" height="64">
         <div>
           <h2>${item.label}</h2>
-          <p class="exam-meta">${kind}. ${starsLine(item.stars)}</p>
+          <p class="exam-meta">${kind}. ${starsLine(item.stars)}${qualityBadge(item.contentQuality)}</p>
           <p>${item.what}</p>
           <p class="muted">${item.note}</p>
         </div>
@@ -90,7 +97,10 @@ ${cards}
 const xmlItems = data.items
   .map((item) => {
     const stars = item.stars == null ? "" : ` stars="${Number(item.stars)}"`;
-    return `  <item slug=${attr(item.slug)} kind=${attr(item.kind)}${stars}>
+    const quality = item.contentQuality
+      ? ` content-quality-score="${item.contentQuality.score}" content-quality-confidence="${item.contentQuality.confidence}"`
+      : "";
+    return `  <item slug=${attr(item.slug)} kind=${attr(item.kind)}${stars}${quality}>
     <label>${escapeXml(item.label)}</label>
     <what>${escapeXml(item.what)}</what>
     <note>${escapeXml(item.note)}</note>
