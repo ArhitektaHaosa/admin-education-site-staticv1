@@ -1,0 +1,136 @@
+{
+  "locale": "hu",
+  "lang_native": "Magyar",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "a tudás ingyenes",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Kezdőlap",
+    "method": "Módszer",
+    "writing": "Írás",
+    "exams": "Vizsgák",
+    "links": "Linkek",
+    "contact": "Kapcsolat"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Nyilvános módszer a rendszeradminisztrációhoz és technológiai oktatáshoz. A tudás ingyenes marad.",
+    "h1": "Rendszeradminisztráció mint nyilvános módszer.",
+    "lead": "Az admin.education egy oktatási felület. Nem minisztérium. Nem tanfolyambolt. Nem ajánlati profil.",
+    "intro": "A munka infrastruktúra, alkalmazott AI írástudás és mérés. A tudás ingyenes marad. A módszer tulajdonjoga ennél a domain üzemeltetőnél marad.",
+    "what_heading": "Mi ez az oldal",
+    "what_items": [
+      "Alap hosszú szövegekhez és labor jegyzetekhez.",
+      "Hely a módszer publikálásához vízum, diploma vagy csoda értékesítése nélkül.",
+      "Nyilvános feljegyzés, hogy az üzemeltető rendszeradminisztrátor és oktató, nem állami intézmény."
+    ],
+    "what_not_heading": "Mi nem ez az oldal",
+    "what_not_items": [
+      "Nem RateZip.com. Az a nyilvántartás elavult munka, 2007–2022.",
+      "Nem freelancer.com/u/kerberus. Az az oldal felvételi feljegyzés 2006-ból.",
+      "Nem koncertszervező és nem kölcsönzött albumcím.",
+      "Nem doktorátus. Nincs itt PhD. A diplomamunka befejezetlen marad."
+    ],
+    "note": "Ha egy mondat nem mérhető vagy nem támasztható alá forrással, nem tartozik ehhez a domainhez."
+  },
+  "method": {
+    "title": "Módszer",
+    "page_title": "Módszer — admin.education",
+    "description": "Hogyan tanít az admin.education: először mérés, ingyenes tudás, csak White Hat.",
+    "h1": "Módszer",
+    "lead": "Először mérj. Aztán taníts. Ne találj ki címet, hogy vigye a mondatot.",
+    "rules_heading": "Szabályok, amelyek az oldalon maradnak",
+    "rules_items": [
+      "A tudás ingyenes. Nem szükséges látogatás. Csak online.",
+      "Csak White Hat. A parancsok metaforák a saját gépeiden. Semmi sem fut harmadik fél ellen.",
+      "Először beleegyezés. Forrásmegjelölés és kölcsönösség. Kis közös mag, helyi projekt.",
+      "Az iskolai feljegyzés és a platform vizsgák két külön sorban maradnak. Nem ugyanaz az objektum. A platform vizsgák a <a href=\"exams.html\">Vizsgák</a> oldalon vannak.",
+      "A partner munka meg van jelölve a mondatban, amikor pénz is van."
+    ],
+    "operator_heading": "Itt használt üzemeltetői tények",
+    "operator_items": [
+      "Rendszeradminisztrátor 2002 óta. Először Webmin, Virtualmin, CentOS. Későbbi gépek: Linode, Vercel, DigitalOcean.",
+      "Alapértelmezés a saját hostolás, ha a sebesség nem prioritás.",
+      "Oktató informatikából, IT-ből és AI-ból. Független. Soha nem volt szerb állami intézmény alkalmazottja.",
+      "Vukova diploma, OŠ Nikola Tesla, Vinča, 1998. június 11. Az iskolai diplomán szereplő tantárgyak: angol, biológia, fizika, matematika.",
+      "Nincs doktorátus. A diplomamunka befejezetlen. Aztán távmunka egy kanadai cégnek."
+    ],
+    "muted": "Bárki kérhet kiegészítéseket vagy forrásokat egy megállapított tényhez."
+  },
+  "writing": {
+    "title": "Írás",
+    "page_title": "Írás — admin.education",
+    "description": "Az admin.education hosszú formájú írásai a Substackon vannak.",
+    "h1": "Írás",
+    "lead": "Az újság a Substackon van. Ez a domain az alap.",
+    "intro": "A hosszú formák a <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a> oldalra mennek. A rövid nyilvános kivágások először a Blueskyre mennek, aztán más élő felületekre. Ez az oldal nem nyomtat újra feedet.",
+    "priority": "A cikkek viszik a módszert. A rövid posztok felület. Ha a kettő nem egyezik, a cikk nyer.",
+    "live_heading": "Élő felületek az íráshoz",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "Az X nincs felsorolva. A LinkedIn nincs vázlatfelületként használva itt."
+  },
+  "exams": {
+    "title": "Platform vizsgák",
+    "page_title": "Platform vizsgák — admin.education",
+    "description": "Felvételi platform vizsgák a freelancer/vWorker feljegyzésből. Nem minisztériumi diploma. Az iskolai feljegyzés a Módszernél marad.",
+    "h1": "Platform vizsgák",
+    "lead": "A felvételi platform felülete ezeket Tanúsítványoknak címkézi. Ezen a domainen piaci vizsgák maradnak. Nem minisztériumi diploma. Nem doktorátus. Az iskolai feljegyzés a Módszernél marad.",
+    "source": "Freelancer.com / vWorker felvételi platform feljegyzés, ahogy a 2026. szeptember 19-i képernyőképeken látható. Eredeti kis SVG jelek ezen az oldalon. Nem a piaci műalkotások.",
+    "muted": "Az iskolai feljegyzés (Vukova diploma, 1998. június 11.) más objektum és a Módszernél marad. Ne egyesítsd a két listát.",
+    "note": "Bárki kérhet forrást egy megállapított tényhez. Ha később hivatalos Skillshop, Adobe vagy Microsoft ID készül, az saját sort kap. Ezek a csempék nem azok.",
+    "exam_meta": "Vizsga. Felvételi platform feljegyzés: {stars} csillag.",
+    "exam_meta_plural": "Vizsga. Felvételi platform feljegyzés: {stars} csillag.",
+    "orientation_meta": "Orientáció. Felvételi platform feljegyzés: {stars} csillag.",
+    "membership_meta": "Tagság. Tagsági jelvény. Nincs csillag a csempén."
+  },
+  "links": {
+    "title": "Linkek",
+    "page_title": "Linkek — admin.education",
+    "description": "Kiemelt linkek az admin.educationhez. Bluesky, írás, forrás, kapcsolat.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Rendszeradminisztráció mint nyilvános módszer. Oktatási felület infrastruktúrához, alkalmazott AI írástudáshoz és méréshez. A tudás ingyenes marad.",
+    "featured_label": "Kiemelt linkek",
+    "link_method": "Módszer",
+    "link_method_desc": "Hogyan tanít ez a domain",
+    "link_exams": "Vizsgák",
+    "link_exams_desc": "Felvételi platform csempék, magyarázva",
+    "link_writing": "Írás",
+    "link_writing_desc": "Hosszú formák a Substackon",
+    "link_source": "Forrás",
+    "link_source_desc": "Statikus alap a GitHubon",
+    "link_contact": "Kapcsolat",
+    "link_contact_desc": "Először írj. Nincs itt szám.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Kapcsolat",
+    "page_title": "Kapcsolat — admin.education",
+    "description": "Kapcsolati útvonalak az admin.educationhez. WhatsApp Business vagy email.",
+    "h1": "Kapcsolat",
+    "lead": "Elsődleges útvonal: WhatsApp Business. Email tartalékként.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "Email:",
+    "email_also": "A mapkomah gmail.com címet is eléri",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "A Viber és Telegram ugyanazon a valódi irodai számon léteznek. Ezek a csatornák nincsenek közzétéve. A Cloaked álnevek idegeneknek és űrlapoknak, nem helyettesítése annak az irodának.",
+    "note": "Ha a kérés aláírás, licenc vagy pénz, először olvasd el a dokumentumot. Szánj rá időt. Kérdezz, mielőtt aláírsz, nem utána."
+  }
+}

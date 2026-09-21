@@ -4,9 +4,11 @@
 
 Push to `main` rebuilds the public HTML and force-updates the `gh-pages` branch. No tracker. The workflow also confirms `exams.html` and `data/certs.xml` still match `data/certs.json`.
 
-**Multilingual structure:** The site now publishes 16 locale directories (`en/`, `sr/`, `fr/`, `de/`, `hi/`, `vi/`, `pt-BR/`, `es/`, `ja/`, `ko/`, `zh-CN/`, `ru/`, `pl/`, `it/`, `nl/`, `tr/`), each containing 6 pages.
+**Multilingual structure:** The site now publishes 31 locale directories (`en/`, `sr/`, `fr/`, `de/`, `hi/`, `vi/`, `pt-BR/`, `es/`, `ja/`, `ko/`, `zh-CN/`, `ru/`, `pl/`, `it/`, `nl/`, `tr/`, `hr/`, `uk/`, `cs/`, `sk/`, `ro/`, `hu/`, `sv/`, `fi/`, `da/`, `id/`, `th/`, `ar/`, `zh-TW/`, `el/`, `bn/`), each containing 6 pages.
 
-Published files: locale directories (`en/`, `sr/`, etc.), `css/`, `img/`, `js/`, `data/`, `locales/`, `VERSION`. Overnight notes and render scripts stay in git, not on the published root.
+**SEO structure:** Full hreflang tags, canonical tags, sitemap.xml (186 URLs), robots.txt, JSON-LD structured data.
+
+Published files: locale directories (31 total), `css/`, `img/`, `js/`, `data/`, `locales/`, `sitemap.xml`, `robots.txt`, `VERSION`. Overnight notes and render scripts stay in git, not on the published root.
 
 Live URL after Pages is serving the `gh-pages` branch:
 

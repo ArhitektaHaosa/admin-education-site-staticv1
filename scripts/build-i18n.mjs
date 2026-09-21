@@ -2,16 +2,23 @@
 /**
  * build-i18n.mjs
  * 
- * Generates localized HTML pages for all 16 language locales.
+ * Generates localized HTML pages for all 31 language locales.
  * 
  * Usage:
  *   node scripts/build-i18n.mjs
  * 
  * Output:
  *   - Root: en/ (English as default)
- *   - Locales: sr/, fr/, de/, hi/, vi/, pt-BR/, es/, ja/, ko/, zh-CN/, ru/, pl/, it/, nl/, tr/
+ *   - 30 additional locales: sr/, fr/, de/, hi/, vi/, pt-BR/, es/, ja/, ko/, zh-CN/, ru/, pl/, it/, nl/, tr/, 
+ *     hr/, uk/, cs/, sk/, ro/, hu/, sv/, fi/, da/, id/, th/, ar/, zh-TW/, el/, bn/
  * 
  * Each locale folder contains: index.html, method.html, writing.html, exams.html, links.html, contact.html
+ * 
+ * SEO Features:
+ *   - Full hreflang tags for all 31 locales + x-default
+ *   - Canonical tags on every page
+ *   - JSON-LD structured data on home pages
+ *   - RTL support for Arabic (ar) via dir="rtl"
  */
 
 import fs from 'fs';
@@ -26,8 +33,8 @@ const dataDir = path.join(rootDir, 'data');
 // Load certs data for exams page
 const certsData = JSON.parse(fs.readFileSync(path.join(dataDir, 'certs.json'), 'utf8'));
 
-// Define all locales
-const LOCALES = ['en', 'sr', 'fr', 'de', 'hi', 'vi', 'pt-BR', 'es', 'ja', 'ko', 'zh-CN', 'ru', 'pl', 'it', 'nl', 'tr'];
+// Define all locales (31 total)
+const LOCALES = ['en', 'sr', 'fr', 'de', 'hi', 'vi', 'pt-BR', 'es', 'ja', 'ko', 'zh-CN', 'ru', 'pl', 'it', 'nl', 'tr', 'hr', 'uk', 'cs', 'sk', 'ro', 'hu', 'sv', 'fi', 'da', 'id', 'th', 'ar', 'zh-TW', 'el', 'bn'];
 
 // Page names
 const PAGES = ['index', 'method', 'writing', 'exams', 'links', 'contact'];
@@ -52,7 +59,22 @@ function generateLanguageSwitcher(currentLocale, currentPage) {
     'pl': 'Polski',
     'it': 'Italiano',
     'nl': 'Nederlands',
-    'tr': 'Türkçe'
+    'tr': 'Türkçe',
+    'hr': 'Hrvatski',
+    'uk': 'Українська',
+    'cs': 'Čeština',
+    'sk': 'Slovenčina',
+    'ro': 'Română',
+    'hu': 'Magyar',
+    'sv': 'Svenska',
+    'fi': 'Suomi',
+    'da': 'Dansk',
+    'id': 'Indonesia',
+    'th': 'ไทย',
+    'ar': 'العربية',
+    'zh-TW': '繁體中文',
+    'el': 'Ελληνικά',
+    'bn': 'বাংলা'
   };
 
   const pageFileName = currentPage === 'index' ? 'index.html' : `${currentPage}.html`;
@@ -97,6 +119,36 @@ function generateHreflangTags(currentPage, domain = 'https://admin.education') {
 }
 
 /**
+ * Generate canonical tag
+ */
+function generateCanonicalTag(currentPage, locale, domain = 'https://admin.education') {
+  const pageFileName = currentPage === 'index' ? '' : `${currentPage}.html`;
+  return `  <link rel="canonical" href="${domain}/${locale}/${pageFileName}">\n`;
+}
+
+/**
+ * Generate JSON-LD structured data for home page
+ */
+function generateJsonLd(strings, locale, domain = 'https://admin.education') {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": strings.site.name,
+    "alternateName": strings.home.h1,
+    "url": `${domain}/${locale}/`,
+    "description": strings.home.description,
+    "inLanguage": locale,
+    "publisher": {
+      "@type": "Organization",
+      "name": strings.site.name,
+      "url": domain
+    }
+  };
+  
+  return `  <script type="application/ld+json">\n${JSON.stringify(jsonLd, null, 2)}\n  </script>\n`;
+}
+
+/**
  * Generate navigation HTML
  */
 function generateNav(strings, currentPage, locale) {
@@ -123,10 +175,13 @@ function generateNav(strings, currentPage, locale) {
 function generateIndexPage(strings, locale) {
   const langSwitcher = generateLanguageSwitcher(locale, 'index');
   const hreflangTags = generateHreflangTags('index');
+  const canonicalTag = generateCanonicalTag('index', locale);
+  const jsonLd = generateJsonLd(strings, locale);
   const nav = generateNav(strings, 'index', locale);
+  const dir = strings.lang_dir || 'ltr';
   
   return `<!DOCTYPE html>
-<html lang="${locale}">
+<html lang="${locale}" dir="${dir}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -135,7 +190,7 @@ function generateIndexPage(strings, locale) {
   <link rel="icon" href="../img/logo.svg" type="image/svg+xml">
   <link rel="preload" href="../css/site.css" as="style">
   <link rel="stylesheet" href="../css/site.css">
-${hreflangTags}</head>
+${canonicalTag}${hreflangTags}${jsonLd}</head>
 <body>
   <header class="site">
     <div class="wrap">
@@ -176,10 +231,12 @@ ${strings.home.what_not_items.map(item => `        <li>${item}</li>`).join('\n')
 function generateMethodPage(strings, locale) {
   const langSwitcher = generateLanguageSwitcher(locale, 'method');
   const hreflangTags = generateHreflangTags('method');
+  const canonicalTag = generateCanonicalTag('method', locale);
   const nav = generateNav(strings, 'method', locale);
+  const dir = strings.lang_dir || 'ltr';
   
   return `<!DOCTYPE html>
-<html lang="${locale}">
+<html lang="${locale}" dir="${dir}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -188,7 +245,7 @@ function generateMethodPage(strings, locale) {
   <link rel="icon" href="../img/logo.svg" type="image/svg+xml">
   <link rel="preload" href="../css/site.css" as="style">
   <link rel="stylesheet" href="../css/site.css">
-${hreflangTags}</head>
+${canonicalTag}${hreflangTags}</head>
 <body>
   <header class="site">
     <div class="wrap">
@@ -228,10 +285,12 @@ ${strings.method.operator_items.map(item => `        <li>${item}</li>`).join('\n
 function generateWritingPage(strings, locale) {
   const langSwitcher = generateLanguageSwitcher(locale, 'writing');
   const hreflangTags = generateHreflangTags('writing');
+  const canonicalTag = generateCanonicalTag('writing', locale);
   const nav = generateNav(strings, 'writing', locale);
+  const dir = strings.lang_dir || 'ltr';
   
   return `<!DOCTYPE html>
-<html lang="${locale}">
+<html lang="${locale}" dir="${dir}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -240,7 +299,7 @@ function generateWritingPage(strings, locale) {
   <link rel="icon" href="../img/logo.svg" type="image/svg+xml">
   <link rel="preload" href="../css/site.css" as="style">
   <link rel="stylesheet" href="../css/site.css">
-${hreflangTags}</head>
+${canonicalTag}${hreflangTags}</head>
 <body>
   <header class="site">
     <div class="wrap">
@@ -278,7 +337,9 @@ ${strings.writing.live_items.map(item => `        <li>${item}</li>`).join('\n')}
 function generateExamsPage(strings, locale) {
   const langSwitcher = generateLanguageSwitcher(locale, 'exams');
   const hreflangTags = generateHreflangTags('exams');
+  const canonicalTag = generateCanonicalTag('exams', locale);
   const nav = generateNav(strings, 'exams', locale);
+  const dir = strings.lang_dir || 'ltr';
   
   // Generate exam articles
   let examsHtml = '';
@@ -306,7 +367,7 @@ function generateExamsPage(strings, locale) {
   }
   
   return `<!DOCTYPE html>
-<html lang="${locale}">
+<html lang="${locale}" dir="${dir}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -315,7 +376,7 @@ function generateExamsPage(strings, locale) {
   <link rel="icon" href="../img/logo.svg" type="image/svg+xml">
   <link rel="preload" href="../css/site.css" as="style">
   <link rel="stylesheet" href="../css/site.css">
-${hreflangTags}</head>
+${canonicalTag}${hreflangTags}</head>
 <body>
   <header class="site">
     <div class="wrap">
@@ -349,10 +410,12 @@ ${examsHtml}      <p class="note">${strings.exams.note}</p>
 function generateLinksPage(strings, locale) {
   const langSwitcher = generateLanguageSwitcher(locale, 'links');
   const hreflangTags = generateHreflangTags('links');
+  const canonicalTag = generateCanonicalTag('links', locale);
   const nav = generateNav(strings, 'links', locale);
+  const dir = strings.lang_dir || 'ltr';
   
   return `<!DOCTYPE html>
-<html lang="${locale}">
+<html lang="${locale}" dir="${dir}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -361,7 +424,7 @@ function generateLinksPage(strings, locale) {
   <link rel="icon" href="../img/logo.svg" type="image/svg+xml">
   <link rel="preload" href="../css/site.css" as="style">
   <link rel="stylesheet" href="../css/site.css">
-${hreflangTags}</head>
+${canonicalTag}${hreflangTags}</head>
 <body>
   <header class="site">
     <div class="wrap">
@@ -406,10 +469,12 @@ ${nav}      </nav>
 function generateContactPage(strings, locale) {
   const langSwitcher = generateLanguageSwitcher(locale, 'contact');
   const hreflangTags = generateHreflangTags('contact');
+  const canonicalTag = generateCanonicalTag('contact', locale);
   const nav = generateNav(strings, 'contact', locale);
+  const dir = strings.lang_dir || 'ltr';
   
   return `<!DOCTYPE html>
-<html lang="${locale}">
+<html lang="${locale}" dir="${dir}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -418,7 +483,7 @@ function generateContactPage(strings, locale) {
   <link rel="icon" href="../img/logo.svg" type="image/svg+xml">
   <link rel="preload" href="../css/site.css" as="style">
   <link rel="stylesheet" href="../css/site.css">
-${hreflangTags}</head>
+${canonicalTag}${hreflangTags}</head>
 <body>
   <header class="site">
     <div class="wrap">
@@ -458,7 +523,7 @@ ${nav}      </nav>
  * Main build function
  */
 function buildAll() {
-  console.log('🌍 Building multilingual site for 16 locales...\n');
+  console.log('🌍 Building multilingual site for 31 locales...\n');
   
   for (const locale of LOCALES) {
     console.log(`📦 Building ${locale}...`);
@@ -491,12 +556,12 @@ function buildAll() {
     console.log(`   ✓ Generated 6 pages in /${locale}/`);
   }
   
-  console.log(`\n✅ Build complete! Generated ${LOCALES.length * 6} HTML files across 16 locales.`);
+  console.log(`\n✅ Build complete! Generated ${LOCALES.length * 6} HTML files across 31 locales.`);
   console.log(`\nLocales: ${LOCALES.join(', ')}`);
   console.log('\nNext steps:');
   console.log('  1. Run build to verify: node scripts/build-i18n.mjs');
   console.log('  2. Test locally: open en/index.html in browser');
-  console.log('  3. Add lang-switcher.js for interactive language picker');
+  console.log('  3. Generate sitemap.xml and robots.txt for SEO');
 }
 
 // Run the build

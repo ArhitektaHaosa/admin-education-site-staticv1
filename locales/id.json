@@ -1,0 +1,136 @@
+{
+  "locale": "id",
+  "lang_native": "Indonesia",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "pengetahuan gratis",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Beranda",
+    "method": "Metode",
+    "writing": "Tulisan",
+    "exams": "Ujian",
+    "links": "Tautan",
+    "contact": "Kontak"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Metode publik untuk administrasi sistem dan pendidikan teknologi. Pengetahuan tetap gratis.",
+    "h1": "Administrasi sistem sebagai metode publik.",
+    "lead": "admin.education adalah platform pengajaran. Bukan kementerian. Bukan toko kursus. Bukan profil penawaran.",
+    "intro": "Pekerjaan adalah infrastruktur, literasi AI terapan, dan pengukuran. Pengetahuan tetap gratis. Kepemilikan metode tetap pada operator domain ini.",
+    "what_heading": "Apa itu situs ini",
+    "what_items": [
+      "Basis untuk teks panjang dan catatan laboratorium.",
+      "Tempat untuk menerbitkan metode tanpa menjual visa, ijazah, atau keajaiban.",
+      "Catatan publik bahwa operator adalah administrator sistem dan pendidik, bukan institusi negara."
+    ],
+    "what_not_heading": "Apa yang bukan situs ini",
+    "what_not_items": [
+      "Bukan RateZip.com. Catatan itu adalah karya usang, 2007–2022.",
+      "Bukan freelancer.com/u/kerberus. Halaman itu adalah catatan perekrutan dari 2006.",
+      "Bukan promotor konser dan bukan judul album pinjaman.",
+      "Bukan gelar doktor. Tidak ada PhD di sini. Tesis diploma tetap belum selesai."
+    ],
+    "note": "Jika kalimat tidak dapat diukur atau bersumber, itu tidak termasuk dalam domain ini."
+  },
+  "method": {
+    "title": "Metode",
+    "page_title": "Metode — admin.education",
+    "description": "Bagaimana admin.education mengajar: pengukuran dulu, pengetahuan gratis, hanya White Hat.",
+    "h1": "Metode",
+    "lead": "Ukur dulu. Ajar kemudian. Jangan ciptakan gelar untuk membawa kalimat.",
+    "rules_heading": "Aturan yang tetap di halaman",
+    "rules_items": [
+      "Pengetahuan gratis. Tidak perlu kunjungan. Hanya online.",
+      "Hanya White Hat. Perintah adalah metafora di mesin Anda sendiri. Tidak ada yang dieksekusi terhadap pihak ketiga.",
+      "Persetujuan dulu. Atribusi dan resiprokal. Inti bersama kecil, proyek lokal.",
+      "Catatan sekolah dan ujian platform tetap di dua baris. Mereka bukan objek yang sama. Ujian platform ada di <a href=\"exams.html\">Ujian</a>.",
+      "Pekerjaan afiliasi ditandai dalam kalimat ketika uang terlibat."
+    ],
+    "operator_heading": "Fakta operator yang digunakan di sini",
+    "operator_items": [
+      "Administrator sistem sejak 2002. Pertama Webmin, Virtualmin, CentOS. Mesin selanjutnya termasuk Linode, Vercel, DigitalOcean.",
+      "Default adalah self-hosting ketika kecepatan bukan prioritas.",
+      "Pendidik dalam informatika, IT, dan AI. Independen. Tidak pernah dipekerjakan oleh institusi negara Serbia.",
+      "Diploma Vukova, OŠ Nikola Tesla, Vinča, 11 Juni 1998. Mata pelajaran di diploma sekolah itu: bahasa Inggris, biologi, fisika, matematika.",
+      "Tidak ada gelar doktor. Tesis diploma belum selesai. Kemudian kerja jarak jauh untuk perusahaan Kanada."
+    ],
+    "muted": "Siapa pun dapat meminta tambahan atau sumber untuk fakta yang dinyatakan."
+  },
+  "writing": {
+    "title": "Tulisan",
+    "page_title": "Tulisan — admin.education",
+    "description": "Tulisan bentuk panjang untuk admin.education ada di Substack.",
+    "h1": "Tulisan",
+    "lead": "Kertas ada di Substack. Domain ini adalah tulang punggung.",
+    "intro": "Bentuk panjang pergi ke <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Potongan publik pendek pergi ke Bluesky dulu, kemudian permukaan aktif lainnya. Situs ini tidak mencetak ulang umpan.",
+    "priority": "Artikel membawa metode. Posting pendek adalah permukaan. Jika keduanya tidak setuju, artikel menang.",
+    "live_heading": "Permukaan aktif untuk menulis",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X tidak terdaftar. LinkedIn tidak digunakan sebagai permukaan draft di sini."
+  },
+  "exams": {
+    "title": "Ujian platform",
+    "page_title": "Ujian platform — admin.education",
+    "description": "Ujian platform perekrutan dari catatan freelancer/vWorker. Bukan ijazah kementerian. Catatan sekolah tetap di Metode.",
+    "h1": "Ujian platform",
+    "lead": "Antarmuka platform perekrutan melabeli ini sebagai Sertifikasi. Di domain ini mereka tetap ujian pasar. Bukan ijazah kementerian. Bukan gelar doktor. Catatan sekolah tetap di Metode.",
+    "source": "Catatan platform perekrutan Freelancer.com / vWorker, seperti ditunjukkan pada tangkapan layar 19 September 2026. Tanda SVG kecil asli di halaman ini. Bukan karya seni pasar.",
+    "muted": "Catatan sekolah (diploma Vukova, 11 Juni 1998) adalah objek yang berbeda dan tetap di Metode. Jangan gabungkan kedua daftar.",
+    "note": "Siapa pun dapat meminta sumber untuk fakta yang dinyatakan. Jika ID Skillshop, Adobe, atau Microsoft resmi diproduksi kemudian, itu mendapat barisnya sendiri. Ubin ini bukan itu.",
+    "exam_meta": "Ujian. Catatan platform perekrutan: {stars} bintang.",
+    "exam_meta_plural": "Ujian. Catatan platform perekrutan: {stars} bintang.",
+    "orientation_meta": "Orientasi. Catatan platform perekrutan: {stars} bintang.",
+    "membership_meta": "Keanggotaan. Lencana keanggotaan. Tidak ada bintang di ubin."
+  },
+  "links": {
+    "title": "Tautan",
+    "page_title": "Tautan — admin.education",
+    "description": "Tautan unggulan untuk admin.education. Bluesky, tulisan, sumber, kontak.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Administrasi sistem sebagai metode publik. Platform pengajaran untuk infrastruktur, literasi AI terapan, dan pengukuran. Pengetahuan tetap gratis.",
+    "featured_label": "Tautan unggulan",
+    "link_method": "Metode",
+    "link_method_desc": "Bagaimana domain ini mengajar",
+    "link_exams": "Ujian",
+    "link_exams_desc": "Ubin platform perekrutan, dijelaskan",
+    "link_writing": "Tulisan",
+    "link_writing_desc": "Bentuk panjang di Substack",
+    "link_source": "Sumber",
+    "link_source_desc": "Tulang punggung statis di GitHub",
+    "link_contact": "Kontak",
+    "link_contact_desc": "Tulis dulu. Tidak ada nomor di sini.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Kontak",
+    "page_title": "Kontak — admin.education",
+    "description": "Jalur kontak untuk admin.education. WhatsApp Business atau email.",
+    "h1": "Kontak",
+    "lead": "Jalur utama: WhatsApp Business. Email sebagai cadangan.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "Email:",
+    "email_also": "Juga mencapai mapkomah di gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber dan Telegram ada di nomor meja nyata yang sama. Saluran itu tidak dipublikasikan. Cloaked untuk alias ke orang asing dan formulir, bukan pengganti untuk meja itu.",
+    "note": "Jika permintaan adalah tanda tangan, lisensi, atau uang, baca dokumen dulu. Luangkan waktu. Tanya sebelum Anda menandatangani, bukan setelah."
+  }
+}

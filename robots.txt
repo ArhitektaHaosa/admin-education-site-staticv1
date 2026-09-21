@@ -1,0 +1,46 @@
+# robots.txt for admin.education
+# Static multilingual site - 31 locales
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://admin.education/sitemap.xml
+
+# Allow all locale directories
+Allow: /en/
+Allow: /sr/
+Allow: /fr/
+Allow: /de/
+Allow: /hi/
+Allow: /vi/
+Allow: /pt-BR/
+Allow: /es/
+Allow: /ja/
+Allow: /ko/
+Allow: /zh-CN/
+Allow: /ru/
+Allow: /pl/
+Allow: /it/
+Allow: /nl/
+Allow: /tr/
+Allow: /hr/
+Allow: /uk/
+Allow: /cs/
+Allow: /sk/
+Allow: /ro/
+Allow: /hu/
+Allow: /sv/
+Allow: /fi/
+Allow: /da/
+Allow: /id/
+Allow: /th/
+Allow: /ar/
+Allow: /zh-TW/
+Allow: /el/
+Allow: /bn/
+
+# Static assets
+Allow: /css/
+Allow: /img/
+Allow: /js/
