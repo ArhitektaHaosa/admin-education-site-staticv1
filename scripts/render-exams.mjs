@@ -60,12 +60,13 @@ const html = `<!DOCTYPE html>
   <title>Platform exams — admin.education</title>
   <meta name="description" content="Hire-platform exams from a freelancer/vWorker record. Not a ministry diploma. School record stays on Method.">
   <link rel="icon" href="img/logo.svg" type="image/svg+xml">
+  <link rel="preload" href="css/site.css" as="style">
   <link rel="stylesheet" href="css/site.css">
 </head>
 <body>
   <header class="site">
     <div class="wrap">
-      <a class="brand" href="index.html"><img src="img/wordmark.svg" alt="admin.education"></a>
+      <a class="brand" href="index.html"><img src="img/wordmark.svg" alt="admin.education" width="336" height="64"></a>
 ${nav}
     </div>
   </header>
