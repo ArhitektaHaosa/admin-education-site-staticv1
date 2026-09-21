@@ -1,0 +1,125 @@
+{
+  "locale": "nl",
+  "lang_native": "Nederlands",
+  "lang_dir": "ltr",
+  "site": {"name": "admin.education", "tagline": "kennis is gratis", "year": "2026"},
+  "nav": {"home": "Home", "method": "Methode", "writing": "Schrijven", "exams": "Examens", "links": "Links", "contact": "Contact"},
+  "home": {
+    "title": "admin.education",
+    "description": "Publieke methode voor systeembeheer en technologisch onderwijs. Kennis blijft gratis.",
+    "h1": "Systeembeheer als publieke methode.",
+    "lead": "admin.education is een onderwijsoppervlak. Geen ministerie. Geen cursuswinkel. Geen biedprofiel.",
+    "intro": "Het werk is infrastructuur, toegepaste AI-geletterdheid en meting. Kennis blijft gratis. Eigendom van de methode blijft bij de operator van dit domein.",
+    "what_heading": "Wat deze site is",
+    "what_items": [
+      "Een ruggengraat voor lange teksten en labnotities.",
+      "Een plek om methode te publiceren zonder een visum, diploma of wonder te verkopen.",
+      "Een openbaar record dat de operator systeembeheerder en opvoeder is, geen staatsinstelling."
+    ],
+    "what_not_heading": "Wat deze site niet is",
+    "what_not_items": [
+      "Niet RateZip.com. Dat grootboek is gedateerd werk, 2007 tot 2022.",
+      "Niet freelancer.com/u/kerberus. Die pagina is een aanwervingsrecord van 2006.",
+      "Geen concertpromotor en geen geleende albumtitel.",
+      "Geen doctoraat. Er is hier geen PhD. Het diplomathesis blijft onvoltooid."
+    ],
+    "note": "Als een zin niet gemeten of onderbouwd kan worden, hoort deze niet op dit domein."
+  },
+  "method": {
+    "title": "Methode",
+    "page_title": "Methode — admin.education",
+    "description": "Hoe admin.education onderwijst: eerst meten, gratis kennis, alleen White Hat.",
+    "h1": "Methode",
+    "lead": "Meet eerst. Onderwijs daarna. Verzin geen titel om de zin te dragen.",
+    "rules_heading": "Regels die op de pagina blijven",
+    "rules_items": [
+      "Kennis is gratis. Geen bezoek vereist. Alleen online.",
+      "Alleen White Hat. Commando's zijn metaforen op uw eigen machines. Niets wordt uitgevoerd tegen derden.",
+      "Eerst toestemming. Attributie en wederkerigheid. Kleine gedeelde kern, lokaal project.",
+      "Schoolrecord en platformexamens blijven op twee regels. Ze zijn niet hetzelfde object. Platformexamens leven op <a href=\"exams.html\">Examens</a>.",
+      "Affiliate-werk wordt in de zin gemarkeerd wanneer geld betrokken is."
+    ],
+    "operator_heading": "Hier gebruikte operatorfeiten",
+    "operator_items": [
+      "Systeembeheerder sinds 2002. Eerst Webmin, Virtualmin, CentOS. Latere machines omvatten Linode, Vercel, DigitalOcean.",
+      "Standaard is zelfhosting wanneer snelheid geen prioriteit is.",
+      "Opvoeder in informatica, IT en AI. Onafhankelijk. Nooit in dienst van Servische staatsinstellingen.",
+      "Vukova-diploma, OŠ Nikola Tesla, Vinča, 11 juni 1998. Vakken op dat schooldiploma: Engels, biologie, natuurkunde, wiskunde.",
+      "Geen doctoraat. Diplomathesis onvoltooid. Daarna werk op afstand voor een Canadees bedrijf."
+    ],
+    "muted": "Iedereen kan om toevoegingen of bronnen vragen over een verklaard feit."
+  },
+  "writing": {
+    "title": "Schrijven",
+    "page_title": "Schrijven — admin.education",
+    "description": "Lange teksten voor admin.education leven op Substack.",
+    "h1": "Schrijven",
+    "lead": "Het papier is op Substack. Dit domein is de ruggengraat.",
+    "intro": "Lange vorm gaat naar <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Korte publieke knipsels gaan eerst naar Bluesky, dan naar de andere actieve oppervlakken. Deze site herprint geen feed.",
+    "priority": "Artikelen dragen de methode. Korte berichten zijn oppervlak. Als de twee het niet eens zijn, wint het artikel.",
+    "live_heading": "Actieve oppervlakken gebruikt voor schrijven",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X staat niet vermeld. LinkedIn wordt hier niet als conceptoppervlak gebruikt."
+  },
+  "exams": {
+    "title": "Platformexamens",
+    "page_title": "Platformexamens — admin.education",
+    "description": "Hire-platformexamens van freelancer/vWorker-record. Geen ministerieel diploma. Schoolrecord blijft op Methode.",
+    "h1": "Platformexamens",
+    "lead": "De Hire-platform UI noemt deze certificeringen. Op dit domein blijven ze marktexamens. Geen ministerieel diploma. Geen doctoraat. Schoolrecord blijft op Methode.",
+    "source": "Freelancer.com / vWorker Hire-platformrecord, zoals getoond op screenshots van 19 september 2026. Originele kleine SVG-merken op deze pagina. Niet de marktillustraties.",
+    "muted": "Schoolrecord (Vukova-diploma, 11 juni 1998) is een ander object en blijft op Methode. Voeg de twee lijsten niet samen.",
+    "note": "Iedereen kan om een bron vragen voor een verklaard feit. Als later een officiële Skillshop, Adobe of Microsoft ID wordt geproduceerd, krijgt het een eigen regel. Deze tegels zijn dat niet.",
+    "exam_meta": "Examen. Hire-platformrecord: {stars} ster.",
+    "exam_meta_plural": "Examen. Hire-platformrecord: {stars} sterren.",
+    "orientation_meta": "Oriëntatie. Hire-platformrecord: {stars} ster.",
+    "membership_meta": "Lidmaatschap. Lidmaatschapsbadge. Geen ster op de tegel."
+  },
+  "links": {
+    "title": "Links",
+    "page_title": "Links — admin.education",
+    "description": "Aanbevolen links voor admin.education. Bluesky, schrijven, bron, contact.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Systeembeheer als publieke methode. Onderwijsoppervlak voor infrastructuur, toegepaste AI-geletterdheid en meting. Kennis blijft gratis.",
+    "featured_label": "Aanbevolen links",
+    "link_method": "Methode",
+    "link_method_desc": "Hoe dit domein onderwijst",
+    "link_exams": "Examens",
+    "link_exams_desc": "Hire-platformtegels, uitgelegd",
+    "link_writing": "Schrijven",
+    "link_writing_desc": "Lange vorm op Substack",
+    "link_source": "Bron",
+    "link_source_desc": "Statische ruggengraat op GitHub",
+    "link_contact": "Contact",
+    "link_contact_desc": "Schrijf eerst. Geen nummer hier.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Contact",
+    "page_title": "Contact — admin.education",
+    "description": "Contactpaden voor admin.education. WhatsApp Business of email.",
+    "h1": "Contact",
+    "lead": "Hoofdpad: WhatsApp Business. Email als back-up.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "Email:",
+    "email_also": "Bereikt ook mapkomah at gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber en Telegram bestaan op hetzelfde echte-nummerbur bureau. Die kanalen zijn niet gepubliceerd. Cloaked is voor aliassen voor vreemden en formulieren, geen vervanging voor dat bureau.",
+    "note": "Als het verzoek een handtekening, een licentie of geld is, lees dan eerst het document. Neem de tijd. Vraag voor ondertekening, niet na."
+  }
+}

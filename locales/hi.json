@@ -1,0 +1,136 @@
+{
+  "locale": "hi",
+  "lang_native": "हिन्दी",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "ज्ञान निःशुल्क है",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "होम",
+    "method": "विधि",
+    "writing": "लेखन",
+    "exams": "परीक्षाएं",
+    "links": "लिंक",
+    "contact": "संपर्क"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "सिस्टम प्रशासन और प्रौद्योगिकी शिक्षा के लिए सार्वजनिक विधि। ज्ञान निःशुल्क रहता है।",
+    "h1": "सार्वजनिक विधि के रूप में सिस्टम प्रशासन।",
+    "lead": "admin.education एक शिक्षण सतह है। मंत्रालय नहीं। पाठ्यक्रम स्टोर नहीं। बोली प्रोफ़ाइल नहीं।",
+    "intro": "काम बुनियादी ढांचा, व्यावहारिक AI साक्षरता और माप है। ज्ञान निःशुल्क रहता है। विधि का स्वामित्व इस डोमेन के संचालक के पास रहता है।",
+    "what_heading": "यह साइट क्या है",
+    "what_items": [
+      "लंबे-रूप लेखन और प्रयोगशाला नोट्स के लिए रीढ़।",
+      "वीजा, डिप्लोमा या चमत्कार बेचे बिना विधि प्रकाशित करने का स्थान।",
+      "एक सार्वजनिक रिकॉर्ड कि संचालक एक सिस्टम प्रशासक और शिक्षक है, राज्य संस्थान नहीं।"
+    ],
+    "what_not_heading": "यह साइट क्या नहीं है",
+    "what_not_items": [
+      "RateZip.com नहीं। वह खाता पुराना काम है, 2007 से 2022।",
+      "freelancer.com/u/kerberus नहीं। वह पृष्ठ 2006 से एक नियुक्ति रिकॉर्ड है।",
+      "कॉन्सर्ट प्रमोटर नहीं और उधार ली गई एल्बम शीर्षक नहीं।",
+      "डॉक्टरेट नहीं। यहां कोई PhD नहीं है। डिप्लोमा थीसिस अधूरी रहती है।"
+    ],
+    "note": "यदि किसी वाक्य को मापा या स्रोत नहीं किया जा सकता, तो वह इस डोमेन पर नहीं है।"
+  },
+  "method": {
+    "title": "विधि",
+    "page_title": "विधि — admin.education",
+    "description": "admin.education कैसे सिखाता है: पहले माप, निःशुल्क ज्ञान, केवल White Hat।",
+    "h1": "विधि",
+    "lead": "पहले मापें। दूसरा सिखाएं। वाक्य को ले जाने के लिए शीर्षक का आविष्कार न करें।",
+    "rules_heading": "पृष्ठ पर रहने वाले नियम",
+    "rules_items": [
+      "ज्ञान निःशुल्क है। कोई यात्रा आवश्यक नहीं। केवल ऑनलाइन।",
+      "केवल White Hat। आदेश आपकी अपनी मशीनों पर रूपक हैं। किसी तीसरे पक्ष के खिलाफ कुछ भी निष्पादित नहीं किया जाता।",
+      "पहले सहमति। विशेषता और पारस्परिकता। छोटा साझा कोर, स्थानीय परियोजना।",
+      "स्कूल रिकॉर्ड और प्लेटफॉर्म परीक्षाएं दो पंक्तियों पर रहती हैं। वे एक ही वस्तु नहीं हैं। प्लेटफॉर्म परीक्षाएं <a href=\"exams.html\">परीक्षाएं</a> पर रहती हैं।",
+      "सहयोगी कार्य को वाक्य में चिह्नित किया जाता है जब पैसा शामिल होता है।"
+    ],
+    "operator_heading": "यहां उपयोग किए गए संचालक तथ्य",
+    "operator_items": [
+      "2002 से सिस्टम प्रशासक। पहले Webmin, Virtualmin, CentOS। बाद की मशीनों में Linode, Vercel, DigitalOcean शामिल हैं।",
+      "डिफ़ॉल्ट सेल्फ-होस्ट है जब गति प्राथमिकता नहीं है।",
+      "सूचना विज्ञान, IT और AI में शिक्षक। स्वतंत्र। कभी सर्बियाई राज्य संस्थानों द्वारा नियोजित नहीं।",
+      "Vukova डिप्लोमा, OŠ Nikola Tesla, Vinča, 11 जून 1998। उस स्कूल डिप्लोमा पर विषय: अंग्रेजी, जीव विज्ञान, भौतिकी, गणित।",
+      "कोई डॉक्टरेट नहीं। डिप्लोमा थीसिस अधूरी। फिर एक कनाडाई कंपनी के लिए दूरस्थ कार्य।"
+    ],
+    "muted": "कोई भी एक कहे गए तथ्य पर जोड़ या स्रोत के लिए पूछ सकता है।"
+  },
+  "writing": {
+    "title": "लेखन",
+    "page_title": "लेखन — admin.education",
+    "description": "admin.education के लिए लंबे-रूप लेखन Substack पर रहता है।",
+    "h1": "लेखन",
+    "lead": "कागज Substack पर है। यह डोमेन रीढ़ है।",
+    "intro": "लंबा रूप <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a> पर जाता है। छोटे सार्वजनिक कटौती पहले Bluesky पर जाते हैं, फिर अन्य सक्रिय सतहों पर। यह साइट फ़ीड को पुनर्मुद्रण नहीं करती।",
+    "priority": "लेख विधि को ले जाते हैं। छोटी पोस्ट सतह हैं। यदि दोनों असहमत हैं, तो लेख जीतता है।",
+    "live_heading": "लेखन के लिए उपयोग की जाने वाली सक्रिय सतहें",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X सूचीबद्ध नहीं है। LinkedIn यहां ड्राफ्ट सतह के रूप में उपयोग नहीं किया जाता है।"
+  },
+  "exams": {
+    "title": "प्लेटफॉर्म परीक्षाएं",
+    "page_title": "प्लेटफॉर्म परीक्षाएं — admin.education",
+    "description": "freelancer/vWorker रिकॉर्ड से Hire-प्लेटफॉर्म परीक्षाएं। मंत्रालय डिप्लोमा नहीं। स्कूल रिकॉर्ड विधि पर रहता है।",
+    "h1": "प्लेटफॉर्म परीक्षाएं",
+    "lead": "Hire-प्लेटफॉर्म UI इन्हें प्रमाणपत्र कहता है। इस डोमेन पर वे बाजार परीक्षाएं रहती हैं। मंत्रालय डिप्लोमा नहीं। डॉक्टरेट नहीं। स्कूल रिकॉर्ड विधि पर रहता है।",
+    "source": "Freelancer.com / vWorker Hire-प्लेटफॉर्म रिकॉर्ड, जैसा कि 19 सितंबर 2026 स्क्रीनशॉट पर दिखाया गया है। इस पृष्ठ पर मूल छोटे SVG चिह्न। बाजार कलाकृति नहीं।",
+    "muted": "स्कूल रिकॉर्ड (Vukova डिप्लोमा, 11 जून 1998) एक अलग वस्तु है और विधि पर रहता है। दोनों सूचियों को मर्ज न करें।",
+    "note": "कोई भी एक कहे गए तथ्य के लिए स्रोत पूछ सकता है। यदि बाद में आधिकारिक Skillshop, Adobe या Microsoft ID प्रस्तुत की जाती है, तो इसे अपनी पंक्ति मिलती है। ये टाइल वह नहीं हैं।",
+    "exam_meta": "परीक्षा। Hire-प्लेटफॉर्म रिकॉर्ड: {stars} स्टार।",
+    "exam_meta_plural": "परीक्षा। Hire-प्लेटफॉर्म रिकॉर्ड: {stars} स्टार।",
+    "orientation_meta": "अभिविन्यास। Hire-प्लेटफॉर्म रिकॉर्ड: {stars} स्टार।",
+    "membership_meta": "सदस्यता। सदस्यता बैज। टाइल पर कोई स्टार नहीं।"
+  },
+  "links": {
+    "title": "लिंक",
+    "page_title": "लिंक — admin.education",
+    "description": "admin.education के लिए फीचर्ड लिंक। Bluesky, लेखन, स्रोत, संपर्क।",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "सार्वजनिक विधि के रूप में सिस्टम प्रशासन। बुनियादी ढांचे, व्यावहारिक AI साक्षरता और माप के लिए शिक्षण सतह। ज्ञान निःशुल्क रहता है।",
+    "featured_label": "फीचर्ड लिंक",
+    "link_method": "विधि",
+    "link_method_desc": "यह डोमेन कैसे सिखाता है",
+    "link_exams": "परीक्षाएं",
+    "link_exams_desc": "Hire-प्लेटफॉर्म टाइलें, समझाया गया",
+    "link_writing": "लेखन",
+    "link_writing_desc": "Substack पर लंबा रूप",
+    "link_source": "स्रोत",
+    "link_source_desc": "GitHub पर स्टैटिक रीढ़",
+    "link_contact": "संपर्क",
+    "link_contact_desc": "पहले लिखें। यहां कोई नंबर नहीं।",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "संपर्क",
+    "page_title": "संपर्क — admin.education",
+    "description": "admin.education के लिए संपर्क पथ। WhatsApp Business या ईमेल।",
+    "h1": "संपर्क",
+    "lead": "प्राथमिक पथ: WhatsApp Business। बैकअप के रूप में ईमेल।",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "ईमेल:",
+    "email_also": "mapkomah at gmail.com तक भी पहुंचता है",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber और Telegram उसी वास्तविक-संख्या डेस्क पर मौजूद हैं। वे चैनल प्रकाशित नहीं हैं। Cloaked अजनबियों और फॉर्म के लिए उपनामों के लिए है, उस डेस्क के लिए प्रतिस्थापन नहीं।",
+    "note": "यदि पूछना हस्ताक्षर, लाइसेंस या पैसा है, तो पहले दस्तावेज़ पढ़ें। समय लें। हस्ताक्षर करने से पहले पूछें, बाद में नहीं।"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "locale": "vi",
+  "lang_native": "Tiếng Việt",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "kiến thức miễn phí",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "method": "Phương pháp",
+    "writing": "Viết lách",
+    "exams": "Kỳ thi",
+    "links": "Liên kết",
+    "contact": "Liên hệ"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Phương pháp công khai cho quản trị hệ thống và giáo dục công nghệ. Kiến thức vẫn miễn phí.",
+    "h1": "Quản trị hệ thống như một phương pháp công khai.",
+    "lead": "admin.education là bề mặt giảng dạy. Không phải bộ. Không phải cửa hàng khóa học. Không phải hồ sơ đấu thầu.",
+    "intro": "Công việc là cơ sở hạ tầng, hiểu biết về AI ứng dụng và đo lường. Kiến thức vẫn miễn phí. Quyền sở hữu phương pháp thuộc về nhà điều hành tên miền này.",
+    "what_heading": "Trang web này là gì",
+    "what_items": [
+      "Xương sống cho viết dài và ghi chú phòng thí nghiệm.",
+      "Nơi công bố phương pháp mà không bán thị thực, bằng cấp hoặc phép màu.",
+      "Hồ sơ công khai rằng nhà điều hành là quản trị viên hệ thống và giáo viên, không phải tổ chức nhà nước."
+    ],
+    "what_not_heading": "Trang web này không phải là gì",
+    "what_not_items": [
+      "Không phải RateZip.com. Sổ cái đó là công việc cũ, 2007 đến 2022.",
+      "Không phải freelancer.com/u/kerberus. Trang đó là hồ sơ thuê từ 2006.",
+      "Không phải người quảng bá hòa nhạc và không phải tên album mượn.",
+      "Không phải tiến sĩ. Không có PhD ở đây. Luận án tốt nghiệp vẫn chưa hoàn thành."
+    ],
+    "note": "Nếu một câu không thể đo lường hoặc có nguồn, nó không thuộc về tên miền này."
+  },
+  "method": {
+    "title": "Phương pháp",
+    "page_title": "Phương pháp — admin.education",
+    "description": "Cách admin.education giảng dạy: đo lường trước, kiến thức miễn phí, chỉ White Hat.",
+    "h1": "Phương pháp",
+    "lead": "Đo lường trước. Giảng dạy sau. Đừng phát minh ra chức danh để mang câu.",
+    "rules_heading": "Quy tắc ở lại trên trang",
+    "rules_items": [
+      "Kiến thức miễn phí. Không cần ghé thăm. Chỉ trực tuyến.",
+      "Chỉ White Hat. Lệnh là ẩn dụ trên máy của riêng bạn. Không có gì được thực thi chống lại bên thứ ba.",
+      "Đồng ý trước. Ghi công và tương hỗ. Nhân nhỏ được chia sẻ, dự án địa phương.",
+      "Hồ sơ trường học và kỳ thi nền tảng ở hai dòng. Chúng không phải là cùng một đối tượng. Kỳ thi nền tảng sống trên <a href=\"exams.html\">Kỳ thi</a>.",
+      "Công việc liên kết được đánh dấu trong câu khi có tiền liên quan."
+    ],
+    "operator_heading": "Sự thật về nhà điều hành được sử dụng ở đây",
+    "operator_items": [
+      "Quản trị viên hệ thống từ 2002. Đầu tiên là Webmin, Virtualmin, CentOS. Máy sau bao gồm Linode, Vercel, DigitalOcean.",
+      "Mặc định là tự lưu trữ khi tốc độ không phải là ưu tiên.",
+      "Giáo viên về tin học, IT và AI. Độc lập. Không bao giờ được thuê bởi các tổ chức nhà nước Serbia.",
+      "Bằng Vukova, OŠ Nikola Tesla, Vinča, ngày 11 tháng 6 năm 1998. Các môn học trên bằng tốt nghiệp trường đó: tiếng Anh, sinh học, vật lý, toán học.",
+      "Không có tiến sĩ. Luận án tốt nghiệp chưa hoàn thành. Sau đó làm việc từ xa cho một công ty Canada."
+    ],
+    "muted": "Bất kỳ ai cũng có thể yêu cầu bổ sung hoặc nguồn về một sự thật được nêu."
+  },
+  "writing": {
+    "title": "Viết lách",
+    "page_title": "Viết lách — admin.education",
+    "description": "Viết dài cho admin.education sống trên Substack.",
+    "h1": "Viết lách",
+    "lead": "Giấy trên Substack. Tên miền này là xương sống.",
+    "intro": "Dạng dài đi đến <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Cắt công khai ngắn đi đến Bluesky trước, sau đó các bề mặt hoạt động khác. Trang web này không in lại nguồn cấp dữ liệu.",
+    "priority": "Bài viết mang phương pháp. Bài đăng ngắn là bề mặt. Nếu hai không đồng ý, bài viết thắng.",
+    "live_heading": "Bề mặt hoạt động được sử dụng để viết",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X không được liệt kê. LinkedIn không được sử dụng làm bề mặt nháp ở đây."
+  },
+  "exams": {
+    "title": "Kỳ thi nền tảng",
+    "page_title": "Kỳ thi nền tảng — admin.education",
+    "description": "Kỳ thi nền tảng thuê từ hồ sơ freelancer/vWorker. Không phải bằng bộ. Hồ sơ trường học ở Phương pháp.",
+    "h1": "Kỳ thi nền tảng",
+    "lead": "UI nền tảng thuê gọi đây là chứng chỉ. Trên tên miền này chúng vẫn là kỳ thi thị trường. Không phải bằng bộ. Không phải tiến sĩ. Hồ sơ trường học ở Phương pháp.",
+    "source": "Hồ sơ nền tảng thuê Freelancer.com / vWorker, như được hiển thị trên ảnh chụp màn hình ngày 19 tháng 9 năm 2026. Dấu SVG nhỏ gốc trên trang này. Không phải tác phẩm nghệ thuật thị trường.",
+    "muted": "Hồ sơ trường học (bằng Vukova, ngày 11 tháng 6 năm 1998) là đối tượng khác và ở Phương pháp. Đừng hợp nhất hai danh sách.",
+    "note": "Bất kỳ ai cũng có thể yêu cầu nguồn cho một sự thật được nêu. Nếu một ID chính thức Skillshop, Adobe hoặc Microsoft sau đó được sản xuất, nó nhận được dòng riêng. Các ô này không phải như vậy.",
+    "exam_meta": "Kỳ thi. Hồ sơ nền tảng thuê: {stars} sao.",
+    "exam_meta_plural": "Kỳ thi. Hồ sơ nền tảng thuê: {stars} sao.",
+    "orientation_meta": "Định hướng. Hồ sơ nền tảng thuê: {stars} sao.",
+    "membership_meta": "Thành viên. Huy hiệu thành viên. Không có sao trên ô."
+  },
+  "links": {
+    "title": "Liên kết",
+    "page_title": "Liên kết — admin.education",
+    "description": "Liên kết nổi bật cho admin.education. Bluesky, viết, nguồn, liên hệ.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Quản trị hệ thống như một phương pháp công khai. Bề mặt giảng dạy cho cơ sở hạ tầng, hiểu biết về AI ứng dụng và đo lường. Kiến thức vẫn miễn phí.",
+    "featured_label": "Liên kết nổi bật",
+    "link_method": "Phương pháp",
+    "link_method_desc": "Cách tên miền này giảng dạy",
+    "link_exams": "Kỳ thi",
+    "link_exams_desc": "Ô nền tảng thuê, được giải thích",
+    "link_writing": "Viết lách",
+    "link_writing_desc": "Dạng dài trên Substack",
+    "link_source": "Nguồn",
+    "link_source_desc": "Xương sống tĩnh trên GitHub",
+    "link_contact": "Liên hệ",
+    "link_contact_desc": "Viết trước. Không có số ở đây.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "page_title": "Liên hệ — admin.education",
+    "description": "Đường dẫn liên hệ cho admin.education. WhatsApp Business hoặc email.",
+    "h1": "Liên hệ",
+    "lead": "Đường chính: WhatsApp Business. Email là dự phòng.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "Email:",
+    "email_also": "Cũng tiếp cận mapkomah at gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber và Telegram tồn tại trên cùng một bàn số thực. Các kênh đó không được công bố. Cloaked là để bí danh cho người lạ và biểu mẫu, không phải thay thế cho bàn đó.",
+    "note": "Nếu yêu cầu là chữ ký, giấy phép hoặc tiền, hãy đọc tài liệu trước. Dành thời gian. Hỏi trước khi ký, không phải sau."
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "locale": "ja",
+  "lang_native": "日本語",
+  "lang_dir": "ltr",
+  "site": {"name": "admin.education", "tagline": "知識は無料", "year": "2026"},
+  "nav": {"home": "ホーム", "method": "メソッド", "writing": "執筆", "exams": "試験", "links": "リンク", "contact": "お問い合わせ"},
+  "home": {
+    "title": "admin.education",
+    "description": "システム管理と技術教育のための公開メソッド。知識は無料のままです。",
+    "h1": "公開メソッドとしてのシステム管理。",
+    "lead": "admin.educationは教育サーフェスです。省庁ではありません。コースストアではありません。入札プロフィールではありません。",
+    "intro": "仕事はインフラストラクチャ、応用AIリテラシー、測定です。知識は無料のままです。メソッドの所有権はこのドメインの運営者にあります。",
+    "what_heading": "このサイトとは",
+    "what_items": [
+      "長文執筆とラボノートのためのバックボーン。",
+      "ビザ、学位、奇跡を売ることなくメソッドを公開する場所。",
+      "運営者がシステム管理者であり教育者であることの公開記録。国家機関ではありません。"
+    ],
+    "what_not_heading": "このサイトでないもの",
+    "what_not_items": [
+      "RateZip.comではありません。その台帳は2007年から2022年までの古い仕事です。",
+      "freelancer.com/u/kerberusではありません。そのページは2006年からの雇用記録です。",
+      "コンサートプロモーターでもなく、借用されたアルバムタイトルでもありません。",
+      "博士号ではありません。ここにPhDはありません。卒業論文は未完成のままです。"
+    ],
+    "note": "文が測定または出典できない場合、このドメインには属しません。"
+  },
+  "method": {
+    "title": "メソッド",
+    "page_title": "メソッド — admin.education",
+    "description": "admin.educationの教え方：最初に測定、無料の知識、White Hatのみ。",
+    "h1": "メソッド",
+    "lead": "最初に測定する。次に教える。文を運ぶためのタイトルを発明しないでください。",
+    "rules_heading": "ページに残るルール",
+    "rules_items": [
+      "知識は無料です。訪問は不要です。オンラインのみ。",
+      "White Hatのみ。コマンドは自分のマシン上のメタファーです。第三者に対して何も実行されません。",
+      "最初に同意。帰属と相互性。小さな共有コア、ローカルプロジェクト。",
+      "学校記録とプラットフォーム試験は2行に残ります。同じオブジェクトではありません。プラットフォーム試験は<a href=\"exams.html\">試験</a>にあります。",
+      "お金が関係する場合、アフィリエイト作業は文中にマークされます。"
+    ],
+    "operator_heading": "ここで使用される運営者の事実",
+    "operator_items": [
+      "2002年からシステム管理者。最初はWebmin、Virtualmin、CentOS。後のマシンにはLinode、Vercel、DigitalOceanが含まれます。",
+      "速度が優先事項でない場合、デフォルトはセルフホストです。",
+      "情報学、IT、AIの教育者。独立しています。セルビア国家機関に雇用されたことはありません。",
+      "Vukova卒業証書、OŠ Nikola Tesla、Vinča、1998年6月11日。その学校卒業証書の科目：英語、生物学、物理学、数学。",
+      "博士号なし。卒業論文未完成。その後カナダの会社でリモートワーク。"
+    ],
+    "muted": "誰でも述べられた事実に対する追加または出典を求めることができます。"
+  },
+  "writing": {
+    "title": "執筆",
+    "page_title": "執筆 — admin.education",
+    "description": "admin.educationの長文執筆はSubstackにあります。",
+    "h1": "執筆",
+    "lead": "紙はSubstackにあります。このドメインはバックボーンです。",
+    "intro": "長文形式は<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>に行きます。短い公開カットは最初にBlueSkyに、次に他のアクティブなサーフェスに行きます。このサイトはフィードを再印刷しません。",
+    "priority": "記事はメソッドを運びます。短い投稿はサーフェスです。両者が一致しない場合、記事が勝ちます。",
+    "live_heading": "執筆に使用されるアクティブなサーフェス",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "Xはリストされていません。LinkedInはここではドラフトサーフェスとして使用されていません。"
+  },
+  "exams": {
+    "title": "プラットフォーム試験",
+    "page_title": "プラットフォーム試験 — admin.education",
+    "description": "freelancer/vWorker記録からのHire-プラットフォーム試験。省庁の卒業証書ではありません。学校記録はメソッドに残ります。",
+    "h1": "プラットフォーム試験",
+    "lead": "Hire-プラットフォームUIはこれらを認定と呼んでいます。このドメインではマーケットプレイス試験のままです。省庁の卒業証書ではありません。博士号ではありません。学校記録はメソッドに残ります。",
+    "source": "Freelancer.com / vWorker Hire-プラットフォーム記録、2026年9月19日のスクリーンショットに示されています。このページのオリジナルの小さなSVGマーク。マーケットプレイスのアートワークではありません。",
+    "muted": "学校記録（Vukova卒業証書、1998年6月11日）は別のオブジェクトでありメソッドに残ります。2つのリストをマージしないでください。",
+    "note": "誰でも述べられた事実の出典を求めることができます。後で公式のSkillshop、Adobe、またはMicrosoft IDが提出された場合、独自の行を取得します。これらのタイルはそうではありません。",
+    "exam_meta": "試験。Hire-プラットフォーム記録：{stars}つ星。",
+    "exam_meta_plural": "試験。Hire-プラットフォーム記録：{stars}つ星。",
+    "orientation_meta": "オリエンテーション。Hire-プラットフォーム記録：{stars}つ星。",
+    "membership_meta": "メンバーシップ。メンバーシップバッジ。タイルに星はありません。"
+  },
+  "links": {
+    "title": "リンク",
+    "page_title": "リンク — admin.education",
+    "description": "admin.educationの注目リンク。Bluesky、執筆、ソース、お問い合わせ。",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "公開メソッドとしてのシステム管理。インフラストラクチャ、応用AIリテラシー、測定のための教育サーフェス。知識は無料のままです。",
+    "featured_label": "注目リンク",
+    "link_method": "メソッド",
+    "link_method_desc": "このドメインの教え方",
+    "link_exams": "試験",
+    "link_exams_desc": "Hire-プラットフォームタイル、説明済み",
+    "link_writing": "執筆",
+    "link_writing_desc": "Substackでの長文形式",
+    "link_source": "ソース",
+    "link_source_desc": "GitHubでの静的バックボーン",
+    "link_contact": "お問い合わせ",
+    "link_contact_desc": "最初に書いてください。ここに番号はありません。",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "page_title": "お問い合わせ — admin.education",
+    "description": "admin.educationの連絡先パス。WhatsApp Businessまたはメール。",
+    "h1": "お問い合わせ",
+    "lead": "主要パス：WhatsApp Business。バックアップとしてのメール。",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "メール:",
+    "email_also": "mapkomah at gmail.comにも到達します",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "ViberとTelegramは同じ実番号デスクに存在します。これらのチャネルは公開されていません。Cloakedは見知らぬ人やフォームへのエイリアス用であり、そのデスクの置き換えではありません。",
+    "note": "要求が署名、ライセンス、またはお金の場合は、最初に文書を読んでください。時間をかけてください。署名する前に尋ねてください。後ではありません。"
+  }
+}

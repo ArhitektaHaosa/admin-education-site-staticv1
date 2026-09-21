@@ -1,0 +1,136 @@
+{
+  "locale": "sr",
+  "lang_native": "Srpski",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "znanje je besplatno",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Početna",
+    "method": "Metod",
+    "writing": "Pisanje",
+    "exams": "Ispiti",
+    "links": "Linkovi",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Javna metoda za administraciju sistema i tehnološko obrazovanje. Znanje ostaje besplatno.",
+    "h1": "Administracija sistema kao javna metoda.",
+    "lead": "admin.education je površina za učenje. Nije ministarstvo. Nije prodavnica kurseva. Nije profil za ponude.",
+    "intro": "Rad je infrastruktura, primenjena AI pismenost i merenje. Znanje ostaje besplatno. Vlasništvo nad metodom ostaje kod operatera ovog domena.",
+    "what_heading": "Šta je ova stranica",
+    "what_items": [
+      "Osnova za dugačke tekstove i laboratorijske beleške.",
+      "Mesto za objavljivanje metode bez prodaje vize, diplome ili čuda.",
+      "Javna evidencija da je operater administrator sistema i edukator, a ne državna institucija."
+    ],
+    "what_not_heading": "Šta ova stranica nije",
+    "what_not_items": [
+      "Nije RateZip.com. Ta knjiga je zastareli rad, 2007–2022.",
+      "Nije freelancer.com/u/kerberus. Ta stranica je evidencija angažovanja od 2006.",
+      "Nije promoter koncerata i nije pozajmljen naslov albuma.",
+      "Nije doktorat. Ovde nema PhD. Diplomski rad ostaje nezavršen."
+    ],
+    "note": "Ako rečenica ne može da se izmeri ili potkrepljuje izvorom, ne pripada na ovaj domen."
+  },
+  "method": {
+    "title": "Metod",
+    "page_title": "Metod — admin.education",
+    "description": "Kako admin.education predaje: prvo merenje, besplatno znanje, samo White Hat.",
+    "h1": "Metod",
+    "lead": "Prvo meri. Drugo predaj. Nemoj izmišljati titulu da nosi rečenicu.",
+    "rules_heading": "Pravila koja ostaju na stranici",
+    "rules_items": [
+      "Znanje je besplatno. Nije potrebna poseta. Samo online.",
+      "Samo White Hat. Komande su metafore na vašim mašinama. Ništa se ne izvršava protiv treće strane.",
+      "Prvo pristanak. Atribucija i reciprocitet. Mali deljeni jezgro, lokalni projekat.",
+      "Školska evidencija i ispiti platforme ostaju na dve linije. Nisu isti objekat. Ispiti platforme se nalaze na <a href=\"exams.html\">Ispiti</a>.",
+      "Partnerski rad je označen u rečenici kada je u pitanju novac."
+    ],
+    "operator_heading": "Činjenice o operateru korišćene ovde",
+    "operator_items": [
+      "Administrator sistema od 2002. Prvi Webmin, Virtualmin, CentOS. Kasnija okruženja uključuju Linode, Vercel, DigitalOcean.",
+      "Podrazumevano je samo-hostovanje kada brzina nije prioritet.",
+      "Edukator iz informatike, IT-a i veštačke inteligencije. Nezavisan. Nikada zaposlen u srpskim državnim institucijama.",
+      "Vukova diploma, OŠ Nikola Tesla, Vinča, 11. juni 1998. Predmeti na toj školskoj diplomi: engleski, biologija, fizika, matematika.",
+      "Nema doktorata. Diplomski rad nezavršen. Zatim rad na daljinu za kanadsku kompaniju."
+    ],
+    "muted": "Svako može da pita za dopune ili izvore za navedenu činjenicu."
+  },
+  "writing": {
+    "title": "Pisanje",
+    "page_title": "Pisanje — admin.education",
+    "description": "Dugački tekstovi za admin.education žive na Substack-u.",
+    "h1": "Pisanje",
+    "lead": "Papir je na Substack-u. Ovaj domen je osnova.",
+    "intro": "Duge forme idu na <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Kratki javni isečci idu prvo na Bluesky, zatim na druge aktivne površine. Ovaj sajt ne štampa feed.",
+    "priority": "Članci nose metod. Kratke objave su površina. Ako se raziđu, članak pobeđuje.",
+    "live_heading": "Aktivne površine korišćene za pisanje",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X nije naveden. LinkedIn se ne koristi kao površina za nacrt ovde."
+  },
+  "exams": {
+    "title": "Ispiti platforme",
+    "page_title": "Ispiti platforme — admin.education",
+    "description": "Ispiti platforme za angažovanje sa freelancer/vWorker evidencije. Nije ministarstvo diploma. Školska evidencija ostaje na Metodu.",
+    "h1": "Ispiti platforme",
+    "lead": "UI platforme za angažovanje ih naziva sertifikacije. Na ovom domenu ostaju ispiti tržišta. Nije državna diploma. Nije doktorat. Školska evidencija ostaje na Metodu.",
+    "source": "Freelancer.com / vWorker evidencija platforme za angažovanje, kao što je prikazano na snimcima ekrana od 19. septembra 2026. Originalni mali SVG znakovi na ovoj stranici. Ne artwork tržišta.",
+    "muted": "Školska evidencija (Vukova diploma, 11. juni 1998.) je različit objekat i ostaje na Metodu. Ne spajajte dve liste.",
+    "note": "Svako može da pita za izvor navedene činjenice. Ako se kasnije proizvede zvanični Skillshop, Adobe ili Microsoft ID, dobija svoju liniju. Ove pločice nisu to.",
+    "exam_meta": "Ispit. Evidencija platforme za angažovanje: {stars} zvezdica.",
+    "exam_meta_plural": "Ispit. Evidencija platforme za angažovanje: {stars} zvezdice.",
+    "orientation_meta": "Orijentacija. Evidencija platforme za angažovanje: {stars} zvezdica.",
+    "membership_meta": "Članstvo. Znak članstva. Nema zvezdice na pločici."
+  },
+  "links": {
+    "title": "Linkovi",
+    "page_title": "Linkovi — admin.education",
+    "description": "Istaknuti linkovi za admin.education. Bluesky, pisanje, izvor, kontakt.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Administracija sistema kao javna metoda. Površina za učenje o infrastrukturi, primenjenoj AI pismenosti i merenju. Znanje ostaje besplatno.",
+    "featured_label": "Istaknuti linkovi",
+    "link_method": "Metod",
+    "link_method_desc": "Kako ovaj domen predaje",
+    "link_exams": "Ispiti",
+    "link_exams_desc": "Pločice platforme za angažovanje, objašnjene",
+    "link_writing": "Pisanje",
+    "link_writing_desc": "Duge forme na Substack-u",
+    "link_source": "Izvor",
+    "link_source_desc": "Statična osnova na GitHub-u",
+    "link_contact": "Kontakt",
+    "link_contact_desc": "Prvo pišite. Nema broja ovde.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "page_title": "Kontakt — admin.education",
+    "description": "Putevi kontakta za admin.education. WhatsApp Business ili email.",
+    "h1": "Kontakt",
+    "lead": "Primarni put: WhatsApp Business. Email kao rezerva.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "Email:",
+    "email_also": "Takođe doseže mapkomah at gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber i Telegram postoje na istom real-number stolu. Ti kanali nisu objavljeni. Cloaked je za pseudonime strancima i formulare, a ne zamena za taj sto.",
+    "note": "Ako je u pitanju potpis, licenca ili novac, prvo pročitajte dokument. Izdvojite vreme. Pitajte pre nego što potpišete, a ne posle."
+  }
+}

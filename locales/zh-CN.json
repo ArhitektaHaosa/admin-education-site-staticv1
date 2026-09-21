@@ -1,0 +1,125 @@
+{
+  "locale": "zh-CN",
+  "lang_native": "简体中文",
+  "lang_dir": "ltr",
+  "site": {"name": "admin.education", "tagline": "知识是免费的", "year": "2026"},
+  "nav": {"home": "首页", "method": "方法", "writing": "写作", "exams": "考试", "links": "链接", "contact": "联系方式"},
+  "home": {
+    "title": "admin.education",
+    "description": "系统管理和技术教育的公开方法。知识保持免费。",
+    "h1": "作为公开方法的系统管理。",
+    "lead": "admin.education 是教学平台。不是部委。不是课程商店。不是投标资料。",
+    "intro": "工作是基础设施、应用 AI 素养和测量。知识保持免费。方法的所有权属于该域的运营者。",
+    "what_heading": "本网站是什么",
+    "what_items": [
+      "长篇写作和实验室笔记的支柱。",
+      "在不出售签证、文凭或奇迹的情况下发布方法的地方。",
+      "运营者是系统管理员和教育者而非国家机构的公开记录。"
+    ],
+    "what_not_heading": "本网站不是什么",
+    "what_not_items": [
+      "不是 RateZip.com。那个账本是过时的工作，2007 年至 2022 年。",
+      "不是 freelancer.com/u/kerberus。那个页面是 2006 年的雇佣记录。",
+      "不是音乐会推广人，也不是借用的专辑标题。",
+      "不是博士学位。这里没有 PhD。毕业论文仍未完成。"
+    ],
+    "note": "如果一个句子无法衡量或引用，它不属于这个域。"
+  },
+  "method": {
+    "title": "方法",
+    "page_title": "方法 — admin.education",
+    "description": "admin.education 如何教学：首先测量、免费知识、仅 White Hat。",
+    "h1": "方法",
+    "lead": "首先测量。然后教学。不要发明标题来承载句子。",
+    "rules_heading": "保留在页面上的规则",
+    "rules_items": [
+      "知识是免费的。无需访问。仅在线。",
+      "仅 White Hat。命令是您自己机器上的隐喻。不对第三方执行任何操作。",
+      "首先同意。归属和互惠。小型共享核心，本地项目。",
+      "学校记录和平台考试保留在两行。它们不是同一个对象。平台考试位于<a href=\"exams.html\">考试</a>。",
+      "当涉及金钱时，联属工作在句子中标记。"
+    ],
+    "operator_heading": "此处使用的运营者事实",
+    "operator_items": [
+      "自 2002 年起担任系统管理员。首先是 Webmin、Virtualmin、CentOS。后来的机器包括 Linode、Vercel、DigitalOcean。",
+      "当速度不是优先事项时，默认为自托管。",
+      "信息学、IT 和 AI 的教育者。独立。从未受雇于塞尔维亚国家机构。",
+      "Vukova 文凭，OŠ Nikola Tesla，Vinča，1998 年 6 月 11 日。该学校文凭的科目：英语、生物学、物理学、数学。",
+      "没有博士学位。毕业论文未完成。然后为加拿大公司远程工作。"
+    ],
+    "muted": "任何人都可以要求对所述事实进行补充或引用。"
+  },
+  "writing": {
+    "title": "写作",
+    "page_title": "写作 — admin.education",
+    "description": "admin.education 的长篇写作位于 Substack。",
+    "h1": "写作",
+    "lead": "文章在 Substack。该域是支柱。",
+    "intro": "长格式转到 <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>。简短的公开剪辑首先转到 Bluesky，然后转到其他活跃平台。本网站不重印 feed。",
+    "priority": "文章承载方法。简短帖子是平台。如果两者不一致，文章获胜。",
+    "live_heading": "用于写作的活跃平台",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X 未列出。LinkedIn 在此不用作草稿平台。"
+  },
+  "exams": {
+    "title": "平台考试",
+    "page_title": "平台考试 — admin.education",
+    "description": "来自 freelancer/vWorker 记录的 Hire-平台考试。不是部委文凭。学校记录保留在方法中。",
+    "h1": "平台考试",
+    "lead": "Hire-平台 UI 将这些称为认证。在此域上，它们保持市场考试。不是部委文凭。不是博士学位。学校记录保留在方法中。",
+    "source": "Freelancer.com / vWorker Hire-平台记录，如 2026 年 9 月 19 日屏幕截图所示。此页面上的原始小型 SVG 标记。不是市场插图。",
+    "muted": "学校记录（Vukova 文凭，1998 年 6 月 11 日）是不同的对象并保留在方法中。不要合并两个列表。",
+    "note": "任何人都可以要求所述事实的引用。如果稍后生成官方 Skillshop、Adobe 或 Microsoft ID，它将获得自己的行。这些图块不是。",
+    "exam_meta": "考试。Hire-平台记录：{stars} 颗星。",
+    "exam_meta_plural": "考试。Hire-平台记录：{stars} 颗星。",
+    "orientation_meta": "导向。Hire-平台记录：{stars} 颗星。",
+    "membership_meta": "会员资格。会员徽章。图块上没有星。"
+  },
+  "links": {
+    "title": "链接",
+    "page_title": "链接 — admin.education",
+    "description": "admin.education 的特色链接。Bluesky、写作、来源、联系方式。",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "作为公开方法的系统管理。基础设施、应用 AI 素养和测量的教学平台。知识保持免费。",
+    "featured_label": "特色链接",
+    "link_method": "方法",
+    "link_method_desc": "该域如何教学",
+    "link_exams": "考试",
+    "link_exams_desc": "Hire-平台图块，已解释",
+    "link_writing": "写作",
+    "link_writing_desc": "Substack 上的长格式",
+    "link_source": "来源",
+    "link_source_desc": "GitHub 上的静态支柱",
+    "link_contact": "联系方式",
+    "link_contact_desc": "首先写信。这里没有号码。",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "联系方式",
+    "page_title": "联系方式 — admin.education",
+    "description": "admin.education 的联系路径。WhatsApp Business 或电子邮件。",
+    "h1": "联系方式",
+    "lead": "主要路径：WhatsApp Business。电子邮件作为备份。",
+    "whatsapp_label": "WhatsApp Business：",
+    "email_label": "电子邮件：",
+    "email_also": "也可联系 mapkomah at gmail.com",
+    "bluesky_label": "Bluesky：",
+    "instagram_label": "Instagram：",
+    "facebook_label": "Facebook：",
+    "substack_label": "Substack：",
+    "other_channels": "Viber 和 Telegram 存在于同一真实号码桌面上。这些频道未发布。Cloaked 用于陌生人和表单的别名，而不是该桌面的替代品。",
+    "note": "如果请求是签名、许可证或金钱，请先阅读文档。花时间。在签名之前询问，而不是之后。"
+  }
+}

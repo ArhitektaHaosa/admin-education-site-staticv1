@@ -4,7 +4,9 @@
 
 Push to `main` rebuilds the public HTML and force-updates the `gh-pages` branch. No tracker. The workflow also confirms `exams.html` and `data/certs.xml` still match `data/certs.json`.
 
-Published files: `index.html`, `method.html`, `writing.html`, `exams.html`, `links.html`, `contact.html`, `css/`, `img/`, `VERSION`. Overnight notes and render scripts stay in git, not on the published root.
+**Multilingual structure:** The site now publishes 16 locale directories (`en/`, `sr/`, `fr/`, `de/`, `hi/`, `vi/`, `pt-BR/`, `es/`, `ja/`, `ko/`, `zh-CN/`, `ru/`, `pl/`, `it/`, `nl/`, `tr/`), each containing 6 pages.
+
+Published files: locale directories (`en/`, `sr/`, etc.), `css/`, `img/`, `js/`, `data/`, `locales/`, `VERSION`. Overnight notes and render scripts stay in git, not on the published root.
 
 Live URL after Pages is serving the `gh-pages` branch:
 
@@ -22,8 +24,21 @@ The site is optimized for **Linode + Cloud Panel** with nginx as the primary pro
 - Create site in Cloud Panel (Static HTML)
 - Enable SSL/TLS with Let's Encrypt
 - Apply nginx performance directives from `deploy/cloudpanel/nginx-performance.conf`
-- Deploy public HTML/CSS/SVG files via SFTP or rsync
+- Deploy public files via SFTP or rsync: all locale directories (`en/`, `sr/`, etc.), `css/`, `img/`, `js/`
 - Expected performance: 95-100 Lighthouse score with gzip, long cache headers, and security headers
+
+**Multilingual nginx config:**
+Add to nginx vhost for locale routing (recommended but optional):
+
+```nginx
+# Redirect root to English locale (or detect from Accept-Language header)
+location = / {
+    return 302 /en/index.html;
+}
+
+# Optional: Auto-detect preferred language from browser
+# (requires nginx_accept_language module or lua)
+```
 
 The Cloud Panel configuration enables gzip compression, optimized caching, HTTP/2, and security headers for maximum speed on a self-hosted VPS.
 

@@ -3,8 +3,10 @@
 Static spine for https://admin.education
 
 Snapshot date: 2026-09-21  
-Version: staticv1.3  
+Version: staticv1.6  
 No tracker. System UI stack. SVG wordmark. Optional local render for exams only.
+
+**Multilingual:** 16 locales with URL-prefix routing (`/en/`, `/sr/`, `/fr/`, etc.)
 
 Read `OVERNIGHT.md` then `HANDOFF.md` before editing. Deploy: `DEPLOY.md`.
 
@@ -17,6 +19,30 @@ Read `OVERNIGHT.md` then `HANDOFF.md` before editing. Deploy: `DEPLOY.md`.
 - `links.html` Links
 - `contact.html` Contact
 
+## Multilingual (16 locales)
+
+Languages: English (en), Serbian Latin (sr), French (fr), German (de), Hindi (hi), Vietnamese (vi), Portuguese Brazil (pt-BR), Spanish (es), Japanese (ja), Korean (ko), Simplified Chinese (zh-CN), Russian (ru), Polish (pl), Italian (it), Dutch (nl), Turkish (tr).
+
+**Build all locales:**
+
+```
+node scripts/build-i18n.mjs
+```
+
+Generates 96 HTML files (6 pages × 16 locales) in locale directories: `/en/`, `/sr/`, `/fr/`, etc.
+
+**URL scheme:** Prefix-based routing. English: `/en/index.html`, Serbian: `/sr/index.html`, etc.
+
+**Language switcher:** Interactive dropdown in header. Preserves user preference in localStorage. Script: `js/lang-switcher.js`
+
+**Strings:** `locales/{code}.json` files contain all UI text. Edit JSON, then rebuild.
+
+**To add a 17th language:**
+1. Create `locales/XX.json` (copy `en.json` as template)
+2. Translate all strings, keep `lang_native` in native script
+3. Add `'XX'` to `LOCALES` array in `scripts/build-i18n.mjs`
+4. Run `node scripts/build-i18n.mjs`
+
 ## Exams (easy to update)
 
 Source of truth: `data/certs.json`  
@@ -28,6 +54,12 @@ node scripts/render-exams.mjs
 ```
 
 writes `exams.html` and `data/certs.xml`.
+
+**Note:** To update exams in all locales, first update `data/certs.json`, then run both:
+```
+node scripts/render-exams.mjs  # updates root exams.html
+node scripts/build-i18n.mjs    # regenerates all locale pages
+```
 
 ## Deploy
 

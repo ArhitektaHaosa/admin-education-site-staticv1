@@ -1,0 +1,136 @@
+{
+  "locale": "en",
+  "lang_native": "English",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "knowledge is free",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Home",
+    "method": "Method",
+    "writing": "Writing",
+    "exams": "Exams",
+    "links": "Links",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Public method for systems administration and technology education. Knowledge stays free.",
+    "h1": "Systems administration as a public method.",
+    "lead": "admin.education is a teaching surface. Not a ministry. Not a course store. Not a bid profile.",
+    "intro": "The work is infrastructure, applied AI literacy, and measurement. Knowledge stays free. Ownership of the method stays with the operator of this domain.",
+    "what_heading": "What this site is",
+    "what_items": [
+      "A spine for long-form writing and lab notes.",
+      "A place to publish method without selling a visa, a diploma, or a miracle.",
+      "A public record that the operator is a systems administrator and an educator, not a state institution."
+    ],
+    "what_not_heading": "What this site is not",
+    "what_not_items": [
+      "Not RateZip.com. That ledger is dated work, 2007 to 2022.",
+      "Not freelancer.com/u/kerberus. That page is a hire record from 2006.",
+      "Not a concert promoter and not a borrowed album title.",
+      "Not a doctorate. There is no PhD here. The diploma thesis remains unfinished."
+    ],
+    "note": "If a sentence cannot be measured or sourced, it does not belong on this domain."
+  },
+  "method": {
+    "title": "Method",
+    "page_title": "Method — admin.education",
+    "description": "How admin.education teaches: measurement first, free knowledge, White Hat only.",
+    "h1": "Method",
+    "lead": "Measure first. Teach second. Do not invent a title to carry the sentence.",
+    "rules_heading": "Rules that stay on the page",
+    "rules_items": [
+      "Knowledge is free. No visit required. Online only.",
+      "White Hat only. Commands are metaphors on your own machines. Nothing is executed against a third party.",
+      "Consent first. Attribution and reciprocity. Small shared core, local project.",
+      "School record and platform exams stay on two lines. They are not the same object. Platform exams live on <a href=\"exams.html\">Exams</a>.",
+      "Affiliate work is marked in the sentence when money is involved."
+    ],
+    "operator_heading": "Operator facts used here",
+    "operator_items": [
+      "Systems administrator since 2002. Webmin, Virtualmin, CentOS first. Later machines include Linode, Vercel, DigitalOcean.",
+      "Default is self-host when speed is not the priority.",
+      "Educator in informatics, IT, and AI. Independent. Never employed by Serbian state institutions.",
+      "Vukova diploma, OŠ Nikola Tesla, Vinča, 11 June 1998. Subjects on that school diploma: English, biology, physics, mathematics.",
+      "No doctorate. Diploma thesis unfinished. Then remote work for a Canadian company."
+    ],
+    "muted": "Anyone can ask for additions or sources on a stated fact."
+  },
+  "writing": {
+    "title": "Writing",
+    "page_title": "Writing — admin.education",
+    "description": "Long-form writing for admin.education lives on Substack.",
+    "h1": "Writing",
+    "lead": "The paper is on Substack. This domain is the spine.",
+    "intro": "Long form goes to <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Short public cuts go to Bluesky first, then the other live surfaces. This site does not reprint a feed.",
+    "priority": "Articles carry the method. Short posts are surface. If the two disagree, the article wins.",
+    "live_heading": "Live surfaces used for writing",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X is not listed. LinkedIn is not used as a draft surface here."
+  },
+  "exams": {
+    "title": "Platform exams",
+    "page_title": "Platform exams — admin.education",
+    "description": "Hire-platform exams from a freelancer/vWorker record. Not a ministry diploma. School record stays on Method.",
+    "h1": "Platform exams",
+    "lead": "The hire-platform UI labels these Certifications. On this domain they stay marketplace exams. Not a ministry diploma. Not a doctorate. School record stays on Method.",
+    "source": "Freelancer.com / vWorker hire-platform record, as shown on 19 September 2026 screenshots. Original small SVG marks on this page. Not the marketplace artwork.",
+    "muted": "School record (Vukova diploma, 11 June 1998) is a different object and stays on Method. Do not merge the two lists.",
+    "note": "Anyone can ask for a source on a stated fact. If a later official Skillshop, Adobe, or Microsoft ID is produced, it gets its own line. These tiles are not that.",
+    "exam_meta": "Exam. Hire-platform record: {stars} star.",
+    "exam_meta_plural": "Exam. Hire-platform record: {stars} stars.",
+    "orientation_meta": "Orientation. Hire-platform record: {stars} star.",
+    "membership_meta": "Membership. Membership badge. No star on the tile."
+  },
+  "links": {
+    "title": "Links",
+    "page_title": "Links — admin.education",
+    "description": "Featured links for admin.education. Bluesky, writing, source, contact.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Systems administration as a public method. Teaching surface for infrastructure, applied AI literacy, and measurement. Knowledge stays free.",
+    "featured_label": "Featured links",
+    "link_method": "Method",
+    "link_method_desc": "How this domain teaches",
+    "link_exams": "Exams",
+    "link_exams_desc": "Hire-platform tiles, explained",
+    "link_writing": "Writing",
+    "link_writing_desc": "Long form on Substack",
+    "link_source": "Source",
+    "link_source_desc": "Static spine on GitHub",
+    "link_contact": "Contact",
+    "link_contact_desc": "Write first. No number here.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Contact",
+    "page_title": "Contact — admin.education",
+    "description": "Contact paths for admin.education. WhatsApp Business or email.",
+    "h1": "Contact",
+    "lead": "Primary path: WhatsApp Business. Email as backup.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "Email:",
+    "email_also": "Also reaches mapkomah at gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber and Telegram exist on the same real-number desk. Those channels are not published. Cloaked is for aliases to strangers and forms, not a replacement for that desk.",
+    "note": "If the ask is a signature, a license, or money, read the document first. Take the time. Ask before you sign, not after."
+  }
+}

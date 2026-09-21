@@ -1,0 +1,136 @@
+{
+  "locale": "pt-BR",
+  "lang_native": "Português (Brasil)",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "conhecimento é gratuito",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Início",
+    "method": "Método",
+    "writing": "Escrita",
+    "exams": "Exames",
+    "links": "Links",
+    "contact": "Contato"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Método público para administração de sistemas e educação em tecnologia. O conhecimento permanece gratuito.",
+    "h1": "Administração de sistemas como método público.",
+    "lead": "admin.education é uma superfície de ensino. Não um ministério. Não uma loja de cursos. Não um perfil de lances.",
+    "intro": "O trabalho é infraestrutura, alfabetização em IA aplicada e medição. O conhecimento permanece gratuito. A propriedade do método permanece com o operador deste domínio.",
+    "what_heading": "O que este site é",
+    "what_items": [
+      "Uma espinha dorsal para textos longos e notas de laboratório.",
+      "Um lugar para publicar método sem vender visto, diploma ou milagre.",
+      "Um registro público de que o operador é administrador de sistemas e educador, não uma instituição estatal."
+    ],
+    "what_not_heading": "O que este site não é",
+    "what_not_items": [
+      "Não é RateZip.com. Esse livro-razão é trabalho datado, 2007 a 2022.",
+      "Não é freelancer.com/u/kerberus. Essa página é um registro de contratação de 2006.",
+      "Não é promotor de shows e não é título de álbum emprestado.",
+      "Não é doutorado. Não há PhD aqui. A tese de diploma permanece inacabada."
+    ],
+    "note": "Se uma frase não pode ser medida ou fundamentada, ela não pertence a este domínio."
+  },
+  "method": {
+    "title": "Método",
+    "page_title": "Método — admin.education",
+    "description": "Como admin.education ensina: medição primeiro, conhecimento gratuito, apenas White Hat.",
+    "h1": "Método",
+    "lead": "Meça primeiro. Ensine depois. Não invente um título para carregar a frase.",
+    "rules_heading": "Regras que permanecem na página",
+    "rules_items": [
+      "Conhecimento é gratuito. Nenhuma visita necessária. Apenas online.",
+      "Apenas White Hat. Comandos são metáforas em suas próprias máquinas. Nada é executado contra terceiros.",
+      "Consentimento primeiro. Atribuição e reciprocidade. Núcleo compartilhado pequeno, projeto local.",
+      "Registro escolar e exames de plataforma permanecem em duas linhas. Não são o mesmo objeto. Exames de plataforma vivem em <a href=\"exams.html\">Exames</a>.",
+      "Trabalho afiliado é marcado na frase quando dinheiro está envolvido."
+    ],
+    "operator_heading": "Fatos do operador usados aqui",
+    "operator_items": [
+      "Administrador de sistemas desde 2002. Primeiro Webmin, Virtualmin, CentOS. Máquinas posteriores incluem Linode, Vercel, DigitalOcean.",
+      "Padrão é auto-hospedagem quando velocidade não é prioridade.",
+      "Educador em informática, TI e IA. Independente. Nunca empregado por instituições estatais sérvias.",
+      "Diploma Vukova, OŠ Nikola Tesla, Vinča, 11 de junho de 1998. Disciplinas nesse diploma escolar: inglês, biologia, física, matemática.",
+      "Sem doutorado. Tese de diploma inacabada. Depois trabalho remoto para uma empresa canadense."
+    ],
+    "muted": "Qualquer um pode solicitar adições ou fontes sobre um fato declarado."
+  },
+  "writing": {
+    "title": "Escrita",
+    "page_title": "Escrita — admin.education",
+    "description": "Textos longos para admin.education vivem no Substack.",
+    "h1": "Escrita",
+    "lead": "O papel está no Substack. Este domínio é a espinha dorsal.",
+    "intro": "Formato longo vai para <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Recortes públicos curtos vão primeiro para Bluesky, depois para as outras superfícies ativas. Este site não reimprime um feed.",
+    "priority": "Artigos carregam o método. Posts curtos são superfície. Se os dois discordarem, o artigo vence.",
+    "live_heading": "Superfícies ativas usadas para escrita",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X não está listado. LinkedIn não é usado como superfície de rascunho aqui."
+  },
+  "exams": {
+    "title": "Exames de plataforma",
+    "page_title": "Exames de plataforma — admin.education",
+    "description": "Exames de plataforma de contratação de registro freelancer/vWorker. Não um diploma ministerial. Registro escolar permanece em Método.",
+    "h1": "Exames de plataforma",
+    "lead": "A UI da plataforma de contratação os chama de certificações. Neste domínio eles permanecem exames de mercado. Não um diploma ministerial. Não um doutorado. Registro escolar permanece em Método.",
+    "source": "Registro de plataforma de contratação Freelancer.com / vWorker, conforme mostrado em capturas de tela de 19 de setembro de 2026. Marcas SVG pequenas originais nesta página. Não a arte do mercado.",
+    "muted": "Registro escolar (diploma Vukova, 11 de junho de 1998) é um objeto diferente e permanece em Método. Não mescle as duas listas.",
+    "note": "Qualquer um pode solicitar uma fonte para um fato declarado. Se um ID oficial Skillshop, Adobe ou Microsoft posterior for produzido, ele ganha sua própria linha. Essas telhas não são isso.",
+    "exam_meta": "Exame. Registro de plataforma de contratação: {stars} estrela.",
+    "exam_meta_plural": "Exame. Registro de plataforma de contratação: {stars} estrelas.",
+    "orientation_meta": "Orientação. Registro de plataforma de contratação: {stars} estrela.",
+    "membership_meta": "Adesão. Crachá de adesão. Nenhuma estrela no azulejo."
+  },
+  "links": {
+    "title": "Links",
+    "page_title": "Links — admin.education",
+    "description": "Links em destaque para admin.education. Bluesky, escrita, fonte, contato.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Administração de sistemas como método público. Superfície de ensino para infraestrutura, alfabetização em IA aplicada e medição. O conhecimento permanece gratuito.",
+    "featured_label": "Links em destaque",
+    "link_method": "Método",
+    "link_method_desc": "Como este domínio ensina",
+    "link_exams": "Exames",
+    "link_exams_desc": "Telhas de plataforma de contratação, explicadas",
+    "link_writing": "Escrita",
+    "link_writing_desc": "Formato longo no Substack",
+    "link_source": "Fonte",
+    "link_source_desc": "Espinha dorsal estática no GitHub",
+    "link_contact": "Contato",
+    "link_contact_desc": "Escreva primeiro. Nenhum número aqui.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Contato",
+    "page_title": "Contato — admin.education",
+    "description": "Caminhos de contato para admin.education. WhatsApp Business ou email.",
+    "h1": "Contato",
+    "lead": "Caminho principal: WhatsApp Business. Email como backup.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "Email:",
+    "email_also": "Também alcança mapkomah at gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber e Telegram existem na mesma mesa de número real. Esses canais não são publicados. Cloaked é para aliases para estranhos e formulários, não uma substituição para essa mesa.",
+    "note": "Se o pedido é uma assinatura, uma licença ou dinheiro, leia o documento primeiro. Tome seu tempo. Pergunte antes de assinar, não depois."
+  }
+}
