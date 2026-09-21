@@ -41,6 +41,88 @@ nav {
 nav a { color: var(--ink); text-decoration: none; }
 nav a:hover { color: var(--accent); }
 
+/* Language switcher */
+.lang-switcher {
+  position: relative;
+  display: inline-block;
+}
+.lang-switcher-toggle {
+  background: transparent;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 0.4rem 0.7rem;
+  font-size: 0.88rem;
+  font-weight: 550;
+  color: var(--ink);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: border-color 0.2s, background-color 0.2s;
+}
+.lang-switcher-toggle:hover {
+  border-color: var(--accent);
+  background: rgba(255, 103, 25, 0.05);
+}
+.lang-switcher-toggle svg {
+  transition: transform 0.2s;
+}
+.lang-switcher-toggle[aria-expanded="true"] svg {
+  transform: rotate(180deg);
+}
+.lang-switcher-menu {
+  display: none;
+  position: absolute;
+  top: calc(100% + 0.3rem);
+  right: 0;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 0.5rem 0;
+  margin: 0;
+  list-style: none;
+  min-width: 180px;
+  max-height: 400px;
+  overflow-y: auto;
+  z-index: 1000;
+}
+.lang-switcher-menu.show {
+  display: block;
+}
+.lang-switcher-menu li {
+  margin: 0;
+}
+.lang-switcher-menu a {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: var(--ink);
+  text-decoration: none;
+  font-size: 0.92rem;
+  transition: background-color 0.15s;
+}
+.lang-switcher-menu a:hover {
+  background: rgba(255, 103, 25, 0.08);
+  color: var(--accent);
+}
+.lang-switcher-menu a.active {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+header.site .wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+header.site nav {
+  flex: 1;
+  margin: 0;
+  justify-content: flex-end;
+}
+
 main { padding: 2.4rem 0 3.5rem; }
 h1 {
   font-size: clamp(1.8rem, 4vw, 2.35rem);

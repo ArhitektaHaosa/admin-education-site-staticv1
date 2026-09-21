@@ -1,0 +1,136 @@
+{
+  "locale": "de",
+  "lang_native": "Deutsch",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "Wissen ist kostenlos",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Startseite",
+    "method": "Methode",
+    "writing": "Schreiben",
+    "exams": "Prüfungen",
+    "links": "Links",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Öffentliche Methode für Systemadministration und Technologiebildung. Wissen bleibt kostenlos.",
+    "h1": "Systemadministration als öffentliche Methode.",
+    "lead": "admin.education ist eine Lernfläche. Kein Ministerium. Kein Kursladen. Kein Angebotsprofil.",
+    "intro": "Die Arbeit ist Infrastruktur, angewandte KI-Kompetenz und Messung. Wissen bleibt kostenlos. Das Eigentum an der Methode bleibt beim Betreiber dieser Domain.",
+    "what_heading": "Was diese Seite ist",
+    "what_items": [
+      "Ein Rückgrat für lange Texte und Labornotizen.",
+      "Ein Ort, um Methoden zu veröffentlichen, ohne ein Visum, ein Diplom oder ein Wunder zu verkaufen.",
+      "Eine öffentliche Aufzeichnung, dass der Betreiber Systemadministrator und Pädagoge ist, keine staatliche Institution."
+    ],
+    "what_not_heading": "Was diese Seite nicht ist",
+    "what_not_items": [
+      "Nicht RateZip.com. Dieses Protokoll ist veraltete Arbeit, 2007 bis 2022.",
+      "Nicht freelancer.com/u/kerberus. Diese Seite ist eine Einstellungsakte aus 2006.",
+      "Kein Konzertveranstalter und kein geliehener Albumtitel.",
+      "Keine Promotion. Es gibt hier keinen PhD. Die Diplomarbeit bleibt unvollendet."
+    ],
+    "note": "Wenn ein Satz nicht gemessen oder belegt werden kann, gehört er nicht auf diese Domain."
+  },
+  "method": {
+    "title": "Methode",
+    "page_title": "Methode — admin.education",
+    "description": "Wie admin.education lehrt: zuerst messen, kostenloses Wissen, nur White Hat.",
+    "h1": "Methode",
+    "lead": "Zuerst messen. Dann lehren. Erfinden Sie keinen Titel, um den Satz zu tragen.",
+    "rules_heading": "Regeln, die auf der Seite bleiben",
+    "rules_items": [
+      "Wissen ist kostenlos. Kein Besuch erforderlich. Nur online.",
+      "Nur White Hat. Befehle sind Metaphern auf Ihren eigenen Maschinen. Nichts wird gegen Dritte ausgeführt.",
+      "Zuerst Zustimmung. Attribution und Reziprozität. Kleiner gemeinsamer Kern, lokales Projekt.",
+      "Schulakte und Plattformprüfungen bleiben in zwei Zeilen. Sie sind nicht dasselbe Objekt. Plattformprüfungen leben auf <a href=\"exams.html\">Prüfungen</a>.",
+      "Affiliate-Arbeit ist im Satz markiert, wenn Geld im Spiel ist."
+    ],
+    "operator_heading": "Hier verwendete Betreiberfakten",
+    "operator_items": [
+      "Systemadministrator seit 2002. Zuerst Webmin, Virtualmin, CentOS. Spätere Maschinen umfassen Linode, Vercel, DigitalOcean.",
+      "Standard ist Self-Hosting, wenn Geschwindigkeit nicht die Priorität ist.",
+      "Pädagoge in Informatik, IT und KI. Unabhängig. Nie bei serbischen staatlichen Institutionen angestellt.",
+      "Vukova-Diplom, OŠ Nikola Tesla, Vinča, 11. Juni 1998. Fächer auf diesem Schuldiplom: Englisch, Biologie, Physik, Mathematik.",
+      "Keine Promotion. Diplomarbeit unvollendet. Dann Remote-Arbeit für ein kanadisches Unternehmen."
+    ],
+    "muted": "Jeder kann nach Ergänzungen oder Quellen zu einer angegebenen Tatsache fragen."
+  },
+  "writing": {
+    "title": "Schreiben",
+    "page_title": "Schreiben — admin.education",
+    "description": "Lange Texte für admin.education leben auf Substack.",
+    "h1": "Schreiben",
+    "lead": "Das Papier ist auf Substack. Diese Domain ist das Rückgrat.",
+    "intro": "Langform geht zu <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Kurze öffentliche Schnitte gehen zuerst zu Bluesky, dann zu den anderen aktiven Flächen. Diese Seite druckt keinen Feed nach.",
+    "priority": "Artikel tragen die Methode. Kurze Beiträge sind Fläche. Wenn die beiden nicht übereinstimmen, gewinnt der Artikel.",
+    "live_heading": "Aktive Flächen für das Schreiben",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X ist nicht aufgeführt. LinkedIn wird hier nicht als Entwurfsfläche verwendet."
+  },
+  "exams": {
+    "title": "Plattformprüfungen",
+    "page_title": "Plattformprüfungen — admin.education",
+    "description": "Hire-Plattform-Prüfungen aus einer freelancer/vWorker-Akte. Kein Ministeriumsdiplom. Schulakte bleibt auf Methode.",
+    "h1": "Plattformprüfungen",
+    "lead": "Die Hire-Plattform-UI nennt diese Zertifizierungen. Auf dieser Domain bleiben sie Marktprüfungen. Kein Ministeriumsdiplom. Keine Promotion. Schulakte bleibt auf Methode.",
+    "source": "Freelancer.com / vWorker Hire-Plattform-Akte, wie auf Screenshots vom 19. September 2026 gezeigt. Originale kleine SVG-Marken auf dieser Seite. Nicht die Marktgrafiken.",
+    "muted": "Schulakte (Vukova-Diplom, 11. Juni 1998) ist ein anderes Objekt und bleibt auf Methode. Verschmelzen Sie die beiden Listen nicht.",
+    "note": "Jeder kann nach einer Quelle für eine angegebene Tatsache fragen. Wenn eine spätere offizielle Skillshop-, Adobe- oder Microsoft-ID vorgelegt wird, erhält sie ihre eigene Zeile. Diese Kacheln sind das nicht.",
+    "exam_meta": "Prüfung. Hire-Plattform-Akte: {stars} Stern.",
+    "exam_meta_plural": "Prüfung. Hire-Plattform-Akte: {stars} Sterne.",
+    "orientation_meta": "Orientierung. Hire-Plattform-Akte: {stars} Stern.",
+    "membership_meta": "Mitgliedschaft. Mitgliedschaftsabzeichen. Kein Stern auf der Kachel."
+  },
+  "links": {
+    "title": "Links",
+    "page_title": "Links — admin.education",
+    "description": "Vorgestellte Links für admin.education. Bluesky, Schreiben, Quelle, Kontakt.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Systemadministration als öffentliche Methode. Lernfläche für Infrastruktur, angewandte KI-Kompetenz und Messung. Wissen bleibt kostenlos.",
+    "featured_label": "Vorgestellte Links",
+    "link_method": "Methode",
+    "link_method_desc": "Wie diese Domain lehrt",
+    "link_exams": "Prüfungen",
+    "link_exams_desc": "Hire-Plattform-Kacheln, erklärt",
+    "link_writing": "Schreiben",
+    "link_writing_desc": "Langform auf Substack",
+    "link_source": "Quelle",
+    "link_source_desc": "Statisches Rückgrat auf GitHub",
+    "link_contact": "Kontakt",
+    "link_contact_desc": "Zuerst schreiben. Keine Nummer hier.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "page_title": "Kontakt — admin.education",
+    "description": "Kontaktwege für admin.education. WhatsApp Business oder E-Mail.",
+    "h1": "Kontakt",
+    "lead": "Hauptweg: WhatsApp Business. E-Mail als Backup.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "E-Mail:",
+    "email_also": "Erreicht auch mapkomah at gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber und Telegram existieren auf demselben Echtnamernschreibtisch. Diese Kanäle sind nicht veröffentlicht. Cloaked ist für Aliase für Fremde und Formulare, kein Ersatz für diesen Schreibtisch.",
+    "note": "Wenn die Anfrage eine Unterschrift, eine Lizenz oder Geld ist, lesen Sie zuerst das Dokument. Nehmen Sie sich die Zeit. Fragen Sie, bevor Sie unterschreiben, nicht danach."
+  }
+}

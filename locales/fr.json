@@ -1,0 +1,136 @@
+{
+  "locale": "fr",
+  "lang_native": "Français",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "le savoir est gratuit",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Accueil",
+    "method": "Méthode",
+    "writing": "Écriture",
+    "exams": "Examens",
+    "links": "Liens",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Méthode publique pour l'administration système et l'enseignement technologique. Le savoir reste gratuit.",
+    "h1": "L'administration système comme méthode publique.",
+    "lead": "admin.education est une surface d'enseignement. Pas un ministère. Pas une boutique de cours. Pas un profil d'enchères.",
+    "intro": "Le travail est l'infrastructure, la maîtrise appliquée de l'IA et la mesure. Le savoir reste gratuit. La propriété de la méthode reste à l'opérateur de ce domaine.",
+    "what_heading": "Ce qu'est ce site",
+    "what_items": [
+      "Une colonne vertébrale pour les écrits longs et les notes de laboratoire.",
+      "Un lieu pour publier une méthode sans vendre de visa, de diplôme ou de miracle.",
+      "Un registre public que l'opérateur est administrateur système et éducateur, pas une institution d'État."
+    ],
+    "what_not_heading": "Ce que ce site n'est pas",
+    "what_not_items": [
+      "Pas RateZip.com. Ce registre est un travail daté, 2007 à 2022.",
+      "Pas freelancer.com/u/kerberus. Cette page est un dossier d'embauche de 2006.",
+      "Pas un promoteur de concerts et pas un titre d'album emprunté.",
+      "Pas un doctorat. Il n'y a pas de PhD ici. La thèse de diplôme reste inachevée."
+    ],
+    "note": "Si une phrase ne peut pas être mesurée ou sourcée, elle n'a pas sa place sur ce domaine."
+  },
+  "method": {
+    "title": "Méthode",
+    "page_title": "Méthode — admin.education",
+    "description": "Comment admin.education enseigne : mesure d'abord, savoir gratuit, White Hat uniquement.",
+    "h1": "Méthode",
+    "lead": "Mesurez d'abord. Enseignez ensuite. N'inventez pas de titre pour porter la phrase.",
+    "rules_heading": "Règles qui restent sur la page",
+    "rules_items": [
+      "Le savoir est gratuit. Aucune visite requise. En ligne uniquement.",
+      "White Hat uniquement. Les commandes sont des métaphores sur vos propres machines. Rien n'est exécuté contre un tiers.",
+      "Consentement d'abord. Attribution et réciprocité. Petit noyau partagé, projet local.",
+      "Le dossier scolaire et les examens de plateforme restent sur deux lignes. Ce ne sont pas le même objet. Les examens de plateforme sont sur <a href=\"exams.html\">Examens</a>.",
+      "Le travail affilié est marqué dans la phrase lorsque de l'argent est en jeu."
+    ],
+    "operator_heading": "Faits de l'opérateur utilisés ici",
+    "operator_items": [
+      "Administrateur système depuis 2002. Webmin, Virtualmin, CentOS d'abord. Les machines ultérieures incluent Linode, Vercel, DigitalOcean.",
+      "L'auto-hébergement est la valeur par défaut lorsque la vitesse n'est pas la priorité.",
+      "Éducateur en informatique, IT et IA. Indépendant. Jamais employé par les institutions d'État serbes.",
+      "Diplôme Vukova, OŠ Nikola Tesla, Vinča, 11 juin 1998. Matières sur ce diplôme scolaire : anglais, biologie, physique, mathématiques.",
+      "Pas de doctorat. Thèse de diplôme inachevée. Ensuite travail à distance pour une entreprise canadienne."
+    ],
+    "muted": "Chacun peut demander des ajouts ou des sources sur un fait déclaré."
+  },
+  "writing": {
+    "title": "Écriture",
+    "page_title": "Écriture — admin.education",
+    "description": "L'écriture longue pour admin.education vit sur Substack.",
+    "h1": "Écriture",
+    "lead": "Le papier est sur Substack. Ce domaine est la colonne vertébrale.",
+    "intro": "Les formes longues vont sur <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Les courts extraits publics vont d'abord sur Bluesky, puis sur les autres surfaces actives. Ce site ne réimprime pas de flux.",
+    "priority": "Les articles portent la méthode. Les posts courts sont la surface. Si les deux sont en désaccord, l'article gagne.",
+    "live_heading": "Surfaces actives utilisées pour l'écriture",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X n'est pas répertorié. LinkedIn n'est pas utilisé comme surface de brouillon ici."
+  },
+  "exams": {
+    "title": "Examens de plateforme",
+    "page_title": "Examens de plateforme — admin.education",
+    "description": "Examens de plateforme d'embauche d'un dossier freelancer/vWorker. Pas un diplôme ministériel. Le dossier scolaire reste sur Méthode.",
+    "h1": "Examens de plateforme",
+    "lead": "L'interface de la plateforme d'embauche les appelle certifications. Sur ce domaine, ils restent des examens de marché. Pas un diplôme ministériel. Pas un doctorat. Le dossier scolaire reste sur Méthode.",
+    "source": "Dossier de plateforme d'embauche Freelancer.com / vWorker, tel qu'affiché sur les captures d'écran du 19 septembre 2026. Petites marques SVG originales sur cette page. Pas les illustrations du marché.",
+    "muted": "Le dossier scolaire (diplôme Vukova, 11 juin 1998) est un objet différent et reste sur Méthode. Ne fusionnez pas les deux listes.",
+    "note": "Chacun peut demander une source pour un fait déclaré. Si un ID officiel Skillshop, Adobe ou Microsoft ultérieur est produit, il obtient sa propre ligne. Ces tuiles ne le sont pas.",
+    "exam_meta": "Examen. Dossier de plateforme d'embauche : {stars} étoile.",
+    "exam_meta_plural": "Examen. Dossier de plateforme d'embauche : {stars} étoiles.",
+    "orientation_meta": "Orientation. Dossier de plateforme d'embauche : {stars} étoile.",
+    "membership_meta": "Adhésion. Badge d'adhésion. Aucune étoile sur la tuile."
+  },
+  "links": {
+    "title": "Liens",
+    "page_title": "Liens — admin.education",
+    "description": "Liens en vedette pour admin.education. Bluesky, écriture, source, contact.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "L'administration système comme méthode publique. Surface d'enseignement pour l'infrastructure, la maîtrise appliquée de l'IA et la mesure. Le savoir reste gratuit.",
+    "featured_label": "Liens en vedette",
+    "link_method": "Méthode",
+    "link_method_desc": "Comment ce domaine enseigne",
+    "link_exams": "Examens",
+    "link_exams_desc": "Tuiles de plateforme d'embauche, expliquées",
+    "link_writing": "Écriture",
+    "link_writing_desc": "Forme longue sur Substack",
+    "link_source": "Source",
+    "link_source_desc": "Colonne vertébrale statique sur GitHub",
+    "link_contact": "Contact",
+    "link_contact_desc": "Écrivez d'abord. Pas de numéro ici.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Contact",
+    "page_title": "Contact — admin.education",
+    "description": "Chemins de contact pour admin.education. WhatsApp Business ou email.",
+    "h1": "Contact",
+    "lead": "Chemin principal : WhatsApp Business. Email en secours.",
+    "whatsapp_label": "WhatsApp Business :",
+    "email_label": "Email :",
+    "email_also": "Atteint également mapkomah at gmail.com",
+    "bluesky_label": "Bluesky :",
+    "instagram_label": "Instagram :",
+    "facebook_label": "Facebook :",
+    "substack_label": "Substack :",
+    "other_channels": "Viber et Telegram existent sur le même bureau à numéro réel. Ces canaux ne sont pas publiés. Cloaked est pour les alias aux étrangers et aux formulaires, pas un remplacement pour ce bureau.",
+    "note": "Si la demande est une signature, une licence ou de l'argent, lisez d'abord le document. Prenez le temps. Demandez avant de signer, pas après."
+  }
+}

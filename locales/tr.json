@@ -1,0 +1,125 @@
+{
+  "locale": "tr",
+  "lang_native": "Türkçe",
+  "lang_dir": "ltr",
+  "site": {"name": "admin.education", "tagline": "bilgi ücretsizdir", "year": "2026"},
+  "nav": {"home": "Ana Sayfa", "method": "Yöntem", "writing": "Yazı", "exams": "Sınavlar", "links": "Bağlantılar", "contact": "İletişim"},
+  "home": {
+    "title": "admin.education",
+    "description": "Sistem yönetimi ve teknoloji eğitimi için halka açık yöntem. Bilgi ücretsiz kalır.",
+    "h1": "Halka açık yöntem olarak sistem yönetimi.",
+    "lead": "admin.education bir öğretim yüzeyidir. Bakanlık değil. Kurs mağazası değil. Teklif profili değil.",
+    "intro": "İş altyapı, uygulamalı yapay zeka okuryazarlığı ve ölçümdür. Bilgi ücretsiz kalır. Yöntemin mülkiyeti bu alan adının operatöründe kalır.",
+    "what_heading": "Bu site nedir",
+    "what_items": [
+      "Uzun metinler ve laboratuvar notları için omurga.",
+      "Vize, diploma veya mucize satmadan yöntemi yayınlamak için bir yer.",
+      "Operatörün sistem yöneticisi ve eğitimci olduğunu gösteren halka açık kayıt, devlet kurumu değil."
+    ],
+    "what_not_heading": "Bu site ne değildir",
+    "what_not_items": [
+      "RateZip.com değil. Bu defter tarihli iş, 2007'den 2022'ye.",
+      "freelancer.com/u/kerberus değil. Bu sayfa 2006'dan bir işe alma kaydı.",
+      "Konser organizatörü değil ve ödünç alınmış albüm başlığı değil.",
+      "Doktora değil. Burada PhD yok. Diploma tezi tamamlanmamış kalıyor."
+    ],
+    "note": "Bir cümle ölçülemez veya kaynaklanamıyorsa, bu alana ait değildir."
+  },
+  "method": {
+    "title": "Yöntem",
+    "page_title": "Yöntem — admin.education",
+    "description": "admin.education nasıl öğretir: önce ölçüm, ücretsiz bilgi, yalnızca White Hat.",
+    "h1": "Yöntem",
+    "lead": "Önce ölçün. Sonra öğretin. Cümleyi taşımak için bir başlık icat etmeyin.",
+    "rules_heading": "Sayfada kalan kurallar",
+    "rules_items": [
+      "Bilgi ücretsizdir. Ziyaret gerekmez. Yalnızca çevrimiçi.",
+      "Yalnızca White Hat. Komutlar kendi makinelerinizde metafordur. Üçüncü şahıslara karşı hiçbir şey yürütülmez.",
+      "Önce onay. Atıf ve karşılıklılık. Küçük paylaşılan çekirdek, yerel proje.",
+      "Okul kaydı ve platform sınavları iki satırda kalır. Aynı nesne değildirler. Platform sınavları <a href=\"exams.html\">Sınavlar</a>'da yaşar.",
+      "Para söz konusu olduğunda bağlı kuruluş çalışması cümlede işaretlenir."
+    ],
+    "operator_heading": "Burada kullanılan operatör gerçekleri",
+    "operator_items": [
+      "2002'den beri sistem yöneticisi. İlk olarak Webmin, Virtualmin, CentOS. Sonraki makineler Linode, Vercel, DigitalOcean'ı içerir.",
+      "Hız öncelik olmadığında varsayılan kendi kendine barındırmadır.",
+      "Bilişim, BT ve yapay zeka eğitimcisi. Bağımsız. Sırp devlet kurumları tarafından hiç istihdam edilmemiş.",
+      "Vukova diploması, OŠ Nikola Tesla, Vinča, 11 Haziran 1998. O okul diplomasındaki dersler: İngilizce, biyoloji, fizik, matematik.",
+      "Doktora yok. Diploma tezi tamamlanmamış. Sonra bir Kanada şirketi için uzaktan çalışma."
+    ],
+    "muted": "Herkes belirtilen bir gerçek hakkında eklemeler veya kaynaklar isteyebilir."
+  },
+  "writing": {
+    "title": "Yazı",
+    "page_title": "Yazı — admin.education",
+    "description": "admin.education için uzun yazılar Substack'te yaşıyor.",
+    "h1": "Yazı",
+    "lead": "Kağıt Substack'te. Bu alan adı omurgadır.",
+    "intro": "Uzun form <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>'a gider. Kısa halk kesintileri önce Bluesky'a, sonra diğer aktif yüzeylere gider. Bu site bir akışı yeniden basmaz.",
+    "priority": "Makaleler yöntemi taşır. Kısa gönderiler yüzeydir. İki aynı fikirde değilse, makale kazanır.",
+    "live_heading": "Yazı için kullanılan aktif yüzeyler",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X listelenmemiş. LinkedIn burada taslak yüzeyi olarak kullanılmaz."
+  },
+  "exams": {
+    "title": "Platform sınavları",
+    "page_title": "Platform sınavları — admin.education",
+    "description": "freelancer/vWorker kaydından Hire-platform sınavları. Bakanlık diploması değil. Okul kaydı Yöntem'de kalır.",
+    "h1": "Platform sınavları",
+    "lead": "Hire-platform UI bunları sertifika olarak adlandırıyor. Bu alanda pazar sınavları olarak kalırlar. Bakanlık diploması değil. Doktora değil. Okul kaydı Yöntem'de kalır.",
+    "source": "Freelancer.com / vWorker Hire-platform kaydı, 19 Eylül 2026 ekran görüntülerinde gösterildiği gibi. Bu sayfada orijinal küçük SVG işaretleri. Pazar sanat eseri değil.",
+    "muted": "Okul kaydı (Vukova diploması, 11 Haziran 1998) farklı bir nesnedir ve Yöntem'de kalır. İki listeyi birleştirmeyin.",
+    "note": "Herkes belirtilen bir gerçek için kaynak isteyebilir. Daha sonra resmi bir Skillshop, Adobe veya Microsoft kimliği üretilirse, kendi satırını alır. Bu karolar değildir.",
+    "exam_meta": "Sınav. Hire-platform kaydı: {stars} yıldız.",
+    "exam_meta_plural": "Sınav. Hire-platform kaydı: {stars} yıldız.",
+    "orientation_meta": "Oryantasyon. Hire-platform kaydı: {stars} yıldız.",
+    "membership_meta": "Üyelik. Üyelik rozeti. Karonun üzerinde yıldız yok."
+  },
+  "links": {
+    "title": "Bağlantılar",
+    "page_title": "Bağlantılar — admin.education",
+    "description": "admin.education için öne çıkan bağlantılar. Bluesky, yazı, kaynak, iletişim.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Halka açık yöntem olarak sistem yönetimi. Altyapı, uygulamalı yapay zeka okuryazarlığı ve ölçüm için öğretim yüzeyi. Bilgi ücretsiz kalır.",
+    "featured_label": "Öne çıkan bağlantılar",
+    "link_method": "Yöntem",
+    "link_method_desc": "Bu alan adı nasıl öğretir",
+    "link_exams": "Sınavlar",
+    "link_exams_desc": "Hire-platform karoları, açıklandı",
+    "link_writing": "Yazı",
+    "link_writing_desc": "Substack'te uzun form",
+    "link_source": "Kaynak",
+    "link_source_desc": "GitHub'da statik omurga",
+    "link_contact": "İletişim",
+    "link_contact_desc": "Önce yazın. Burada numara yok.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "İletişim",
+    "page_title": "İletişim — admin.education",
+    "description": "admin.education için iletişim yolları. WhatsApp Business veya e-posta.",
+    "h1": "İletişim",
+    "lead": "Ana yol: WhatsApp Business. Yedek olarak e-posta.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "E-posta:",
+    "email_also": "mapkomah at gmail.com'a da ulaşır",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber ve Telegram aynı gerçek numaralı masada mevcuttur. Bu kanallar yayınlanmamıştır. Cloaked yabancılar ve formlar için takma adlar içindir, o masanın yerini almaz.",
+    "note": "İstek bir imza, lisans veya para ise, önce belgeyi okuyun. Zaman ayırın. İmzalamadan önce sorun, sonra değil."
+  }
+}

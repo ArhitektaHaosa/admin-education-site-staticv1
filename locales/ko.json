@@ -1,0 +1,125 @@
+{
+  "locale": "ko",
+  "lang_native": "한국어",
+  "lang_dir": "ltr",
+  "site": {"name": "admin.education", "tagline": "지식은 무료", "year": "2026"},
+  "nav": {"home": "홈", "method": "방법", "writing": "글쓰기", "exams": "시험", "links": "링크", "contact": "연락처"},
+  "home": {
+    "title": "admin.education",
+    "description": "시스템 관리 및 기술 교육을 위한 공개 방법. 지식은 무료로 유지됩니다.",
+    "h1": "공개 방법으로서의 시스템 관리.",
+    "lead": "admin.education은 교육 표면입니다. 정부 부처가 아닙니다. 코스 스토어가 아닙니다. 입찰 프로필이 아닙니다.",
+    "intro": "작업은 인프라, 응용 AI 리터러시 및 측정입니다. 지식은 무료로 유지됩니다. 방법의 소유권은 이 도메인의 운영자에게 있습니다.",
+    "what_heading": "이 사이트는 무엇인가",
+    "what_items": [
+      "장문 글쓰기 및 실험실 노트를 위한 백본.",
+      "비자, 학위 또는 기적을 판매하지 않고 방법을 게시하는 장소.",
+      "운영자가 시스템 관리자이자 교육자이며 국가 기관이 아님을 보여주는 공개 기록."
+    ],
+    "what_not_heading": "이 사이트가 아닌 것",
+    "what_not_items": [
+      "RateZip.com이 아닙니다. 그 원장은 2007년부터 2022년까지의 오래된 작업입니다.",
+      "freelancer.com/u/kerberus가 아닙니다. 그 페이지는 2006년부터의 고용 기록입니다.",
+      "콘서트 프로모터도 아니고 빌린 앨범 제목도 아닙니다.",
+      "박사 학위가 아닙니다. 여기에 PhD가 없습니다. 졸업 논문은 미완성입니다."
+    ],
+    "note": "문장을 측정하거나 출처를 밝힐 수 없다면 이 도메인에 속하지 않습니다."
+  },
+  "method": {
+    "title": "방법",
+    "page_title": "방법 — admin.education",
+    "description": "admin.education이 가르치는 방법: 먼저 측정, 무료 지식, White Hat만.",
+    "h1": "방법",
+    "lead": "먼저 측정하십시오. 다음으로 가르치십시오. 문장을 전달하기 위해 제목을 발명하지 마십시오.",
+    "rules_heading": "페이지에 남아 있는 규칙",
+    "rules_items": [
+      "지식은 무료입니다. 방문이 필요하지 않습니다. 온라인만 가능합니다.",
+      "White Hat만. 명령은 자신의 기계에 대한 은유입니다. 제3자에 대해 아무것도 실행되지 않습니다.",
+      "먼저 동의. 귀속 및 상호성. 작은 공유 코어, 로컬 프로젝트.",
+      "학교 기록과 플랫폼 시험은 두 줄에 남아 있습니다. 동일한 객체가 아닙니다. 플랫폼 시험은 <a href=\"exams.html\">시험</a>에 있습니다.",
+      "돈이 관련될 때 제휴 작업은 문장에 표시됩니다."
+    ],
+    "operator_heading": "여기에 사용된 운영자 사실",
+    "operator_items": [
+      "2002년부터 시스템 관리자. 처음은 Webmin, Virtualmin, CentOS. 나중 기계에는 Linode, Vercel, DigitalOcean이 포함됩니다.",
+      "속도가 우선 순위가 아닐 때 기본값은 자체 호스팅입니다.",
+      "정보학, IT 및 AI의 교육자. 독립적입니다. 세르비아 국가 기관에 고용된 적이 없습니다.",
+      "Vukova 졸업장, OŠ Nikola Tesla, Vinča, 1998년 6월 11일. 해당 학교 졸업장의 과목: 영어, 생물학, 물리학, 수학.",
+      "박사 학위 없음. 졸업 논문 미완성. 그런 다음 캐나다 회사를 위한 원격 작업."
+    ],
+    "muted": "누구나 명시된 사실에 대한 추가 또는 출처를 요청할 수 있습니다."
+  },
+  "writing": {
+    "title": "글쓰기",
+    "page_title": "글쓰기 — admin.education",
+    "description": "admin.education의 장문 글쓰기는 Substack에 있습니다.",
+    "h1": "글쓰기",
+    "lead": "종이는 Substack에 있습니다. 이 도메인은 백본입니다.",
+    "intro": "장문 형식은 <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>으로 이동합니다. 짧은 공개 컷은 먼저 Bluesky로, 그 다음 다른 활성 표면으로 이동합니다. 이 사이트는 피드를 재인쇄하지 않습니다.",
+    "priority": "기사는 방법을 전달합니다. 짧은 게시물은 표면입니다. 두 가지가 동의하지 않으면 기사가 이깁니다.",
+    "live_heading": "글쓰기에 사용되는 활성 표면",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X는 나열되지 않습니다. LinkedIn은 여기서 초안 표면으로 사용되지 않습니다."
+  },
+  "exams": {
+    "title": "플랫폼 시험",
+    "page_title": "플랫폼 시험 — admin.education",
+    "description": "freelancer/vWorker 기록의 Hire-플랫폼 시험. 정부 부처 졸업장이 아닙니다. 학교 기록은 방법에 남아 있습니다.",
+    "h1": "플랫폼 시험",
+    "lead": "Hire-플랫폼 UI는 이들을 인증이라고 부릅니다. 이 도메인에서는 시장 시험으로 남아 있습니다. 정부 부처 졸업장이 아닙니다. 박사 학위가 아닙니다. 학교 기록은 방법에 남아 있습니다.",
+    "source": "Freelancer.com / vWorker Hire-플랫폼 기록, 2026년 9월 19일 스크린샷에 표시된 대로. 이 페이지의 원본 작은 SVG 마크. 시장 아트워크가 아닙니다.",
+    "muted": "학교 기록 (Vukova 졸업장, 1998년 6월 11일)은 다른 객체이며 방법에 남아 있습니다. 두 목록을 병합하지 마십시오.",
+    "note": "누구나 명시된 사실의 출처를 요청할 수 있습니다. 나중에 공식 Skillshop, Adobe 또는 Microsoft ID가 생성되면 자체 줄을 얻습니다. 이 타일은 그렇지 않습니다.",
+    "exam_meta": "시험. Hire-플랫폼 기록: {stars}개 별.",
+    "exam_meta_plural": "시험. Hire-플랫폼 기록: {stars}개 별.",
+    "orientation_meta": "오리엔테이션. Hire-플랫폼 기록: {stars}개 별.",
+    "membership_meta": "회원. 회원 배지. 타일에 별이 없습니다."
+  },
+  "links": {
+    "title": "링크",
+    "page_title": "링크 — admin.education",
+    "description": "admin.education의 주요 링크. Bluesky, 글쓰기, 소스, 연락처.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "공개 방법으로서의 시스템 관리. 인프라, 응용 AI 리터러시 및 측정을 위한 교육 표면. 지식은 무료로 유지됩니다.",
+    "featured_label": "주요 링크",
+    "link_method": "방법",
+    "link_method_desc": "이 도메인이 가르치는 방법",
+    "link_exams": "시험",
+    "link_exams_desc": "Hire-플랫폼 타일, 설명됨",
+    "link_writing": "글쓰기",
+    "link_writing_desc": "Substack의 장문 형식",
+    "link_source": "소스",
+    "link_source_desc": "GitHub의 정적 백본",
+    "link_contact": "연락처",
+    "link_contact_desc": "먼저 작성하십시오. 여기에 번호가 없습니다.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "연락처",
+    "page_title": "연락처 — admin.education",
+    "description": "admin.education의 연락 경로. WhatsApp Business 또는 이메일.",
+    "h1": "연락처",
+    "lead": "주요 경로: WhatsApp Business. 백업으로 이메일.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "이메일:",
+    "email_also": "mapkomah at gmail.com도 연결됩니다",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber와 Telegram은 동일한 실제 번호 데스크에 있습니다. 해당 채널은 게시되지 않습니다. Cloaked는 낯선 사람과 양식에 대한 별칭이며 해당 데스크의 대체가 아닙니다.",
+    "note": "요청이 서명, 라이센스 또는 돈인 경우 먼저 문서를 읽으십시오. 시간을 가지십시오. 서명하기 전에 물어보십시오. 나중이 아닙니다."
+  }
+}
