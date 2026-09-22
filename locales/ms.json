@@ -1,0 +1,136 @@
+{
+  "locale": "ms",
+  "lang_native": "Bahasa Melayu",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "pengetahuan adalah percuma",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Laman Utama",
+    "method": "Kaedah",
+    "writing": "Penulisan",
+    "exams": "Peperiksaan",
+    "links": "Pautan",
+    "contact": "Hubungi"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Kaedah awam untuk pentadbiran sistem dan pendidikan teknologi. Pengetahuan kekal percuma.",
+    "h1": "Pentadbiran sistem sebagai kaedah awam.",
+    "lead": "admin.education adalah permukaan pengajaran. Bukan kementerian. Bukan kedai kursus. Bukan profil bidaan.",
+    "intro": "Kerja adalah infrastruktur, celik AI gunaan dan pengukuran. Pengetahuan kekal percuma. Pemilikan kaedah kekal dengan pengendali domain ini.",
+    "what_heading": "Apa laman web ini",
+    "what_items": [
+      "Tulang belakang untuk penulisan panjang dan nota makmal.",
+      "Tempat untuk menerbitkan kaedah tanpa menjual visa, diploma atau keajaiban.",
+      "Rekod awam bahawa pengendali adalah pentadbir sistem dan pendidik, bukan institusi negara."
+    ],
+    "what_not_heading": "Apa laman web ini bukan",
+    "what_not_items": [
+      "Bukan RateZip.com. Rekod itu adalah kerja bertarikh, 2007 hingga 2022.",
+      "Bukan freelancer.com/u/kerberus. Halaman itu adalah rekod pengambilan dari 2006.",
+      "Bukan penganjur konsert dan bukan tajuk album yang dipinjam.",
+      "Bukan kedoktoran. Tiada PhD di sini. Tesis diploma kekal tidak siap."
+    ],
+    "note": "Jika ayat tidak boleh diukur atau disumber, ia tidak tergolong dalam domain ini."
+  },
+  "method": {
+    "title": "Kaedah",
+    "page_title": "Kaedah — admin.education",
+    "description": "Bagaimana admin.education mengajar: ukur dahulu, pengetahuan percuma, hanya White Hat.",
+    "h1": "Kaedah",
+    "lead": "Ukur dahulu. Ajar kedua. Jangan cipta gelaran untuk membawa ayat.",
+    "rules_heading": "Peraturan yang kekal di halaman",
+    "rules_items": [
+      "Pengetahuan adalah percuma. Tiada lawatan diperlukan. Dalam talian sahaja.",
+      "Hanya White Hat. Arahan adalah metafora pada mesin anda sendiri. Tiada apa-apa dilaksanakan terhadap pihak ketiga.",
+      "Persetujuan dahulu. Atribusi dan timbal balik. Teras kongsi kecil, projek tempatan.",
+      "Rekod sekolah dan peperiksaan platform kekal pada dua baris. Mereka bukan objek yang sama. Peperiksaan platform hidup di <a href=\"exams.html\">Peperiksaan</a>.",
+      "Kerja gabungan ditanda dalam ayat apabila wang terlibat."
+    ],
+    "operator_heading": "Fakta pengendali digunakan di sini",
+    "operator_items": [
+      "Pentadbir sistem sejak 2002. Webmin, Virtualmin, CentOS dahulu. Mesin kemudian termasuk Linode, Vercel, DigitalOcean.",
+      "Lalai adalah hosting sendiri apabila kelajuan bukan keutamaan.",
+      "Pendidik dalam informatik, IT dan AI. Bebas. Tidak pernah diambil oleh institusi negara Serbia.",
+      "Diploma Vukova, OŠ Nikola Tesla, Vinča, 11 Jun 1998. Subjek dalam diploma sekolah itu: Bahasa Inggeris, biologi, fizik, matematik.",
+      "Tiada kedoktoran. Tesis diploma tidak siap. Kemudian kerja jarak jauh untuk syarikat Kanada."
+    ],
+    "muted": "Sesiapa boleh meminta penambahan atau sumber mengenai fakta yang dinyatakan."
+  },
+  "writing": {
+    "title": "Penulisan",
+    "page_title": "Penulisan — admin.education",
+    "description": "Penulisan bentuk panjang untuk admin.education hidup di Substack.",
+    "h1": "Penulisan",
+    "lead": "Kertas di Substack. Domain ini adalah tulang belakang.",
+    "intro": "Bentuk panjang pergi ke <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Potongan awam pendek pergi ke Bluesky dahulu, kemudian permukaan aktif lain. Laman web ini tidak mencetak semula suapan.",
+    "priority": "Artikel membawa kaedah. Pos pendek adalah permukaan. Jika kedua-duanya tidak setuju, artikel menang.",
+    "live_heading": "Permukaan aktif digunakan untuk penulisan",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X tidak disenaraikan. LinkedIn tidak digunakan sebagai permukaan draf di sini."
+  },
+  "exams": {
+    "title": "Peperiksaan platform",
+    "page_title": "Peperiksaan platform — admin.education",
+    "description": "Peperiksaan platform pengambilan dari rekod freelancer/vWorker. Bukan diploma kementerian. Rekod sekolah kekal pada Kaedah.",
+    "h1": "Peperiksaan platform",
+    "lead": "UI platform pengambilan memanggil ini Pensijilan. Dalam domain ini mereka kekal peperiksaan pasaran. Bukan diploma kementerian. Bukan kedoktoran. Rekod sekolah kekal pada Kaedah.",
+    "source": "Rekod platform pengambilan Freelancer.com / vWorker, seperti yang ditunjukkan dalam tangkapan skrin 19 September 2026. Tanda SVG kecil asli di halaman ini. Bukan karya seni pasaran.",
+    "muted": "Rekod sekolah (diploma Vukova, 11 Jun 1998) adalah objek yang berbeza dan kekal pada Kaedah. Jangan gabungkan dua senarai.",
+    "note": "Sesiapa boleh meminta sumber mengenai fakta yang dinyatakan. Jika ID Skillshop, Adobe atau Microsoft rasmi kemudian dihasilkan, ia mendapat barisnya sendiri. Jubin ini bukan itu.",
+    "exam_meta": "Peperiksaan. Rekod platform pengambilan: {stars} bintang.",
+    "exam_meta_plural": "Peperiksaan. Rekod platform pengambilan: {stars} bintang.",
+    "orientation_meta": "Orientasi. Rekod platform pengambilan: {stars} bintang.",
+    "membership_meta": "Keahlian. Lencana keahlian. Tiada bintang pada jubin."
+  },
+  "links": {
+    "title": "Pautan",
+    "page_title": "Pautan — admin.education",
+    "description": "Pautan yang diketengahkan untuk admin.education. Bluesky, penulisan, sumber, hubungi.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Pentadbiran sistem sebagai kaedah awam. Permukaan pengajaran untuk infrastruktur, celik AI gunaan dan pengukuran. Pengetahuan kekal percuma.",
+    "featured_label": "Pautan yang diketengahkan",
+    "link_method": "Kaedah",
+    "link_method_desc": "Bagaimana domain ini mengajar",
+    "link_exams": "Peperiksaan",
+    "link_exams_desc": "Jubin platform pengambilan, dijelaskan",
+    "link_writing": "Penulisan",
+    "link_writing_desc": "Bentuk panjang di Substack",
+    "link_source": "Sumber",
+    "link_source_desc": "Tulang belakang statik di GitHub",
+    "link_contact": "Hubungi",
+    "link_contact_desc": "Tulis dahulu. Tiada nombor di sini.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Hubungi",
+    "page_title": "Hubungi — admin.education",
+    "description": "Laluan hubungan untuk admin.education. WhatsApp Business atau e-mel.",
+    "h1": "Hubungi",
+    "lead": "Laluan utama: WhatsApp Business. E-mel sebagai sandaran.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "E-mel:",
+    "email_also": "Juga sampai ke mapkomah di gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber dan Telegram wujud di meja nombor sebenar yang sama. Saluran itu tidak diterbitkan. Cloaked adalah untuk nama samaran kepada orang asing dan borang, bukan pengganti meja itu.",
+    "note": "Jika permintaan adalah tandatangan, lesen atau wang, baca dokumen dahulu. Luangkan masa. Tanya sebelum anda tandatangan, bukan selepas."
+  }
+}

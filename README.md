@@ -2,12 +2,13 @@
 
 Static spine for https://admin.education
 
-Snapshot date: 2026-09-21  
-Version: staticv1.7  
-No tracker. System UI stack. SVG wordmark. Optional local render for exams only.
+Snapshot date: 2026-09-22  
+Version: staticv2.0  
+No tracker. System UI stack. SVG wordmark. Static-only architecture.
 
-**Multilingual:** 31 locales with URL-prefix routing (`/en/`, `/sr/`, `/fr/`, `/ar/`, etc.)  
-**SEO:** Full hreflang, canonical tags, sitemap.xml, robots.txt, JSON-LD structured data
+**Multilingual:** 50 locales with URL-prefix routing (`/en/`, `/sr/`, `/fr/`, `/ar/`, etc.)  
+**SEO:** Full hreflang, canonical tags, sitemap.xml, robots.txt, JSON-LD structured data  
+**Static-only:** Zero Node/npm on server. Pure HTML/CSS/JS. Deploy = git clone + copy.
 
 Read `OVERNIGHT.md` then `HANDOFF.md` before editing. Deploy: `DEPLOY.md`.
 
@@ -20,17 +21,19 @@ Read `OVERNIGHT.md` then `HANDOFF.md` before editing. Deploy: `DEPLOY.md`.
 - `links.html` Links
 - `contact.html` Contact
 
-## Multilingual (31 locales)
+## Multilingual (50 locales)
 
-Languages: English (en), Serbian Latin (sr), French (fr), German (de), Hindi (hi), Vietnamese (vi), Portuguese Brazil (pt-BR), Spanish (es), Japanese (ja), Korean (ko), Simplified Chinese (zh-CN), Russian (ru), Polish (pl), Italian (it), Dutch (nl), Turkish (tr), Croatian (hr), Ukrainian (uk), Czech (cs), Slovak (sk), Romanian (ro), Hungarian (hu), Swedish (sv), Finnish (fi), Danish (da), Indonesian (id), Thai (th), Arabic RTL (ar), Traditional Chinese (zh-TW), Greek (el), Bengali (bn).
+Languages: English (en), Serbian Latin (sr), French (fr), German (de), Hindi (hi), Vietnamese (vi), Portuguese Brazil (pt-BR), Spanish (es), Japanese (ja), Korean (ko), Simplified Chinese (zh-CN), Russian (ru), Polish (pl), Italian (it), Dutch (nl), Turkish (tr), Croatian (hr), Ukrainian (uk), Czech (cs), Slovak (sk), Romanian (ro), Hungarian (hu), Swedish (sv), Finnish (fi), Danish (da), Indonesian (id), Thai (th), Arabic RTL (ar), Traditional Chinese (zh-TW), Greek (el), Bengali (bn), Portuguese (pt), Norwegian Bokmål (nb), Hebrew RTL (he), Bulgarian (bg), Slovenian (sl), Lithuanian (lt), Latvian (lv), Estonian (et), Catalan (ca), Malay (ms), Filipino (fil), Persian RTL (fa), Urdu RTL (ur), Swahili (sw), Tamil (ta), Afrikaans (af), Albanian (sq), Macedonian (mk), Georgian (ka).
 
-**Build all locales:**
+**Build all locales (maintainers only):**
 
 ```
 node scripts/build-i18n.mjs
 ```
 
-Generates 186 HTML files (6 pages × 31 locales) in locale directories: `/en/`, `/sr/`, `/fr/`, `/ar/`, etc.
+Generates 300 HTML files (6 pages × 50 locales) in locale directories: `/en/`, `/sr/`, `/fr/`, `/ar/`, etc.
+
+**IMPORTANT:** Build script is for maintainers only. For deployment, committed HTML files are the source of truth. No Node/npm required on the server.
 
 **Generate sitemap:**
 
@@ -46,11 +49,14 @@ Creates sitemap.xml with all 186 URLs for Google indexing.
 
 **Strings:** `locales/{code}.json` files contain all UI text. Edit JSON, then rebuild.
 
-**To add a 32nd language:**
+**To add a 51st language:**
 1. Create `locales/XX.json` (copy `en.json` as template)
-2. Translate all strings, set `lang_native` in native script, set `lang_dir` to `"rtl"` for right-to-left languages
-3. Add `'XX'` to `LOCALES` array in `scripts/build-i18n.mjs`
-4. Run `node scripts/build-i18n.mjs` and `node scripts/generate-sitemap.mjs`
+2. Translate all strings, set `lang_native` in native script, set `lang_dir` to `"rtl"` for right-to-left languages (Arabic, Hebrew, Persian, Urdu)
+3. Add `'XX'` to `LOCALES` array in `scripts/build-i18n.mjs` and `scripts/generate-sitemap.mjs`
+4. Add locale name to `localeNames` object in `build-i18n.mjs`
+5. Run `node scripts/build-i18n.mjs` and `node scripts/generate-sitemap.mjs`
+6. Update `robots.txt` to include the new locale directory
+7. Commit all generated HTML files
 
 ## Exams (easy to update)
 

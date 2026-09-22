@@ -1,0 +1,136 @@
+{
+  "locale": "ca",
+  "lang_native": "Català",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "el coneixement és lliure",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Inici",
+    "method": "Mètode",
+    "writing": "Escriptura",
+    "exams": "Exàmens",
+    "links": "Enllaços",
+    "contact": "Contacte"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Mètode públic per a l'administració de sistemes i l'educació tecnològica. El coneixement segueix sent lliure.",
+    "h1": "Administració de sistemes com a mètode públic.",
+    "lead": "admin.education és una superfície d'ensenyament. No és un ministeri. No és una botiga de cursos. No és un perfil d'oferta.",
+    "intro": "El treball és infraestructura, alfabetització aplicada en IA i mesurament. El coneixement segueix sent lliure. La propietat del mètode roman amb l'operador d'aquest domini.",
+    "what_heading": "Què és aquest lloc web",
+    "what_items": [
+      "Una columna vertebral per a escriptura llarga i notes de laboratori.",
+      "Un lloc per publicar mètode sense vendre visat, diploma o miracle.",
+      "Un registre públic que l'operador és un administrador de sistemes i un educador, no una institució estatal."
+    ],
+    "what_not_heading": "Què no és aquest lloc web",
+    "what_not_items": [
+      "No és RateZip.com. Aquest registre és treball datat, 2007 a 2022.",
+      "No és freelancer.com/u/kerberus. Aquesta pàgina és un registre de contractació del 2006.",
+      "No és un promotor de concerts ni un títol d'àlbum prestat.",
+      "No és un doctorat. No hi ha PhD aquí. La tesi de diploma roman inacabada."
+    ],
+    "note": "Si una frase no es pot mesurar o citar la font, no pertany a aquest domini."
+  },
+  "method": {
+    "title": "Mètode",
+    "page_title": "Mètode — admin.education",
+    "description": "Com admin.education ensenya: primer mesurament, coneixement lliure, només White Hat.",
+    "h1": "Mètode",
+    "lead": "Mesura primer. Ensenya segon. No inventis un títol per portar la frase.",
+    "rules_heading": "Regles que queden a la pàgina",
+    "rules_items": [
+      "El coneixement és lliure. No cal visita. Només en línia.",
+      "Només White Hat. Les ordres són metàfores en les vostres pròpies màquines. No s'executa res contra tercers.",
+      "Consentiment primer. Atribució i reciprocitat. Nucli compartit petit, projecte local.",
+      "El registre escolar i els exàmens de plataforma queden en dues línies. No són el mateix objecte. Els exàmens de plataforma viuen a <a href=\"exams.html\">Exàmens</a>.",
+      "El treball afiliat està marcat a la frase quan hi ha diners involucrats."
+    ],
+    "operator_heading": "Fets de l'operador utilitzats aquí",
+    "operator_items": [
+      "Administrador de sistemes des del 2002. Primer Webmin, Virtualmin, CentOS. Màquines posteriors inclouen Linode, Vercel, DigitalOcean.",
+      "Per defecte és auto-allotjament quan la velocitat no és prioritària.",
+      "Educador en informàtica, TI i IA. Independent. Mai ha estat contractat per institucions estatals sèrbies.",
+      "Diploma Vukova, OŠ Nikola Tesla, Vinča, 11 de juny de 1998. Assignatures en aquest diploma escolar: anglès, biologia, física, matemàtiques.",
+      "Sense doctorat. Tesi de diploma inacabada. Després treball remot per a una empresa canadenca."
+    ],
+    "muted": "Qualsevol pot demanar addicions o fonts sobre un fet declarat."
+  },
+  "writing": {
+    "title": "Escriptura",
+    "page_title": "Escriptura — admin.education",
+    "description": "L'escriptura de format llarg per a admin.education viu a Substack.",
+    "h1": "Escriptura",
+    "lead": "El paper és a Substack. Aquest domini és la columna vertebral.",
+    "intro": "El format llarg va a <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Retalls públics curts van primer a Bluesky, després a les altres superfícies actives. Aquest lloc web no reimprimeix un feed.",
+    "priority": "Els articles porten el mètode. Les publicacions curtes són superfície. Si els dos no estan d'acord, l'article guanya.",
+    "live_heading": "Superfícies actives utilitzades per a l'escriptura",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X no està llistat. LinkedIn no s'utilitza com a superfície d'esborrany aquí."
+  },
+  "exams": {
+    "title": "Exàmens de plataforma",
+    "page_title": "Exàmens de plataforma — admin.education",
+    "description": "Exàmens de plataforma de contractació d'un registre freelancer/vWorker. No és un diploma ministerial. El registre escolar roman al Mètode.",
+    "h1": "Exàmens de plataforma",
+    "lead": "La UI de la plataforma de contractació els anomena Certificacions. En aquest domini queden exàmens de mercat. No és un diploma ministerial. No és un doctorat. El registre escolar roman al Mètode.",
+    "source": "Registre de plataforma de contractació Freelancer.com / vWorker, com es mostra en captures de pantalla del 19 de setembre de 2026. Marques SVG petites originals en aquesta pàgina. No obres d'art del mercat.",
+    "muted": "El registre escolar (diploma Vukova, 11 de juny de 1998) és un objecte diferent i roman al Mètode. No fusioneu les dues llistes.",
+    "note": "Qualsevol pot demanar una font sobre un fet declarat. Si posteriorment es produeix un ID oficial de Skillshop, Adobe o Microsoft, obté la seva pròpia línia. Aquestes fitxes no són això.",
+    "exam_meta": "Examen. Registre de plataforma de contractació: {stars} estrella.",
+    "exam_meta_plural": "Examen. Registre de plataforma de contractació: {stars} estrelles.",
+    "orientation_meta": "Orientació. Registre de plataforma de contractació: {stars} estrella.",
+    "membership_meta": "Pertinença. Insígnia de pertinença. Cap estrella a la fitxa."
+  },
+  "links": {
+    "title": "Enllaços",
+    "page_title": "Enllaços — admin.education",
+    "description": "Enllaços destacats per a admin.education. Bluesky, escriptura, font, contacte.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Administració de sistemes com a mètode públic. Superfície d'ensenyament per a infraestructura, alfabetització aplicada en IA i mesurament. El coneixement segueix sent lliure.",
+    "featured_label": "Enllaços destacats",
+    "link_method": "Mètode",
+    "link_method_desc": "Com aquest domini ensenya",
+    "link_exams": "Exàmens",
+    "link_exams_desc": "Fitxes de plataforma de contractació, explicades",
+    "link_writing": "Escriptura",
+    "link_writing_desc": "Format llarg a Substack",
+    "link_source": "Font",
+    "link_source_desc": "Columna vertebral estàtica a GitHub",
+    "link_contact": "Contacte",
+    "link_contact_desc": "Escriu primer. Cap número aquí.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Contacte",
+    "page_title": "Contacte — admin.education",
+    "description": "Camins de contacte per a admin.education. WhatsApp Business o correu electrònic.",
+    "h1": "Contacte",
+    "lead": "Camí primari: WhatsApp Business. Correu electrònic com a còpia de seguretat.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "Correu electrònic:",
+    "email_also": "També arriba a mapkomah a gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber i Telegram existeixen al mateix escriptori de número real. Aquests canals no estan publicats. Cloaked és per a àlies per a estranys i formularis, no un reemplaçament per a aquest escriptori.",
+    "note": "Si la sol·licitud és una signatura, una llicència o diners, llegeix el document primer. Pren el temps. Pregunta abans de signar, no després."
+  }
+}

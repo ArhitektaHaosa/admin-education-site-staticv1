@@ -1,0 +1,136 @@
+{
+  "locale": "lv",
+  "lang_native": "Latviešu",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "zināšanas ir bezmaksas",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Sākums",
+    "method": "Metode",
+    "writing": "Rakstīšana",
+    "exams": "Eksāmeni",
+    "links": "Saites",
+    "contact": "Kontakti"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Publiska metode sistēmu administrēšanai un tehnoloģiju izglītībai. Zināšanas paliek bezmaksas.",
+    "h1": "Sistēmu administrēšana kā publiska metode.",
+    "lead": "admin.education ir mācību virsma. Nav ministrija. Nav kursu veikals. Nav piedāvājumu profils.",
+    "intro": "Darbs ir infrastruktūra, lietojamā AI pratība un mērīšana. Zināšanas paliek bezmaksas. Metodes īpašumtiesības paliek pie šī domēna operatora.",
+    "what_heading": "Kas ir šī vietne",
+    "what_items": [
+      "Mugurkauls gariem rakstiem un laboratorijas piezīmēm.",
+      "Vieta publicēt metodi, nepārdodot vīzu, diplomu vai brīnumu.",
+      "Publisks ieraksts, ka operators ir sistēmu administrators un izglītotājs, nevis valsts iestāde."
+    ],
+    "what_not_heading": "Kas nav šī vietne",
+    "what_not_items": [
+      "Nav RateZip.com. Tas ieraksts ir datēts darbs, 2007–2022.",
+      "Nav freelancer.com/u/kerberus. Tā lapa ir darba ieraksts no 2006.",
+      "Nav koncertu rīkotājs un nav aizņemts albuma nosaukums.",
+      "Nav doktorāts. Šeit nav PhD. Diploma disertācija paliek nepabeigta."
+    ],
+    "note": "Ja teikumu nevar izmērīt vai citēt avotu, tas nepieder šim domēnam."
+  },
+  "method": {
+    "title": "Metode",
+    "page_title": "Metode — admin.education",
+    "description": "Kā admin.education māca: vispirms mērīšana, bezmaksas zināšanas, tikai White Hat.",
+    "h1": "Metode",
+    "lead": "Vispirms mēri. Otrkārt māci. Neizdomā titulu, lai nestu teikumu.",
+    "rules_heading": "Noteikumi, kas paliek lapā",
+    "rules_items": [
+      "Zināšanas ir bezmaksas. Nav nepieciešams apmeklējums. Tikai tiešsaistē.",
+      "Tikai White Hat. Komandas ir metaforas jūsu pašu iekārtās. Nekas netiek izpildīts pret trešo pusi.",
+      "Vispirms piekrišana. Atsauce un savstarpējība. Mazs kopīgais kodols, vietējais projekts.",
+      "Skolas ieraksts un platformas eksāmeni paliek divās rindās. Tie nav viens un tas pats objekts. Platformas eksāmeni ir <a href=\"exams.html\">Eksāmeni</a>.",
+      "Partnerdarbs ir atzīmēts teikumā, kad iesaistīti nauda."
+    ],
+    "operator_heading": "Operatora fakti, kas izmantoti šeit",
+    "operator_items": [
+      "Sistēmu administrators kopš 2002. Vispirms Webmin, Virtualmin, CentOS. Vēlākas iekārtas ietver Linode, Vercel, DigitalOcean.",
+      "Noklusējums ir pašmitināšana, kad ātrums nav prioritāte.",
+      "Izglītotājs informatikā, IT un AI. Neatkarīgs. Nekad nav bijis nodarbināts Serbijas valsts iestādēs.",
+      "Vukova diploms, OŠ Nikola Tesla, Vinča, 1998. gada 11. jūnijs. Priekšmeti šajā skolas diplomā: angļu, bioloģija, fizika, matemātika.",
+      "Nav doktorāta. Diploma disertācija nepabeigta. Pēc tam attālināts darbs Kanādas uzņēmumam."
+    ],
+    "muted": "Ikviens var pieprasīt papildinājumus vai avotus par norādīto faktu."
+  },
+  "writing": {
+    "title": "Rakstīšana",
+    "page_title": "Rakstīšana — admin.education",
+    "description": "Gara rakstīšana admin.education dzīvo Substack.",
+    "h1": "Rakstīšana",
+    "lead": "Papīrs ir Substack. Šis domēns ir mugurkauls.",
+    "intro": "Garā forma iet uz <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Īsi publiski izgriezumi vispirms iet uz Bluesky, pēc tam uz citām aktīvajām virsmām. Šī vietne nepārpublicē plūsmu.",
+    "priority": "Raksti nes metodi. Īsie ieraksti ir virsma. Ja abi nesakrīt, uzvar raksts.",
+    "live_heading": "Aktīvās virsmas, kas izmantotas rakstīšanai",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X nav uzskaitīts. LinkedIn nav izmantots kā melnraksta virsma šeit."
+  },
+  "exams": {
+    "title": "Platformas eksāmeni",
+    "page_title": "Platformas eksāmeni — admin.education",
+    "description": "Nodarbinātības platformas eksāmeni no freelancer/vWorker ieraksta. Nav ministrijas diploms. Skolas ieraksts paliek Metodē.",
+    "h1": "Platformas eksāmeni",
+    "lead": "Nodarbinātības platformas UI tos sauc par Sertifikācijām. Šajā domēnā tie paliek tirgus eksāmeni. Nav ministrijas diploms. Nav doktorāts. Skolas ieraksts paliek Metodē.",
+    "source": "Freelancer.com / vWorker nodarbinātības platformas ieraksts, kā parādīts 2026. gada 19. septembra ekrānuzņēmumos. Oriģinālie mazie SVG zīmogi šajā lapā. Nav tirgus mākslas darbi.",
+    "muted": "Skolas ieraksts (Vukova diploms, 1998. gada 11. jūnijs) ir atšķirīgs objekts un paliek Metodē. Neapvienojiet divus sarakstus.",
+    "note": "Ikviens var pieprasīt avotu par norādīto faktu. Ja vēlāk tiek izveidots oficiāls Skillshop, Adobe vai Microsoft ID, tas saņem savu rindu. Šīs flīzes nav tas.",
+    "exam_meta": "Eksāmens. Nodarbinātības platformas ieraksts: {stars} zvaigzne.",
+    "exam_meta_plural": "Eksāmens. Nodarbinātības platformas ieraksts: {stars} zvaigznes.",
+    "orientation_meta": "Orientācija. Nodarbinātības platformas ieraksts: {stars} zvaigzne.",
+    "membership_meta": "Biedrība. Biedrības nozīmīte. Nav zvaigznes uz flīzes."
+  },
+  "links": {
+    "title": "Saites",
+    "page_title": "Saites — admin.education",
+    "description": "Izceltās saites admin.education. Bluesky, rakstīšana, avots, kontakti.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Sistēmu administrēšana kā publiska metode. Mācību virsma infrastruktūrai, lietojamā AI pratībai un mērīšanai. Zināšanas paliek bezmaksas.",
+    "featured_label": "Izceltās saites",
+    "link_method": "Metode",
+    "link_method_desc": "Kā šis domēns māca",
+    "link_exams": "Eksāmeni",
+    "link_exams_desc": "Nodarbinātības platformas flīzes, izskaidrotas",
+    "link_writing": "Rakstīšana",
+    "link_writing_desc": "Garā forma Substack",
+    "link_source": "Avots",
+    "link_source_desc": "Statisks mugurkauls GitHub",
+    "link_contact": "Kontakti",
+    "link_contact_desc": "Vispirms rakstiet. Šeit nav numura.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Kontakti",
+    "page_title": "Kontakti — admin.education",
+    "description": "Kontaktceļi admin.education. WhatsApp Business vai e-pasts.",
+    "h1": "Kontakti",
+    "lead": "Primārais ceļš: WhatsApp Business. E-pasts kā rezerves kopija.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "E-pasts:",
+    "email_also": "Arī sasniedz mapkomah gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber un Telegram pastāv vienā un tajā pašā īstā numura galdā. Šie kanāli nav publicēti. Cloaked ir segvārdiem svešiniekiem un veidlapām, nevis aizstājējs tam galdam.",
+    "note": "Ja pieprasījums ir paraksts, licence vai nauda, vispirms izlasiet dokumentu. Atvēliet laiku. Jautājiet pirms parakstīšanas, nevis pēc."
+  }
+}

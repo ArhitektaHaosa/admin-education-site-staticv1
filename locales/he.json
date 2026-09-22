@@ -1,0 +1,136 @@
+{
+  "locale": "he",
+  "lang_native": "עברית",
+  "lang_dir": "rtl",
+  "site": {
+    "name": "admin.education",
+    "tagline": "הידע חופשי",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "בית",
+    "method": "שיטה",
+    "writing": "כתיבה",
+    "exams": "בחינות",
+    "links": "קישורים",
+    "contact": "צור קשר"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "שיטה ציבורית לניהול מערכות וחינוך טכנולוגי. הידע נשאר חופשי.",
+    "h1": "ניהול מערכות כשיטה ציבורית.",
+    "lead": "admin.education הוא משטח הוראה. לא משרד. לא חנות קורסים. לא פרופיל הצעות מחיר.",
+    "intro": "העבודה היא תשתית, אוריינות AI יישומית ומדידה. הידע נשאר חופשי. הבעלות על השיטה נשארת עם מפעיל הדומיין הזה.",
+    "what_heading": "מה האתר הזה",
+    "what_items": [
+      "עמוד שדרה לכתיבה ארוכה והערות מעבדה.",
+      "מקום לפרסם שיטה מבלי למכור ויזה, תעודה או נס.",
+      "תיעוד ציבורי שהמפעיל הוא מנהל מערכות ומחנך, לא מוסד ממשלתי."
+    ],
+    "what_not_heading": "מה האתר הזה לא",
+    "what_not_items": [
+      "לא RateZip.com. התיעוד ההוא עבודה מתוארכת, 2007 עד 2022.",
+      "לא freelancer.com/u/kerberus. הדף ההוא תיעוד העסקה מ-2006.",
+      "לא אמרגן קונצרטים ולא כותרת אלבום מושאלת.",
+      "לא דוקטורט. אין כאן PhD. עבודת הדיפלומה נותרה בלתי גמורה."
+    ],
+    "note": "אם משפט לא ניתן למדידה או לציטוט מקור, הוא לא שייך לדומיין הזה."
+  },
+  "method": {
+    "title": "שיטה",
+    "page_title": "שיטה — admin.education",
+    "description": "איך admin.education מלמד: מדידה קודם, ידע חופשי, רק White Hat.",
+    "h1": "שיטה",
+    "lead": "מדוד קודם. למד אחר כך. אל תמציא תואר כדי לשאת את המשפט.",
+    "rules_heading": "כללים שנשארים בעמוד",
+    "rules_items": [
+      "הידע חופשי. אין צורך בביקור. רק אונליין.",
+      "רק White Hat. פקודות הן מטפורות על המכונות שלך. שום דבר לא מבוצע נגד צד שלישי.",
+      "הסכמה קודם. ייחוס והדדיות. ליבה משותפת קטנה, פרויקט מקומי.",
+      "תיעוד בית ספר ובחינות פלטפורמה נשארים על שני שורות. הם לא אותו אובייקט. בחינות פלטפורמה נמצאות ב<a href=\"exams.html\">בחינות</a>.",
+      "עבודה שותפים מסומנת במשפט כאשר כסף מעורב."
+    ],
+    "operator_heading": "עובדות מפעיל משומשות כאן",
+    "operator_items": [
+      "מנהל מערכות מאז 2002. תחילה Webmin, Virtualmin, CentOS. מכונות מאוחרות יותר כוללות Linode, Vercel, DigitalOcean.",
+      "ברירת המחדל היא אירוח עצמי כאשר מהירות אינה העדיפות.",
+      "מחנך במדעי המחשב, IT ו-AI. עצמאי. מעולם לא הועסק על ידי מוסדות ממשלתיים סרבים.",
+      "דיפלומה Vukova, OŠ Nikola Tesla, Vinča, 11 ביוני 1998. מקצועות בדיפלומת בית הספר ההיא: אנגלית, ביולוגיה, פיזיקה, מתמטיקה.",
+      "אין דוקטורט. עבודת דיפלומה בלתי גמורה. לאחר מכן עבודה מרחוק עבור חברה קנדית."
+    ],
+    "muted": "כל אחד יכול לבקש תוספות או מקורות על עובדה מוצהרת."
+  },
+  "writing": {
+    "title": "כתיבה",
+    "page_title": "כתיבה — admin.education",
+    "description": "כתיבה ארוכה עבור admin.education חיה ב-Substack.",
+    "h1": "כתיבה",
+    "lead": "הנייר נמצא ב-Substack. דומיין זה הוא עמוד השדרה.",
+    "intro": "פורמט ארוך הולך ל<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. קטעים ציבוריים קצרים הולכים תחילה ל-Bluesky, אז למשטחים הפעילים האחרים. אתר זה לא מדפיס מחדש פיד.",
+    "priority": "מאמרים נושאים את השיטה. פוסטים קצרים הם משטח. אם השניים לא מסכימים, המאמר מנצח.",
+    "live_heading": "משטחים פעילים משומשים לכתיבה",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X לא רשום. LinkedIn לא משומש כמשטח טיוטה כאן."
+  },
+  "exams": {
+    "title": "בחינות פלטפורמה",
+    "page_title": "בחינות פלטפורמה — admin.education",
+    "description": "בחינות פלטפורמת העסקה מתיעוד freelancer/vWorker. לא דיפלומה משרדית. תיעוד בית ספר נשאר בשיטה.",
+    "h1": "בחינות פלטפורמה",
+    "lead": "ממשק פלטפורמת ההעסקה מכנה אלה אישורים. בדומיין הזה הם נשארים בחינות שוק. לא דיפלומה משרדית. לא דוקטורט. תיעוד בית ספר נשאר בשיטה.",
+    "source": "תיעוד פלטפורמת העסקה Freelancer.com / vWorker, כפי שמוצג בצילומי מסך מ-19 בספטמבר 2026. סימני SVG קטנים מקוריים בעמוד זה. לא יצירות אמנות של השוק.",
+    "muted": "תיעוד בית ספר (דיפלומה Vukova, 11 ביוני 1998) הוא אובייקט שונה ונשאר בשיטה. אל תמזג את שתי הרשימות.",
+    "note": "כל אחד יכול לבקש מקור על עובדה מוצהרת. אם מזהה רשמי מאוחר יותר של Skillshop, Adobe או Microsoft מיוצר, הוא מקבל שורה משלו. אריחים אלה אינם זה.",
+    "exam_meta": "בחינה. תיעוד פלטפורמת העסקה: {stars} כוכב.",
+    "exam_meta_plural": "בחינה. תיעוד פלטפורמת העסקה: {stars} כוכבים.",
+    "orientation_meta": "התמצאות. תיעוד פלטפורמת העסקה: {stars} כוכב.",
+    "membership_meta": "חברות. תג חברות. אין כוכב על האריח."
+  },
+  "links": {
+    "title": "קישורים",
+    "page_title": "קישורים — admin.education",
+    "description": "קישורים מומלצים עבור admin.education. Bluesky, כתיבה, מקור, צור קשר.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "ניהול מערכות כשיטה ציבורית. משטח הוראה לתשתית, אוריינות AI יישומית ומדידה. הידע נשאר חופשי.",
+    "featured_label": "קישורים מומלצים",
+    "link_method": "שיטה",
+    "link_method_desc": "איך דומיין זה מלמד",
+    "link_exams": "בחינות",
+    "link_exams_desc": "אריחי פלטפורמת העסקה, מוסבר",
+    "link_writing": "כתיבה",
+    "link_writing_desc": "פורמט ארוך ב-Substack",
+    "link_source": "מקור",
+    "link_source_desc": "עמוד שדרה סטטי ב-GitHub",
+    "link_contact": "צור קשר",
+    "link_contact_desc": "כתוב קודם. אין מספר כאן.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "צור קשר",
+    "page_title": "צור קשר — admin.education",
+    "description": "נתיבי קשר עבור admin.education. WhatsApp Business או אימייל.",
+    "h1": "צור קשר",
+    "lead": "נתיב ראשי: WhatsApp Business. אימייל כגיבוי.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "אימייל:",
+    "email_also": "מגיע גם ל-mapkomah ב-gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber ו-Telegram קיימים על אותו דלפק מספר אמיתי. ערוצים אלה לא מפורסמים. Cloaked הוא לכינויים לזרים וטפסים, לא תחליף לדלפק ההוא.",
+    "note": "אם הבקשה היא חתימה, רישיון או כסף, קרא את המסמך תחילה. קח זמן. שאל לפני שאתה חותם, לא אחרי."
+  }
+}
