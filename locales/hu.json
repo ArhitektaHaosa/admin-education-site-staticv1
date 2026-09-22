@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "A Viber és Telegram ugyanazon a valódi irodai számon léteznek. Ezek a csatornák nincsenek közzétéve. A Cloaked álnevek idegeneknek és űrlapoknak, nem helyettesítése annak az irodának.",
-    "note": "Ha a kérés aláírás, licenc vagy pénz, először olvasd el a dokumentumot. Szánj rá időt. Kérdezz, mielőtt aláírsz, nem utána."
+    "note": "Ha a kérés aláírás, licenc vagy pénz, először olvasd el a dokumentumot. Szánj rá időt. Kérdezz, mielőtt aláírsz, nem utána.",
+    "telegram_label": "Telegram:"
   }
 }

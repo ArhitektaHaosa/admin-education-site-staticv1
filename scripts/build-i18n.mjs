@@ -518,6 +518,7 @@ ${nav}      </nav>
       <p class="lead">${strings.contact.lead}</p>
       <ul class="plain">
         <li><strong>${strings.contact.whatsapp_label}</strong> <a href="https://wa.me/message/J2WSUYWVVMWSN1" rel="noopener noreferrer">wa.me/message/J2WSUYWVVMWSN1</a></li>
+        <li><strong>${strings.contact.telegram_label}</strong> <a href="https://t.me/arhitektaHaosa" rel="noopener noreferrer">@arhitektaHaosa</a></li>
         <li>${strings.contact.email_label} mapkomah at proton.me</li>
         <li>${strings.contact.email_also}</li>
         <li>${strings.contact.bluesky_label} <a href="https://bsky.app/profile/admin.education" rel="noopener noreferrer">admin.education</a></li>

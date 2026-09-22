@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber ja Telegram eksisteerivad samal pärisnumbri laual. Need kanalid ei ole avaldatud. Cloaked on varjunimede jaoks võõrastele ja vormidele, mitte asendus sellele lauale.",
-    "note": "Kui palve on allkiri, litsents või raha, lugege dokument kõigepealt läbi. Võtke aega. Küsige enne allkirjastamist, mitte pärast."
+    "note": "Kui palve on allkiri, litsents või raha, lugege dokument kõigepealt läbi. Võtke aega. Küsige enne allkirjastamist, mitte pärast.",
+    "telegram_label": "Telegram:"
   }
 }

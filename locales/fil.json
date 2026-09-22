@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Ang Viber at Telegram ay umiiral sa parehong totoong numero ng desk. Ang mga channel na iyon ay hindi nai-publish. Ang Cloaked ay para sa mga alias sa mga estranghero at mga form, hindi kapalit para sa desk na iyon.",
-    "note": "Kung ang hinihiling ay pirma, lisensya, o pera, basahin muna ang dokumento. Maglaan ng oras. Magtanong bago ka pumirma, hindi pagkatapos."
+    "note": "Kung ang hinihiling ay pirma, lisensya, o pera, basahin muna ang dokumento. Maglaan ng oras. Magtanong bago ka pumirma, hindi pagkatapos.",
+    "telegram_label": "Telegram:"
   }
 }

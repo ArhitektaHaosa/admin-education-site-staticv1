@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber ir Telegram egzistuoja tame pačiame tikro numerio stale. Tie kanalai nėra paskelbti. Cloaked yra slapyvardžiams svetimiems ir formoms, o ne pakeitimas tam stalui.",
-    "note": "Jei prašymas yra parašas, licencija ar pinigai, pirmiausia perskaitykite dokumentą. Skirti laiko. Klausk prieš pasirašydamas, o ne po to."
+    "note": "Jei prašymas yra parašas, licencija ar pinigai, pirmiausia perskaitykite dokumentą. Skirti laiko. Klausk prieš pasirašydamas, o ne po to.",
+    "telegram_label": "Telegram:"
   }
 }

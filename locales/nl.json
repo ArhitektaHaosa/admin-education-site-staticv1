@@ -2,8 +2,19 @@
   "locale": "nl",
   "lang_native": "Nederlands",
   "lang_dir": "ltr",
-  "site": {"name": "admin.education", "tagline": "kennis is gratis", "year": "2026"},
-  "nav": {"home": "Home", "method": "Methode", "writing": "Schrijven", "exams": "Examens", "links": "Links", "contact": "Contact"},
+  "site": {
+    "name": "admin.education",
+    "tagline": "kennis is gratis",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Home",
+    "method": "Methode",
+    "writing": "Schrijven",
+    "exams": "Examens",
+    "links": "Links",
+    "contact": "Contact"
+  },
   "home": {
     "title": "admin.education",
     "description": "Publieke methode voor systeembeheer en technologisch onderwijs. Kennis blijft gratis.",
@@ -120,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber en Telegram bestaan op hetzelfde echte-nummerbur bureau. Die kanalen zijn niet gepubliceerd. Cloaked is voor aliassen voor vreemden en formulieren, geen vervanging voor dat bureau.",
-    "note": "Als het verzoek een handtekening, een licentie of geld is, lees dan eerst het document. Neem de tijd. Vraag voor ondertekening, niet na."
+    "note": "Als het verzoek een handtekening, een licentie of geld is, lees dan eerst het document. Neem de tijd. Vraag voor ondertekening, niet na.",
+    "telegram_label": "Telegram:"
   }
 }

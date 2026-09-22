@@ -120,9 +120,9 @@
   "contact": {
     "title": "Contacto",
     "page_title": "Contacto — admin.education",
-    "description": "Caminhos de contacto para admin.education. WhatsApp Business ou e-mail.",
+    "description": "Caminhos de contacto para admin.education. WhatsApp Business, Telegram, ou e-mail.",
     "h1": "Contacto",
-    "lead": "Caminho primário: WhatsApp Business. E-mail como backup.",
+    "lead": "Caminho primário: WhatsApp Business. Telegram e e-mail como backup.",
     "whatsapp_label": "WhatsApp Business:",
     "email_label": "E-mail:",
     "email_also": "Também chega a mapkomah no gmail.com",
@@ -130,7 +130,8 @@
     "instagram_label": "Instagram:",
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
-    "other_channels": "Viber e Telegram existem na mesma secretária de número real. Esses canais não são publicados. Cloaked é para pseudónimos para estranhos e formulários, não uma substituição para essa secretária.",
-    "note": "Se o pedido for uma assinatura, uma licença ou dinheiro, leia o documento primeiro. Dedique tempo. Pergunte antes de assinar, não depois."
+    "other_channels": "Viber existem na mesma secretária de número real. Esse canal não são publicados. Cloaked é para pseudónimos para estranhos e formulários, não uma substituição para essa secretária.",
+    "note": "Se o pedido for uma assinatura, uma licença ou dinheiro, leia o documento primeiro. Dedique tempo. Pergunte antes de assinar, não depois.",
+    "telegram_label": "Telegram:"
   }
 }

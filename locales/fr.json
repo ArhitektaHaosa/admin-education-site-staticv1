@@ -131,6 +131,7 @@
     "facebook_label": "Facebook :",
     "substack_label": "Substack :",
     "other_channels": "Viber et Telegram existent sur le même bureau à numéro réel. Ces canaux ne sont pas publiés. Cloaked est pour les alias aux étrangers et aux formulaires, pas un remplacement pour ce bureau.",
-    "note": "Si la demande est une signature, une licence ou de l'argent, lisez d'abord le document. Prenez le temps. Demandez avant de signer, pas après."
+    "note": "Si la demande est une signature, une licence ou de l'argent, lisez d'abord le document. Prenez le temps. Demandez avant de signer, pas après.",
+    "telegram_label": "Telegram:"
   }
 }

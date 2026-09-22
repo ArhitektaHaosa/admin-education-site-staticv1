@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber och Telegram finns på samma verkliga kontorsnummer. De kanalerna är inte publicerade. Cloaked är för alias till främlingar och formulär, inte en ersättning för det kontoret.",
-    "note": "Om förfrågan är en signatur, licens eller pengar, läs dokumentet först. Ta dig tid. Fråga innan du signerar, inte efter."
+    "note": "Om förfrågan är en signatur, licens eller pengar, läs dokumentet först. Ta dig tid. Fråga innan du signerar, inte efter.",
+    "telegram_label": "Telegram:"
   }
 }

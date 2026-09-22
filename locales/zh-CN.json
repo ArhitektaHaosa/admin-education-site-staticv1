@@ -2,8 +2,19 @@
   "locale": "zh-CN",
   "lang_native": "简体中文",
   "lang_dir": "ltr",
-  "site": {"name": "admin.education", "tagline": "知识是免费的", "year": "2026"},
-  "nav": {"home": "首页", "method": "方法", "writing": "写作", "exams": "考试", "links": "链接", "contact": "联系方式"},
+  "site": {
+    "name": "admin.education",
+    "tagline": "知识是免费的",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "首页",
+    "method": "方法",
+    "writing": "写作",
+    "exams": "考试",
+    "links": "链接",
+    "contact": "联系方式"
+  },
   "home": {
     "title": "admin.education",
     "description": "系统管理和技术教育的公开方法。知识保持免费。",
@@ -120,6 +131,7 @@
     "facebook_label": "Facebook：",
     "substack_label": "Substack：",
     "other_channels": "Viber 和 Telegram 存在于同一真实号码桌面上。这些频道未发布。Cloaked 用于陌生人和表单的别名，而不是该桌面的替代品。",
-    "note": "如果请求是签名、许可证或金钱，请先阅读文档。花时间。在签名之前询问，而不是之后。"
+    "note": "如果请求是签名、许可证或金钱，请先阅读文档。花时间。在签名之前询问，而不是之后。",
+    "telegram_label": "Telegram:"
   }
 }

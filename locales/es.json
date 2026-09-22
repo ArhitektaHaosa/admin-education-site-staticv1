@@ -2,8 +2,19 @@
   "locale": "es",
   "lang_native": "Español",
   "lang_dir": "ltr",
-  "site": {"name": "admin.education", "tagline": "el conocimiento es gratuito", "year": "2026"},
-  "nav": {"home": "Inicio", "method": "Método", "writing": "Escritura", "exams": "Exámenes", "links": "Enlaces", "contact": "Contacto"},
+  "site": {
+    "name": "admin.education",
+    "tagline": "el conocimiento es gratuito",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Inicio",
+    "method": "Método",
+    "writing": "Escritura",
+    "exams": "Exámenes",
+    "links": "Enlaces",
+    "contact": "Contacto"
+  },
   "home": {
     "title": "admin.education",
     "description": "Método público para administración de sistemas y educación tecnológica. El conocimiento permanece gratuito.",
@@ -109,7 +120,7 @@
   "contact": {
     "title": "Contacto",
     "page_title": "Contacto — admin.education",
-    "description": "Rutas de contacto para admin.education. WhatsApp Business o correo electrónico.",
+    "description": "Rutas de contacto para admin.education. WhatsApp Business, Telegram, o correo electrónico.",
     "h1": "Contacto",
     "lead": "Ruta principal: WhatsApp Business. Correo electrónico como respaldo.",
     "whatsapp_label": "WhatsApp Business:",
@@ -119,7 +130,8 @@
     "instagram_label": "Instagram:",
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
-    "other_channels": "Viber y Telegram existen en la misma mesa de número real. Esos canales no se publican. Cloaked es para alias para extraños y formularios, no un reemplazo para esa mesa.",
-    "note": "Si la solicitud es una firma, una licencia o dinero, lea el documento primero. Tómese su tiempo. Pregunte antes de firmar, no después."
+    "other_channels": "Viber existen en la misma mesa de número real. Ese canal no se publican. Cloaked es para alias para extraños y formularios, no un reemplazo para esa mesa.",
+    "note": "Si la solicitud es una firma, una licencia o dinero, lea el documento primero. Tómese su tiempo. Pregunte antes de firmar, no después.",
+    "telegram_label": "Telegram:"
   }
 }

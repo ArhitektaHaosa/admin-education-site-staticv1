@@ -120,17 +120,18 @@
   "contact": {
     "title": "Contact",
     "page_title": "Contact — admin.education",
-    "description": "Contact paths for admin.education. WhatsApp Business or email.",
+    "description": "Contact paths for admin.education. WhatsApp Business, Telegram, or email.",
     "h1": "Contact",
-    "lead": "Primary path: WhatsApp Business. Email as backup.",
+    "lead": "Primary path: WhatsApp Business. Telegram and email as backup.",
     "whatsapp_label": "WhatsApp Business:",
+    "telegram_label": "Telegram:",
     "email_label": "Email:",
     "email_also": "Also reaches mapkomah at gmail.com",
     "bluesky_label": "Bluesky:",
     "instagram_label": "Instagram:",
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
-    "other_channels": "Viber and Telegram exist on the same real-number desk. Those channels are not published. Cloaked is for aliases to strangers and forms, not a replacement for that desk.",
+    "other_channels": "Viber exists on the same real-number desk. That channel is not published. Cloaked is for aliases to strangers and forms, not a replacement for that desk.",
     "note": "If the ask is a signature, a license, or money, read the document first. Take the time. Ask before you sign, not after."
   }
 }

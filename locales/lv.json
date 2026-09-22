@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber un Telegram pastāv vienā un tajā pašā īstā numura galdā. Šie kanāli nav publicēti. Cloaked ir segvārdiem svešiniekiem un veidlapām, nevis aizstājējs tam galdam.",
-    "note": "Ja pieprasījums ir paraksts, licence vai nauda, vispirms izlasiet dokumentu. Atvēliet laiku. Jautājiet pirms parakstīšanas, nevis pēc."
+    "note": "Ja pieprasījums ir paraksts, licence vai nauda, vispirms izlasiet dokumentu. Atvēliet laiku. Jautājiet pirms parakstīšanas, nevis pēc.",
+    "telegram_label": "Telegram:"
   }
 }

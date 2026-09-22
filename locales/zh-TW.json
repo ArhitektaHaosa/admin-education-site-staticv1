@@ -131,6 +131,7 @@
     "facebook_label": "Facebook：",
     "substack_label": "Substack：",
     "other_channels": "Viber 和 Telegram 存在於同一個真實的辦公室號碼上。這些頻道未發布。Cloaked 用於陌生人和表格的別名，而不是該辦公室的替代品。",
-    "note": "如果請求是簽名、許可證或金錢，請先閱讀文件。花時間。在您簽署之前詢問，而不是之後。"
+    "note": "如果請求是簽名、許可證或金錢，請先閱讀文件。花時間。在您簽署之前詢問，而不是之後。",
+    "telegram_label": "Telegram:"
   }
 }

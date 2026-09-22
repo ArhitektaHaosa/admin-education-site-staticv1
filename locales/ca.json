@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber i Telegram existeixen al mateix escriptori de número real. Aquests canals no estan publicats. Cloaked és per a àlies per a estranys i formularis, no un reemplaçament per a aquest escriptori.",
-    "note": "Si la sol·licitud és una signatura, una llicència o diners, llegeix el document primer. Pren el temps. Pregunta abans de signar, no després."
+    "note": "Si la sol·licitud és una signatura, una llicència o diners, llegeix el document primer. Pren el temps. Pregunta abans de signar, no després.",
+    "telegram_label": "Telegram:"
   }
 }

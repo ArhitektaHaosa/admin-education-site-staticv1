@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber og Telegram eksisterer på samme ekte nummerpult. De kanalene er ikke publisert. Cloaked er for aliaser til fremmede og skjemaer, ikke en erstatning for den pulten.",
-    "note": "Hvis forespørselen er en signatur, en lisens eller penger, les dokumentet først. Ta deg tid. Spør før du signerer, ikke etter."
+    "note": "Hvis forespørselen er en signatur, en lisens eller penger, les dokumentet først. Ta deg tid. Spør før du signerer, ikke etter.",
+    "telegram_label": "Telegram:"
   }
 }

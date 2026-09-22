@@ -2,8 +2,19 @@
   "locale": "tr",
   "lang_native": "Türkçe",
   "lang_dir": "ltr",
-  "site": {"name": "admin.education", "tagline": "bilgi ücretsizdir", "year": "2026"},
-  "nav": {"home": "Ana Sayfa", "method": "Yöntem", "writing": "Yazı", "exams": "Sınavlar", "links": "Bağlantılar", "contact": "İletişim"},
+  "site": {
+    "name": "admin.education",
+    "tagline": "bilgi ücretsizdir",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "method": "Yöntem",
+    "writing": "Yazı",
+    "exams": "Sınavlar",
+    "links": "Bağlantılar",
+    "contact": "İletişim"
+  },
   "home": {
     "title": "admin.education",
     "description": "Sistem yönetimi ve teknoloji eğitimi için halka açık yöntem. Bilgi ücretsiz kalır.",
@@ -120,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber ve Telegram aynı gerçek numaralı masada mevcuttur. Bu kanallar yayınlanmamıştır. Cloaked yabancılar ve formlar için takma adlar içindir, o masanın yerini almaz.",
-    "note": "İstek bir imza, lisans veya para ise, önce belgeyi okuyun. Zaman ayırın. İmzalamadan önce sorun, sonra değil."
+    "note": "İstek bir imza, lisans veya para ise, önce belgeyi okuyun. Zaman ayırın. İmzalamadan önce sorun, sonra değil.",
+    "telegram_label": "Telegram:"
   }
 }

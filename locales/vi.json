@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber và Telegram tồn tại trên cùng một bàn số thực. Các kênh đó không được công bố. Cloaked là để bí danh cho người lạ và biểu mẫu, không phải thay thế cho bàn đó.",
-    "note": "Nếu yêu cầu là chữ ký, giấy phép hoặc tiền, hãy đọc tài liệu trước. Dành thời gian. Hỏi trước khi ký, không phải sau."
+    "note": "Nếu yêu cầu là chữ ký, giấy phép hoặc tiền, hãy đọc tài liệu trước. Dành thời gian. Hỏi trước khi ký, không phải sau.",
+    "telegram_label": "Telegram:"
   }
 }

@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber in Telegram obstajata na isti mizi resničnega števila. Ti kanali niso objavljeni. Cloaked je za vzdevke za tujce in obrazce, ne nadomestilo za to mizo.",
-    "note": "Če je zahteva podpis, licenca ali denar, najprej preberite dokument. Vzemite si čas. Vprašajte, preden podpišete, ne pozneje."
+    "note": "Če je zahteva podpis, licenca ali denar, najprej preberite dokument. Vzemite si čas. Vprašajte, preden podpišete, ne pozneje.",
+    "telegram_label": "Telegram:"
   }
 }

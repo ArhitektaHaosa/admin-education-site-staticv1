@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber dhe Telegram ekzistojnë në të njëjtën tavolinë me numër real. Ato kanale nuk janë publikuar. Cloaked është për pseudonime për të huaj dhe forma, jo zëvendësues për atë tavolinë.",
-    "note": "Nëse kërkesa është një nënshkrim, licencë ose para, lexoni dokumentin së pari. Merrni kohë. Pyesni para se të nënshkruani, jo pas."
+    "note": "Nëse kërkesa është një nënshkrim, licencë ose para, lexoni dokumentin së pari. Merrni kohë. Pyesni para se të nënshkruani, jo pas.",
+    "telegram_label": "Telegram:"
   }
 }

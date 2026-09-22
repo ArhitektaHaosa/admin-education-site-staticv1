@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber a Telegram existují na stejném skutečném čísle stolu. Tyto kanály nejsou publikovány. Cloaked je pro pseudonymy pro cizince a formuláře, nikoli náhrada za ten stůl.",
-    "note": "Pokud je žádost podpis, licence nebo peníze, nejprve si přečtěte dokument. Věnujte čas. Ptejte se, než podepíšete, nikoli potom."
+    "note": "Pokud je žádost podpis, licence nebo peníze, nejprve si přečtěte dokument. Věnujte čas. Ptejte se, než podepíšete, nikoli potom.",
+    "telegram_label": "Telegram:"
   }
 }
