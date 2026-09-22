@@ -130,7 +130,8 @@
     "instagram_label": "Instagram:",
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
-    "other_channels": "Viber e Telegram existem na mesma mesa de número real. Esses canais não são publicados. Cloaked é para aliases para estranhos e formulários, não uma substituição para essa mesa.",
-    "note": "Se o pedido é uma assinatura, uma licença ou dinheiro, leia o documento primeiro. Tome seu tempo. Pergunte antes de assinar, não depois."
+    "other_channels": "Viber existem na mesma mesa de número real. Esse canal não são publicados. Cloaked é para aliases para estranhos e formulários, não uma substituição para essa mesa.",
+    "note": "Se o pedido é uma assinatura, uma licença ou dinheiro, leia o documento primeiro. Tome seu tempo. Pergunte antes de assinar, não depois.",
+    "telegram_label": "Telegram:"
   }
 }

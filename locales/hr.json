@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber i Telegram postoje na istom broju stvarnog stola. Ti kanali nisu objavljeni. Cloaked je za pseudonime strancima i obrascima, ne zamjena za taj stol.",
-    "note": "Ako je zahtjev potpis, licenca ili novac, prvo pročitajte dokument. Odvojite vrijeme. Pitajte prije nego potpišete, ne nakon."
+    "note": "Ako je zahtjev potpis, licenca ili novac, prvo pročitajte dokument. Odvojite vrijeme. Pitajte prije nego potpišete, ne nakon.",
+    "telegram_label": "Telegram:"
   }
 }

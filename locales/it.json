@@ -2,8 +2,19 @@
   "locale": "it",
   "lang_native": "Italiano",
   "lang_dir": "ltr",
-  "site": {"name": "admin.education", "tagline": "la conoscenza è gratuita", "year": "2026"},
-  "nav": {"home": "Home", "method": "Metodo", "writing": "Scrittura", "exams": "Esami", "links": "Collegamenti", "contact": "Contatto"},
+  "site": {
+    "name": "admin.education",
+    "tagline": "la conoscenza è gratuita",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Home",
+    "method": "Metodo",
+    "writing": "Scrittura",
+    "exams": "Esami",
+    "links": "Collegamenti",
+    "contact": "Contatto"
+  },
   "home": {
     "title": "admin.education",
     "description": "Metodo pubblico per l'amministrazione di sistema e l'educazione tecnologica. La conoscenza rimane gratuita.",
@@ -119,7 +130,8 @@
     "instagram_label": "Instagram:",
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
-    "other_channels": "Viber e Telegram esistono sulla stessa scrivania numero reale. Quei canali non sono pubblicati. Cloaked è per alias a estranei e moduli, non un sostituto per quella scrivania.",
-    "note": "Se la richiesta è una firma, una licenza o denaro, leggi prima il documento. Prenditi il tempo. Chiedi prima di firmare, non dopo."
+    "other_channels": "Viber esistono sulla stessa scrivania numero reale. Quei canali non sono pubblicati. Cloaked è per alias a estranei e moduli, non un sostituto per quella scrivania.",
+    "note": "Se la richiesta è una firma, una licenza o denaro, leggi prima il documento. Prenditi il tempo. Chiedi prima di firmare, non dopo.",
+    "telegram_label": "Telegram:"
   }
 }

@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber og Telegram eksisterer på samme rigtige kontornummer. De kanaler er ikke offentliggjort. Cloaked er til aliasser til fremmede og formularer, ikke en erstatning for det kontor.",
-    "note": "Hvis anmodningen er en underskrift, licens eller penge, læs først dokumentet. Tag dig tid. Spørg før du underskriver, ikke efter."
+    "note": "Hvis anmodningen er en underskrift, licens eller penge, læs først dokumentet. Tag dig tid. Spørg før du underskriver, ikke efter.",
+    "telegram_label": "Telegram:"
   }
 }

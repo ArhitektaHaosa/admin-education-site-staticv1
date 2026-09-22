@@ -2,8 +2,19 @@
   "locale": "pl",
   "lang_native": "Polski",
   "lang_dir": "ltr",
-  "site": {"name": "admin.education", "tagline": "wiedza jest darmowa", "year": "2026"},
-  "nav": {"home": "Strona główna", "method": "Metoda", "writing": "Pisanie", "exams": "Egzaminy", "links": "Linki", "contact": "Kontakt"},
+  "site": {
+    "name": "admin.education",
+    "tagline": "wiedza jest darmowa",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Strona główna",
+    "method": "Metoda",
+    "writing": "Pisanie",
+    "exams": "Egzaminy",
+    "links": "Linki",
+    "contact": "Kontakt"
+  },
   "home": {
     "title": "admin.education",
     "description": "Publiczna metoda administracji systemowej i edukacji technologicznej. Wiedza pozostaje darmowa.",
@@ -120,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber i Telegram istnieją na tym samym biurku z prawdziwym numerem. Te kanały nie są publikowane. Cloaked jest dla aliasów dla nieznajomych i formularzy, a nie zastąpienia dla tego biurka.",
-    "note": "Jeśli prośba dotyczy podpisu, licencji lub pieniędzy, najpierw przeczytaj dokument. Poświęć czas. Zapytaj przed podpisaniem, a nie po."
+    "note": "Jeśli prośba dotyczy podpisu, licencji lub pieniędzy, najpierw przeczytaj dokument. Poświęć czas. Zapytaj przed podpisaniem, a nie po.",
+    "telegram_label": "Telegram:"
   }
 }

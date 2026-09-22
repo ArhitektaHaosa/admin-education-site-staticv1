@@ -120,7 +120,7 @@
   "contact": {
     "title": "Kontak",
     "page_title": "Kontak — admin.education",
-    "description": "Jalur kontak untuk admin.education. WhatsApp Business atau email.",
+    "description": "Jalur kontak untuk admin.education. WhatsApp Business, Telegram, atau email.",
     "h1": "Kontak",
     "lead": "Jalur utama: WhatsApp Business. Email sebagai cadangan.",
     "whatsapp_label": "WhatsApp Business:",
@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber dan Telegram ada di nomor meja nyata yang sama. Saluran itu tidak dipublikasikan. Cloaked untuk alias ke orang asing dan formulir, bukan pengganti untuk meja itu.",
-    "note": "Jika permintaan adalah tanda tangan, lisensi, atau uang, baca dokumen dulu. Luangkan waktu. Tanya sebelum Anda menandatangani, bukan setelah."
+    "note": "Jika permintaan adalah tanda tangan, lisensi, atau uang, baca dokumen dulu. Luangkan waktu. Tanya sebelum Anda menandatangani, bukan setelah.",
+    "telegram_label": "Telegram:"
   }
 }

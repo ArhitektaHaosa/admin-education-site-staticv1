@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber și Telegram există pe același număr real de birou. Acele canale nu sunt publicate. Cloaked este pentru aliasuri către străini și formulare, nu o înlocuire pentru acel birou.",
-    "note": "Dacă cererea este o semnătură, o licență sau bani, mai întâi citiți documentul. Luați-vă timp. Întrebați înainte de a semna, nu după."
+    "note": "Dacă cererea este o semnătură, o licență sau bani, mai întâi citiți documentul. Luați-vă timp. Întrebați înainte de a semna, nu după.",
+    "telegram_label": "Telegram:"
   }
 }

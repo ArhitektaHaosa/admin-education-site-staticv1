@@ -1,0 +1,137 @@
+{
+  "locale": "fa",
+  "lang_native": "فارسی",
+  "lang_dir": "rtl",
+  "site": {
+    "name": "admin.education",
+    "tagline": "دانش رایگان است",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "خانه",
+    "method": "روش",
+    "writing": "نوشتن",
+    "exams": "آزمون‌ها",
+    "links": "پیوندها",
+    "contact": "تماس"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "روش عمومی برای مدیریت سیستم و آموزش فناوری. دانش رایگان می‌ماند.",
+    "h1": "مدیریت سیستم به عنوان یک روش عمومی.",
+    "lead": "admin.education یک سطح آموزشی است. وزارتخانه نیست. فروشگاه دوره نیست. پروفایل پیشنهاد نیست.",
+    "intro": "کار زیرساخت، سوادآموزی کاربردی هوش مصنوعی و اندازه‌گیری است. دانش رایگان می‌ماند. مالکیت روش با اپراتور این دامنه است.",
+    "what_heading": "این سایت چیست",
+    "what_items": [
+      "ستون فقرات برای نوشته‌های بلند و یادداشت‌های آزمایشگاهی.",
+      "مکانی برای انتشار روش بدون فروش ویزا، مدرک یا معجزه.",
+      "سابقه عمومی که اپراتور یک مدیر سیستم و یک مربی است، نه یک مؤسسه دولتی."
+    ],
+    "what_not_heading": "این سایت چه نیست",
+    "what_not_items": [
+      "RateZip.com نیست. آن سابقه کار تاریخ‌دار است، ۲۰۰۷ تا ۲۰۲۲.",
+      "freelancer.com/u/kerberus نیست. آن صفحه سابقه استخدام از ۲۰۰۶ است.",
+      "یک برگزارکننده کنسرت نیست و عنوان آلبوم قرض گرفته شده نیست.",
+      "دکترا نیست. اینجا PhD وجود ندارد. پایان‌نامه دیپلم ناتمام باقی مانده است."
+    ],
+    "note": "اگر جمله‌ای قابل اندازه‌گیری یا ارجاع به منبع نباشد، به این دامنه تعلق ندارد."
+  },
+  "method": {
+    "title": "روش",
+    "page_title": "روش — admin.education",
+    "description": "چگونه admin.education آموزش می‌دهد: اول اندازه‌گیری، دانش رایگان، فقط White Hat.",
+    "h1": "روش",
+    "lead": "اول اندازه بگیر. دوم آموزش بده. عنوان اختراع نکن که جمله را حمل کنی.",
+    "rules_heading": "قوانینی که در صفحه می‌مانند",
+    "rules_items": [
+      "دانش رایگان است. بازدیدی لازم نیست. فقط آنلاین.",
+      "فقط White Hat. دستورات استعاره‌ای در ماشین‌های خودتان هستند. هیچ چیز علیه شخص ثالث اجرا نمی‌شود.",
+      "اول رضایت. انتساب و معامله متقابل. هسته کوچک مشترک، پروژه محلی.",
+      "سابقه مدرسه و آزمون‌های پلتفرم در دو خط می‌مانند. آنها یک شیء نیستند. آزمون‌های پلتفرم در <a href=\"exams.html\">آزمون‌ها</a> هستند.",
+      "کار وابسته در جمله علامت‌گذاری می‌شود وقتی پول درگیر است."
+    ],
+    "operator_heading": "حقایق اپراتور استفاده شده در اینجا",
+    "operator_items": [
+      "مدیر سیستم از ۲۰۰۲. اول Webmin، Virtualmin، CentOS. ماشین‌های بعدی شامل Linode، Vercel، DigitalOcean.",
+      "پیش‌فرض میزبانی خود است وقتی سرعت اولویت نیست.",
+      "مربی در علوم رایانه، فناوری اطلاعات و هوش مصنوعی. مستقل. هرگز توسط مؤسسات دولتی صربستان استخدام نشده.",
+      "دیپلم Vukova، OŠ Nikola Tesla، Vinča، ۱۱ ژوئن ۱۹۹۸. موضوعات در آن دیپلم مدرسه: انگلیسی، زیست‌شناسی، فیزیک، ریاضیات.",
+      "بدون دکترا. پایان‌نامه دیپلم ناتمام. سپس کار از راه دور برای یک شرکت کانادایی."
+    ],
+    "muted": "هر کسی می‌تواند افزودن‌ها یا منابع درباره یک حقیقت اعلام شده بخواهد."
+  },
+  "writing": {
+    "title": "نوشتن",
+    "page_title": "نوشتن — admin.education",
+    "description": "نوشته‌های طولانی برای admin.education در Substack زندگی می‌کنند.",
+    "h1": "نوشتن",
+    "lead": "کاغذ در Substack است. این دامنه ستون فقرات است.",
+    "intro": "فرم بلند به <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a> می‌رود. برش‌های عمومی کوتاه اول به Bluesky می‌روند، سپس به سایر سطوح فعال. این سایت خبرنامه را دوباره چاپ نمی‌کند.",
+    "priority": "مقاله‌ها روش را حمل می‌کنند. پست‌های کوتاه سطح هستند. اگر دو مورد موافق نباشند، مقاله برنده است.",
+    "live_heading": "سطوح فعال استفاده شده برای نوشتن",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X فهرست نشده است. LinkedIn به عنوان سطح پیش‌نویس در اینجا استفاده نمی‌شود."
+  },
+  "exams": {
+    "title": "آزمون‌های پلتفرم",
+    "page_title": "آزمون‌های پلتفرم — admin.education",
+    "description": "آزمون‌های پلتفرم استخدام از سابقه freelancer/vWorker. مدرک وزارتخانه نیست. سابقه مدرسه در روش می‌ماند.",
+    "h1": "آزمون‌های پلتفرم",
+    "lead": "رابط کاربری پلتفرم استخدام اینها را گواهینامه می‌نامد. در این دامنه آزمون‌های بازار باقی می‌مانند. مدرک وزارتخانه نیست. دکترا نیست. سابقه مدرسه در روش می‌ماند.",
+    "source": "سابقه پلتفرم استخدام Freelancer.com / vWorker، همانطور که در تصاویر صفحه ۱۹ سپتامبر ۲۰۲۶ نشان داده شده است. علامت‌های SVG کوچک اصلی در این صفحه. نه آثار هنری بازار.",
+    "muted": "سابقه مدرسه (دیپلم Vukova، ۱۱ ژوئن ۱۹۹۸) یک شیء متفاوت است و در روش می‌ماند. دو لیست را ادغام نکنید.",
+    "note": "هر کسی می‌تواند منبعی برای یک حقیقت اعلام شده بخواهد. اگر بعداً یک شناسه رسمی Skillshop، Adobe یا Microsoft تولید شود، خط خود را دریافت می‌کند. این کاشی‌ها آن نیستند.",
+    "exam_meta": "آزمون. سابقه پلتفرم استخدام: {stars} ستاره.",
+    "exam_meta_plural": "آزمون. سابقه پلتفرم استخدام: {stars} ستاره.",
+    "orientation_meta": "جهت‌گیری. سابقه پلتفرم استخدام: {stars} ستاره.",
+    "membership_meta": "عضویت. نشان عضویت. ستاره‌ای روی کاشی نیست."
+  },
+  "links": {
+    "title": "پیوندها",
+    "page_title": "پیوندها — admin.education",
+    "description": "پیوندهای برجسته برای admin.education. Bluesky، نوشتن، منبع، تماس.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "مدیریت سیستم به عنوان روش عمومی. سطح آموزشی برای زیرساخت، سوادآموزی کاربردی هوش مصنوعی و اندازه‌گیری. دانش رایگان می‌ماند.",
+    "featured_label": "پیوندهای برجسته",
+    "link_method": "روش",
+    "link_method_desc": "چگونه این دامنه آموزش می‌دهد",
+    "link_exams": "آزمون‌ها",
+    "link_exams_desc": "کاشی‌های پلتفرم استخدام، توضیح داده شده",
+    "link_writing": "نوشتن",
+    "link_writing_desc": "فرم بلند در Substack",
+    "link_source": "منبع",
+    "link_source_desc": "ستون فقرات ایستا در GitHub",
+    "link_contact": "تماس",
+    "link_contact_desc": "اول بنویسید. شماره‌ای اینجا نیست.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "تماس",
+    "page_title": "تماس — admin.education",
+    "description": "مسیرهای تماس برای admin.education. WhatsApp Business یا ایمیل.",
+    "h1": "تماس",
+    "lead": "مسیر اولیه: WhatsApp Business. ایمیل به عنوان پشتیبان.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "ایمیل:",
+    "email_also": "همچنین به mapkomah در gmail.com می‌رسد",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber و Telegram در همان میز شماره واقعی وجود دارند. آن کانال‌ها منتشر نشده‌اند. Cloaked برای نام‌های مستعار به غریبه‌ها و فرم‌هاست، نه جایگزین آن میز.",
+    "note": "اگر درخواست امضا، مجوز یا پول است، ابتدا سند را بخوانید. وقت بگذارید. قبل از امضا بپرسید، نه بعد.",
+    "telegram_label": "Telegram:"
+  }
+}

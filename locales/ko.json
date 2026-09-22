@@ -2,8 +2,19 @@
   "locale": "ko",
   "lang_native": "한국어",
   "lang_dir": "ltr",
-  "site": {"name": "admin.education", "tagline": "지식은 무료", "year": "2026"},
-  "nav": {"home": "홈", "method": "방법", "writing": "글쓰기", "exams": "시험", "links": "링크", "contact": "연락처"},
+  "site": {
+    "name": "admin.education",
+    "tagline": "지식은 무료",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "홈",
+    "method": "방법",
+    "writing": "글쓰기",
+    "exams": "시험",
+    "links": "링크",
+    "contact": "연락처"
+  },
   "home": {
     "title": "admin.education",
     "description": "시스템 관리 및 기술 교육을 위한 공개 방법. 지식은 무료로 유지됩니다.",
@@ -120,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber와 Telegram은 동일한 실제 번호 데스크에 있습니다. 해당 채널은 게시되지 않습니다. Cloaked는 낯선 사람과 양식에 대한 별칭이며 해당 데스크의 대체가 아닙니다.",
-    "note": "요청이 서명, 라이센스 또는 돈인 경우 먼저 문서를 읽으십시오. 시간을 가지십시오. 서명하기 전에 물어보십시오. 나중이 아닙니다."
+    "note": "요청이 서명, 라이센스 또는 돈인 경우 먼저 문서를 읽으십시오. 시간을 가지십시오. 서명하기 전에 물어보십시오. 나중이 아닙니다.",
+    "telegram_label": "Telegram:"
   }
 }

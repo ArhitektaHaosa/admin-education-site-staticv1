@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber ja Telegram ovat samassa todellisessa toimistonumerossa. Näitä kanavia ei ole julkaistu. Cloaked on aliaksille vieraille ja lomakkeille, ei korvike tuolle toimistolle.",
-    "note": "Jos pyyntö on allekirjoitus, lisenssi tai rahaa, lue ensin asiakirja. Käytä aikaa. Kysy ennen allekirjoitusta, ei jälkeen."
+    "note": "Jos pyyntö on allekirjoitus, lisenssi tai rahaa, lue ensin asiakirja. Käytä aikaa. Kysy ennen allekirjoitusta, ei jälkeen.",
+    "telegram_label": "Telegram:"
   }
 }

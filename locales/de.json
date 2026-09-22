@@ -131,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "Viber und Telegram existieren auf demselben Echtnamernschreibtisch. Diese Kanäle sind nicht veröffentlicht. Cloaked ist für Aliase für Fremde und Formulare, kein Ersatz für diesen Schreibtisch.",
-    "note": "Wenn die Anfrage eine Unterschrift, eine Lizenz oder Geld ist, lesen Sie zuerst das Dokument. Nehmen Sie sich die Zeit. Fragen Sie, bevor Sie unterschreiben, nicht danach."
+    "note": "Wenn die Anfrage eine Unterschrift, eine Lizenz oder Geld ist, lesen Sie zuerst das Dokument. Nehmen Sie sich die Zeit. Fragen Sie, bevor Sie unterschreiben, nicht danach.",
+    "telegram_label": "Telegram:"
   }
 }

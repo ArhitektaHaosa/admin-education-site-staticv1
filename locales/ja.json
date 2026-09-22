@@ -2,8 +2,19 @@
   "locale": "ja",
   "lang_native": "日本語",
   "lang_dir": "ltr",
-  "site": {"name": "admin.education", "tagline": "知識は無料", "year": "2026"},
-  "nav": {"home": "ホーム", "method": "メソッド", "writing": "執筆", "exams": "試験", "links": "リンク", "contact": "お問い合わせ"},
+  "site": {
+    "name": "admin.education",
+    "tagline": "知識は無料",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "ホーム",
+    "method": "メソッド",
+    "writing": "執筆",
+    "exams": "試験",
+    "links": "リンク",
+    "contact": "お問い合わせ"
+  },
   "home": {
     "title": "admin.education",
     "description": "システム管理と技術教育のための公開メソッド。知識は無料のままです。",
@@ -120,6 +131,7 @@
     "facebook_label": "Facebook:",
     "substack_label": "Substack:",
     "other_channels": "ViberとTelegramは同じ実番号デスクに存在します。これらのチャネルは公開されていません。Cloakedは見知らぬ人やフォームへのエイリアス用であり、そのデスクの置き換えではありません。",
-    "note": "要求が署名、ライセンス、またはお金の場合は、最初に文書を読んでください。時間をかけてください。署名する前に尋ねてください。後ではありません。"
+    "note": "要求が署名、ライセンス、またはお金の場合は、最初に文書を読んでください。時間をかけてください。署名する前に尋ねてください。後ではありません。",
+    "telegram_label": "Telegram:"
   }
 }

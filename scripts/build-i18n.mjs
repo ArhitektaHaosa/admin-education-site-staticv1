@@ -33,8 +33,8 @@ const dataDir = path.join(rootDir, 'data');
 // Load certs data for exams page
 const certsData = JSON.parse(fs.readFileSync(path.join(dataDir, 'certs.json'), 'utf8'));
 
-// Define all locales (31 total)
-const LOCALES = ['en', 'sr', 'fr', 'de', 'hi', 'vi', 'pt-BR', 'es', 'ja', 'ko', 'zh-CN', 'ru', 'pl', 'it', 'nl', 'tr', 'hr', 'uk', 'cs', 'sk', 'ro', 'hu', 'sv', 'fi', 'da', 'id', 'th', 'ar', 'zh-TW', 'el', 'bn'];
+// Define all locales (50 total)
+const LOCALES = ['en', 'sr', 'fr', 'de', 'hi', 'vi', 'pt-BR', 'es', 'ja', 'ko', 'zh-CN', 'ru', 'pl', 'it', 'nl', 'tr', 'hr', 'uk', 'cs', 'sk', 'ro', 'hu', 'sv', 'fi', 'da', 'id', 'th', 'ar', 'zh-TW', 'el', 'bn', 'pt', 'nb', 'he', 'bg', 'sl', 'lt', 'lv', 'et', 'ca', 'ms', 'fil', 'fa', 'ur', 'sw', 'ta', 'af', 'sq', 'mk', 'ka'];
 
 // Page names
 const PAGES = ['index', 'method', 'writing', 'exams', 'links', 'contact'];
@@ -74,7 +74,26 @@ function generateLanguageSwitcher(currentLocale, currentPage) {
     'ar': 'العربية',
     'zh-TW': '繁體中文',
     'el': 'Ελληνικά',
-    'bn': 'বাংলা'
+    'bn': 'বাংলা',
+    'pt': 'Português',
+    'nb': 'Norsk Bokmål',
+    'he': 'עברית',
+    'bg': 'Български',
+    'sl': 'Slovenščina',
+    'lt': 'Lietuvių',
+    'lv': 'Latviešu',
+    'et': 'Eesti',
+    'ca': 'Català',
+    'ms': 'Bahasa Melayu',
+    'fil': 'Filipino',
+    'fa': 'فارسی',
+    'ur': 'اردو',
+    'sw': 'Kiswahili',
+    'ta': 'தமிழ்',
+    'af': 'Afrikaans',
+    'sq': 'Shqip',
+    'mk': 'Македонски',
+    'ka': 'ქართული'
   };
 
   const pageFileName = currentPage === 'index' ? 'index.html' : `${currentPage}.html`;
@@ -499,6 +518,7 @@ ${nav}      </nav>
       <p class="lead">${strings.contact.lead}</p>
       <ul class="plain">
         <li><strong>${strings.contact.whatsapp_label}</strong> <a href="https://wa.me/message/J2WSUYWVVMWSN1" rel="noopener noreferrer">wa.me/message/J2WSUYWVVMWSN1</a></li>
+        <li><strong>${strings.contact.telegram_label}</strong> <a href="https://t.me/arhitektaHaosa" rel="noopener noreferrer">@arhitektaHaosa</a></li>
         <li>${strings.contact.email_label} mapkomah at proton.me</li>
         <li>${strings.contact.email_also}</li>
         <li>${strings.contact.bluesky_label} <a href="https://bsky.app/profile/admin.education" rel="noopener noreferrer">admin.education</a></li>
@@ -523,7 +543,7 @@ ${nav}      </nav>
  * Main build function
  */
 function buildAll() {
-  console.log('🌍 Building multilingual site for 31 locales...\n');
+  console.log('🌍 Building multilingual site for 50 locales...\n');
   
   for (const locale of LOCALES) {
     console.log(`📦 Building ${locale}...`);
@@ -556,7 +576,7 @@ function buildAll() {
     console.log(`   ✓ Generated 6 pages in /${locale}/`);
   }
   
-  console.log(`\n✅ Build complete! Generated ${LOCALES.length * 6} HTML files across 31 locales.`);
+  console.log(`\n✅ Build complete! Generated ${LOCALES.length * 6} HTML files across 50 locales.`);
   console.log(`\nLocales: ${LOCALES.join(', ')}`);
   console.log('\nNext steps:');
   console.log('  1. Run build to verify: node scripts/build-i18n.mjs');
