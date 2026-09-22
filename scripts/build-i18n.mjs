@@ -2,23 +2,24 @@
 /**
  * build-i18n.mjs
  * 
- * Generates localized HTML pages for all 31 language locales.
+ * Generates localized HTML pages for all 50 language locales.
  * 
  * Usage:
  *   node scripts/build-i18n.mjs
  * 
  * Output:
  *   - Root: en/ (English as default)
- *   - 30 additional locales: sr/, fr/, de/, hi/, vi/, pt-BR/, es/, ja/, ko/, zh-CN/, ru/, pl/, it/, nl/, tr/, 
- *     hr/, uk/, cs/, sk/, ro/, hu/, sv/, fi/, da/, id/, th/, ar/, zh-TW/, el/, bn/
+ *   - 49 additional locales: sr/, fr/, de/, hi/, vi/, pt-BR/, es/, ja/, ko/, zh-CN/, ru/, pl/, it/, nl/, tr/, 
+ *     hr/, uk/, cs/, sk/, ro/, hu/, sv/, fi/, da/, id/, th/, ar/, zh-TW/, el/, bn/, pt/, nb/, he/, bg/, sl/,
+ *     lt/, lv/, et/, ca/, ms/, fil/, fa/, ur/, sw/, ta/, af/, sq/, mk/, ka/
  * 
  * Each locale folder contains: index.html, method.html, writing.html, exams.html, links.html, contact.html
  * 
  * SEO Features:
- *   - Full hreflang tags for all 31 locales + x-default
+ *   - Full hreflang tags for all 50 locales + x-default
  *   - Canonical tags on every page
  *   - JSON-LD structured data on home pages
- *   - RTL support for Arabic (ar) via dir="rtl"
+ *   - RTL support for Arabic (ar), Hebrew (he), Persian (fa), Urdu (ur) via dir="rtl"
  */
 
 import fs from 'fs';
@@ -33,8 +34,8 @@ const dataDir = path.join(rootDir, 'data');
 // Load certs data for exams page
 const certsData = JSON.parse(fs.readFileSync(path.join(dataDir, 'certs.json'), 'utf8'));
 
-// Define all locales (31 total)
-const LOCALES = ['en', 'sr', 'fr', 'de', 'hi', 'vi', 'pt-BR', 'es', 'ja', 'ko', 'zh-CN', 'ru', 'pl', 'it', 'nl', 'tr', 'hr', 'uk', 'cs', 'sk', 'ro', 'hu', 'sv', 'fi', 'da', 'id', 'th', 'ar', 'zh-TW', 'el', 'bn'];
+// Define all locales (50 total)
+const LOCALES = ['en', 'sr', 'fr', 'de', 'hi', 'vi', 'pt-BR', 'es', 'ja', 'ko', 'zh-CN', 'ru', 'pl', 'it', 'nl', 'tr', 'hr', 'uk', 'cs', 'sk', 'ro', 'hu', 'sv', 'fi', 'da', 'id', 'th', 'ar', 'zh-TW', 'el', 'bn', 'pt', 'nb', 'he', 'bg', 'sl', 'lt', 'lv', 'et', 'ca', 'ms', 'fil', 'fa', 'ur', 'sw', 'ta', 'af', 'sq', 'mk', 'ka'];
 
 // Page names
 const PAGES = ['index', 'method', 'writing', 'exams', 'links', 'contact'];
@@ -74,7 +75,26 @@ function generateLanguageSwitcher(currentLocale, currentPage) {
     'ar': 'العربية',
     'zh-TW': '繁體中文',
     'el': 'Ελληνικά',
-    'bn': 'বাংলা'
+    'bn': 'বাংলা',
+    'pt': 'Português',
+    'nb': 'Norsk',
+    'he': 'עברית',
+    'bg': 'Български',
+    'sl': 'Slovenščina',
+    'lt': 'Lietuvių',
+    'lv': 'Latviešu',
+    'et': 'Eesti',
+    'ca': 'Català',
+    'ms': 'Bahasa Melayu',
+    'fil': 'Filipino',
+    'fa': 'فارسی',
+    'ur': 'اردو',
+    'sw': 'Kiswahili',
+    'ta': 'தமிழ்',
+    'af': 'Afrikaans',
+    'sq': 'Shqip',
+    'mk': 'Македонски',
+    'ka': 'ქართული'
   };
 
   const pageFileName = currentPage === 'index' ? 'index.html' : `${currentPage}.html`;
@@ -523,7 +543,7 @@ ${nav}      </nav>
  * Main build function
  */
 function buildAll() {
-  console.log('🌍 Building multilingual site for 31 locales...\n');
+  console.log('🌍 Building multilingual site for 50 locales...\n');
   
   for (const locale of LOCALES) {
     console.log(`📦 Building ${locale}...`);
@@ -556,7 +576,7 @@ function buildAll() {
     console.log(`   ✓ Generated 6 pages in /${locale}/`);
   }
   
-  console.log(`\n✅ Build complete! Generated ${LOCALES.length * 6} HTML files across 31 locales.`);
+  console.log(`\n✅ Build complete! Generated ${LOCALES.length * 6} HTML files across 50 locales.`);
   console.log(`\nLocales: ${LOCALES.join(', ')}`);
   console.log('\nNext steps:');
   console.log('  1. Run build to verify: node scripts/build-i18n.mjs');

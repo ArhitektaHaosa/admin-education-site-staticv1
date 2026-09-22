@@ -4,11 +4,13 @@
 
 Push to `main` rebuilds the public HTML and force-updates the `gh-pages` branch. No tracker. The workflow also confirms `exams.html` and `data/certs.xml` still match `data/certs.json`.
 
-**Multilingual structure:** The site now publishes 31 locale directories (`en/`, `sr/`, `fr/`, `de/`, `hi/`, `vi/`, `pt-BR/`, `es/`, `ja/`, `ko/`, `zh-CN/`, `ru/`, `pl/`, `it/`, `nl/`, `tr/`, `hr/`, `uk/`, `cs/`, `sk/`, `ro/`, `hu/`, `sv/`, `fi/`, `da/`, `id/`, `th/`, `ar/`, `zh-TW/`, `el/`, `bn/`), each containing 6 pages.
+**Multilingual structure:** The site publishes 50 locale directories (`en/`, `sr/`, `fr/`, `de/`, `hi/`, `vi/`, `pt-BR/`, `es/`, `ja/`, `ko/`, `zh-CN/`, `ru/`, `pl/`, `it/`, `nl/`, `tr/`, `hr/`, `uk/`, `cs/`, `sk/`, `ro/`, `hu/`, `sv/`, `fi/`, `da/`, `id/`, `th/`, `ar/`, `zh-TW/`, `el/`, `bn/`, `pt/`, `nb/`, `he/`, `bg/`, `sl/`, `lt/`, `lv/`, `et/`, `ca/`, `ms/`, `fil/`, `fa/`, `ur/`, `sw/`, `ta/`, `af/`, `sq/`, `mk/`, `ka/`), each containing 6 pages.
 
-**SEO structure:** Full hreflang tags, canonical tags, sitemap.xml (186 URLs), robots.txt, JSON-LD structured data.
+**SEO structure:** Full hreflang tags for all 50 locales + x-default, canonical tags, sitemap.xml (300 URLs), robots.txt, JSON-LD structured data.
 
-Published files: locale directories (31 total), `css/`, `img/`, `js/`, `data/`, `locales/`, `sitemap.xml`, `robots.txt`, `VERSION`. Overnight notes and render scripts stay in git, not on the published root.
+Published files: locale directories (50 total), `css/`, `img/`, `js/`, `data/`, `locales/`, `sitemap.xml`, `robots.txt`, `VERSION`. Overnight notes and render scripts stay in git, not on the published root.
+
+**Pure Static Deployment:** All 300 HTML files are committed. No Node.js is required on the server.
 
 Live URL after Pages is serving the `gh-pages` branch:
 
@@ -23,11 +25,14 @@ The site is optimized for **Linode + Cloud Panel** with nginx as the primary pro
 **Full setup instructions:** See `deploy/cloudpanel/README.md`
 
 **Quick summary:**
+- **No Node.js Required:** This is a pure static site. No build step needed on server.
 - Create site in Cloud Panel (Static HTML)
 - Enable SSL/TLS with Let's Encrypt
 - Apply nginx performance directives from `deploy/cloudpanel/nginx-performance.conf`
-- Deploy public files via SFTP or rsync: all locale directories (`en/`, `sr/`, etc.), `css/`, `img/`, `js/`
+- Deploy public files via SFTP or rsync: all 50 locale directories (`en/`, `sr/`, `pt/`, `nb/`, `he/`, etc.), `css/`, `img/`, `js/`
 - Expected performance: 95-100 Lighthouse score with gzip, long cache headers, and security headers
+
+**Deployment path:** `/home/admin/htdocs/www.admin.education`
 
 **Multilingual nginx config:**
 Add to nginx vhost for locale routing (recommended but optional):

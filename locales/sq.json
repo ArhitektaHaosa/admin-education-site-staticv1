@@ -1,0 +1,136 @@
+{
+  "locale": "sq",
+  "lang_native": "Shqip",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "njohuria është falas",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Ballina",
+    "method": "Metoda",
+    "writing": "Shkrim",
+    "exams": "Provimet",
+    "links": "Lidhjet",
+    "contact": "Kontakti"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Metodë publike për administrimin e sistemeve dhe arsimin teknologjik. Njohuria mbetet falas.",
+    "h1": "Administrimi i sistemeve si metodë publike.",
+    "lead": "admin.education është një sipërfaqe mësimore. Jo një ministri. Jo një dyqan kursesh. Jo një profil ofertash.",
+    "intro": "Puna është infrastrukturë, alfabetizim i aplikuar i AI dhe matje. Njohuria mbetet falas. Pronësia e metodës mbetet te operatori i kësaj fushe.",
+    "what_heading": "Çfarë është ky faqe",
+    "what_items": [
+      "Një shtyllë kurrizore për shkrim të gjatë dhe shënime laboratori.",
+      "Një vend për të botuar metodë pa shitur viza, diplomë ose mrekulli.",
+      "Një regjistër publik që operatori është një administrator sistemesh dhe një edukator, jo një institucion shtetëror."
+    ],
+    "what_not_heading": "Çfarë nuk është ky faqe",
+    "what_not_items": [
+      "Jo RateZip.com. Ai regjistër është punë e vjetër, 2007–2022.",
+      "Jo freelancer.com/u/kerberus. Ajo faqe është një regjistër punësimi nga 2006.",
+      "Jo një promotor koncertesh dhe jo një titull albumi i huazuar.",
+      "Jo një doktoraturë. Nuk ka PhD këtu. Teza e diplomës mbetet e papërfunduar."
+    ],
+    "note": "Nëse një fjali nuk mund të matet ose të burimore, ajo nuk i përket kësaj fushe."
+  },
+  "method": {
+    "title": "Metoda",
+    "page_title": "Metoda — admin.education",
+    "description": "Si mëson admin.education: matje së pari, njohuri falas, vetëm White Hat.",
+    "h1": "Metoda",
+    "lead": "Mat së pari. Mëso së dyti. Mos shpik një titull për të mbajtur fjalinë.",
+    "rules_heading": "Rregullat që qëndrojnë në faqe",
+    "rules_items": [
+      "Njohuria është falas. Nuk kërkohet vizitë. Vetëm online.",
+      "Vetëm White Hat. Komandat janë metafora në makinat tuaja. Asgjë nuk ekzekutohet kundër një pale të tretë.",
+      "Pëlqimi së pari. Atribuimi dhe reciprociteti. Bërthamë e vogël e përbashkët, projekt lokal.",
+      "Regjistri i shkollës dhe provimet e platformës qëndrojnë në dy rreshta. Ato nuk janë i njëjti objekt. Provimet e platformës janë te <a href=\"exams.html\">Provimet</a>.",
+      "Puna e afiliuar shënohet në fjali kur përfshin para."
+    ],
+    "operator_heading": "Faktet e operatorit të përdorura këtu",
+    "operator_items": [
+      "Administrator sistemesh që nga 2002. Më parë Webmin, Virtualmin, CentOS. Makinat e mëvonshme përfshijnë Linode, Vercel, DigitalOcean.",
+      "Parazgjedhja është vetë-hosting kur shpejtësia nuk është prioritet.",
+      "Edukator në informatikë, IT dhe AI. I pavarur. Asnjëherë i punësuar nga institucionet shtetërore serbe.",
+      "Diploma Vukova, OŠ Nikola Tesla, Vinča, 11 qershor 1998. Lëndët në atë diplomë shkolle: anglisht, biologji, fizikë, matematikë.",
+      "Asnjë doktoraturë. Teza e diplomës e papërfunduar. Më pas punë në distancë për një kompani kanadeze."
+    ],
+    "muted": "Kushdo mund të kërkojë shtesa ose burime për një fakt të deklaruar."
+  },
+  "writing": {
+    "title": "Shkrim",
+    "page_title": "Shkrim — admin.education",
+    "description": "Shkrimi i formës së gjatë për admin.education jeton në Substack.",
+    "h1": "Shkrim",
+    "lead": "Letra është në Substack. Kjo fushë është shtyllë kurrizore.",
+    "intro": "Forma e gjatë shkon në <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Prerjat e shkurtra publike shkojnë së pari në Bluesky, pastaj në sipërfaqet e tjera aktive. Ky faqe nuk riboton një feed.",
+    "priority": "Artikujt mbajnë metodën. Postimet e shkurtra janë sipërfaqe. Nëse të dy nuk bien dakord, artikulli fiton.",
+    "live_heading": "Sipërfaqet aktive të përdorura për shkrim",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X nuk është në listë. LinkedIn nuk përdoret si sipërfaqe draft këtu."
+  },
+  "exams": {
+    "title": "Provimet e platformës",
+    "page_title": "Provimet e platformës — admin.education",
+    "description": "Provimet e platformës së punësimit nga një regjistër freelancer/vWorker. Jo një diplomë ministrie. Regjistri i shkollës mbetet te Metoda.",
+    "h1": "Provimet e platformës",
+    "lead": "UI e platformës së punësimit i etiketonë këto si Certifikim. Në këtë fushë ata mbeten provime tregu. Jo një diplomë ministrie. Jo një doktoraturë. Regjistri i shkollës mbetet te Metoda.",
+    "source": "Regjistri i platformës së punësimit Freelancer.com / vWorker, siç tregohet në foto ekrani të 19 shtator 2026. Shenjat origjinale të vogla SVG në këtë faqe. Jo arti i tregut.",
+    "muted": "Regjistri i shkollës (diploma Vukova, 11 qershor 1998) është një objekt i ndryshëm dhe mbetet te Metoda. Mos bashko dy listat.",
+    "note": "Kushdo mund të kërkojë një burim për një fakt të deklaruar. Nëse një ID zyrtare Skillshop, Adobe ose Microsoft prodhohet më vonë, ai merr rreshtin e vet. Këto pllaka nuk janë ajo.",
+    "exam_meta": "Provim. Regjistri i platformës së punësimit: {stars} yll.",
+    "exam_meta_plural": "Provim. Regjistri i platformës së punësimit: {stars} yje.",
+    "orientation_meta": "Orientim. Regjistri i platformës së punësimit: {stars} yll.",
+    "membership_meta": "Anëtarësim. Shenjë anëtarësimi. Asnjë yll në pllakë."
+  },
+  "links": {
+    "title": "Lidhjet",
+    "page_title": "Lidhjet — admin.education",
+    "description": "Lidhjet e veçuara për admin.education. Bluesky, shkrim, burimi, kontakti.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Administrimi i sistemeve si metodë publike. Sipërfaqe mësimore për infrastrukturë, alfabetizim të aplikuar të AI dhe matje. Njohuria mbetet falas.",
+    "featured_label": "Lidhjet e veçuara",
+    "link_method": "Metoda",
+    "link_method_desc": "Si mëson kjo fushë",
+    "link_exams": "Provimet",
+    "link_exams_desc": "Pllakat e platformës së punësimit, shpjeguar",
+    "link_writing": "Shkrim",
+    "link_writing_desc": "Forma e gjatë në Substack",
+    "link_source": "Burimi",
+    "link_source_desc": "Shtyllë kurrizore statike në GitHub",
+    "link_contact": "Kontakti",
+    "link_contact_desc": "Shkruaj së pari. Asnjë numër këtu.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Kontakti",
+    "page_title": "Kontakti — admin.education",
+    "description": "Rrugët e kontaktit për admin.education. WhatsApp Business ose email.",
+    "h1": "Kontakti",
+    "lead": "Rruga kryesore: WhatsApp Business. Email si backup.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "Email:",
+    "email_also": "Arrin gjithashtu mapkomah at gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber dhe Telegram ekzistojnë në të njëjtën sportele numrash realë. Ato kanale nuk janë publikuar. Cloaked është për pseudonime për të huaj dhe forma, jo një zëvendësim për atë sportele.",
+    "note": "Nëse kërkesa është një nënshkrim, një licencë ose para, lexo dokumentin së pari. Merr kohë. Pyet para se të nënshkruash, jo pas."
+  }
+}

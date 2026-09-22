@@ -1,0 +1,136 @@
+{
+  "locale": "lt",
+  "lang_native": "Lietuvių",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "žinios yra nemokamos",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Pagrindinis",
+    "method": "Metodas",
+    "writing": "Rašymas",
+    "exams": "Egzaminai",
+    "links": "Nuorodos",
+    "contact": "Kontaktai"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Viešas metodas sistemų administravimui ir technologijų švietimui. Žinios lieka nemokamos.",
+    "h1": "Sistemų administravimas kaip viešas metodas.",
+    "lead": "admin.education yra mokymo paviršius. Ne ministerija. Ne kursų parduotuvė. Ne pasiūlymų profilis.",
+    "intro": "Darbas yra infrastruktūra, taikomas dirbtinio intelekto raštingumas ir matavimas. Žinios lieka nemokamos. Metodo nuosavybė lieka šio domeno operatoriaus.",
+    "what_heading": "Kas yra ši svetainė",
+    "what_items": [
+      "Stuburas ilgai formai rašymui ir laboratorijos užrašams.",
+      "Vieta skelbti metodą be vizos, diplomo ar stebuklo pardavimo.",
+      "Viešas įrašas, kad operatorius yra sistemų administratorius ir mokytojas, o ne valstybinė institucija."
+    ],
+    "what_not_heading": "Kas ši svetainė nėra",
+    "what_not_items": [
+      "Ne RateZip.com. Tas registras yra pasenęs darbas, 2007–2022.",
+      "Ne freelancer.com/u/kerberus. Tas puslapis yra įdarbinimo įrašas iš 2006.",
+      "Ne koncertų organizatorius ir ne pasiskolinta albumo pavadinimas.",
+      "Ne daktaro laipsnis. Čia nėra PhD. Diplomo tezė lieka nebaigta."
+    ],
+    "note": "Jei sakinys negali būti išmatuotas ar pagrįstas, jis nepriklauso šiam domenui."
+  },
+  "method": {
+    "title": "Metodas",
+    "page_title": "Metodas — admin.education",
+    "description": "Kaip admin.education moko: pirmiausia matavimas, nemokamos žinios, tik White Hat.",
+    "h1": "Metodas",
+    "lead": "Pirmiausia išmatuok. Antra mokyk. Neišgalvok pavadinimo, kad neštų sakinį.",
+    "rules_heading": "Taisyklės, kurios lieka puslapyje",
+    "rules_items": [
+      "Žinios yra nemokamos. Apsilankymas nereikalingas. Tik internetu.",
+      "Tik White Hat. Komandos yra metaforos jūsų pačių mašinose. Nieko nevykdoma prieš trečią šalį.",
+      "Pirmiausia sutikimas. Priskyrimas ir abipusiškumas. Maža bendra branduolys, vietinis projektas.",
+      "Mokyklos įrašas ir platformos egzaminai lieka dviejose eilutėse. Jie nėra tas pats objektas. Platformos egzaminai yra <a href=\"exams.html\">Egzaminai</a>.",
+      "Partnerinis darbas pažymimas sakinyje, kai įtraukti pinigai."
+    ],
+    "operator_heading": "Operatoriaus faktai, naudojami čia",
+    "operator_items": [
+      "Sistemų administratorius nuo 2002. Pirmiausia Webmin, Virtualmin, CentOS. Vėlesnės mašinos apima Linode, Vercel, DigitalOcean.",
+      "Numatytasis yra savitarna, kai greitis nėra prioritetas.",
+      "Mokytojas informatikoje, IT ir dirbtiniame intelekte. Nepriklausomas. Niekada nebuvo įdarbintas Serbijos valstybinių institucijų.",
+      "Vukova diploma, OŠ Nikola Tesla, Vinča, 1998 birželio 11. Dalykai tame mokyklos diplome: anglų, biologija, fizika, matematika.",
+      "Nėra daktaro laipsnio. Diplomo tezė nebaigta. Tada nuotolinis darbas Kanados įmonei."
+    ],
+    "muted": "Bet kas gali prašyti papildymų ar šaltinių dėl nurodyto fakto."
+  },
+  "writing": {
+    "title": "Rašymas",
+    "page_title": "Rašymas — admin.education",
+    "description": "Ilgos formos rašymas admin.education gyvena Substack.",
+    "h1": "Rašymas",
+    "lead": "Popierius yra Substack. Šis domenas yra stuburas.",
+    "intro": "Ilga forma eina į <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Trumpi viešieji iškarpos pirmiausia eina į Bluesky, tada į kitus aktyvius paviršius. Ši svetainė nespausdina srauto.",
+    "priority": "Straipsniai neša metodą. Trumpieji įrašai yra paviršius. Jei abu nesutinka, laimi straipsnis.",
+    "live_heading": "Aktyvūs paviršiai, naudojami rašymui",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X nėra sąraše. LinkedIn nenaudojamas kaip juodraščio paviršius čia."
+  },
+  "exams": {
+    "title": "Platformos egzaminai",
+    "page_title": "Platformos egzaminai — admin.education",
+    "description": "Įdarbinimo platformos egzaminai iš freelancer/vWorker įrašo. Ne ministerijos diploma. Mokyklos įrašas lieka Metode.",
+    "h1": "Platformos egzaminai",
+    "lead": "Įdarbinimo platformos UI žymi juos kaip sertifikatus. Šiame domene jie lieka rinkos egzaminai. Ne ministerijos diploma. Ne daktaro laipsnis. Mokyklos įrašas lieka Metode.",
+    "source": "Freelancer.com / vWorker įdarbinimo platformos įrašas, kaip parodyta 2026 rugsėjo 19 ekrano kopijose. Originalūs maži SVG ženklai šiame puslapyje. Ne rinkos menas.",
+    "muted": "Mokyklos įrašas (Vukova diploma, 1998 birželio 11) yra kitas objektas ir lieka Metode. Nesujunkite dviejų sąrašų.",
+    "note": "Bet kas gali prašyti šaltinio dėl nurodyto fakto. Jei vėliau sukuriamas oficialus Skillshop, Adobe ar Microsoft ID, jis gauna savo eilutę. Šios plytelės nėra tai.",
+    "exam_meta": "Egzaminas. Įdarbinimo platformos įrašas: {stars} žvaigždė.",
+    "exam_meta_plural": "Egzaminas. Įdarbinimo platformos įrašas: {stars} žvaigždės.",
+    "orientation_meta": "Orientacija. Įdarbinimo platformos įrašas: {stars} žvaigždė.",
+    "membership_meta": "Narystė. Narystės ženklas. Nėra žvaigždės ant plytelės."
+  },
+  "links": {
+    "title": "Nuorodos",
+    "page_title": "Nuorodos — admin.education",
+    "description": "Išskirtos nuorodos admin.education. Bluesky, rašymas, šaltinis, kontaktai.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Sistemų administravimas kaip viešas metodas. Mokymo paviršius infrastruktūrai, taikomam dirbtinio intelekto raštingumui ir matavimui. Žinios lieka nemokamos.",
+    "featured_label": "Išskirtos nuorodos",
+    "link_method": "Metodas",
+    "link_method_desc": "Kaip šis domenas moko",
+    "link_exams": "Egzaminai",
+    "link_exams_desc": "Įdarbinimo platformos plytelės, paaiškinta",
+    "link_writing": "Rašymas",
+    "link_writing_desc": "Ilga forma Substack",
+    "link_source": "Šaltinis",
+    "link_source_desc": "Statinis stuburas GitHub",
+    "link_contact": "Kontaktai",
+    "link_contact_desc": "Pirmiausia rašykite. Nėra numerio čia.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Kontaktai",
+    "page_title": "Kontaktai — admin.education",
+    "description": "Kontaktiniai keliai admin.education. WhatsApp Business ar el. paštas.",
+    "h1": "Kontaktai",
+    "lead": "Pirminis kelias: WhatsApp Business. El. paštas kaip atsarginė kopija.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "El. paštas:",
+    "email_also": "Taip pat pasiekia mapkomah at gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber ir Telegram egzistuoja toje pačioje tikro numerio stalui. Tie kanalai nėra paskelbti. Cloaked yra slapyvardžiams nepažįstamiesiems ir formoms, ne pakeičiantis tą stalą.",
+    "note": "Jei prašymas yra parašas, licencija ar pinigai, pirmiausia perskaitykite dokumentą. Skirkite laiko. Klauskite prieš pasirašydami, ne po to."
+  }
+}
