@@ -1,0 +1,136 @@
+{
+  "locale": "nb",
+  "lang_native": "Norsk",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "kunnskap er fri",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Hjem",
+    "method": "Metode",
+    "writing": "Skriving",
+    "exams": "Eksamener",
+    "links": "Lenker",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Offentlig metode for systemadministrasjon og teknologiutdanning. Kunnskap forblir fri.",
+    "h1": "Systemadministrasjon som en offentlig metode.",
+    "lead": "admin.education er en undervisningsflate. Ikke et departement. Ikke en kursbutikk. Ikke en budprofil.",
+    "intro": "Arbeidet er infrastruktur, anvendt AI-kompetanse og måling. Kunnskap forblir fri. Eierskap til metoden forblir hos operatøren av dette domenet.",
+    "what_heading": "Hva denne nettsiden er",
+    "what_items": [
+      "En ryggrad for langform skriving og labnotater.",
+      "Et sted å publisere metode uten å selge et visum, et diplom eller et mirakel.",
+      "En offentlig journal om at operatøren er en systemadministrator og en lærer, ikke en statlig institusjon."
+    ],
+    "what_not_heading": "Hva denne nettsiden ikke er",
+    "what_not_items": [
+      "Ikke RateZip.com. Den journalen er datert arbeid, 2007–2022.",
+      "Ikke freelancer.com/u/kerberus. Den siden er en ansettelsesjournal fra 2006.",
+      "Ikke en konsertarrangør og ikke en lånt albumtittel.",
+      "Ikke en doktorgrad. Det er ingen PhD her. Diplomoppgaven forblir uferdig."
+    ],
+    "note": "Hvis en setning ikke kan måles eller kildebelegges, hører den ikke hjemme på dette domenet."
+  },
+  "method": {
+    "title": "Metode",
+    "page_title": "Metode — admin.education",
+    "description": "Hvordan admin.education lærer: måling først, fri kunnskap, bare White Hat.",
+    "h1": "Metode",
+    "lead": "Mål først. Lær andre. Ikke oppfinn en tittel for å bære setningen.",
+    "rules_heading": "Regler som forblir på siden",
+    "rules_items": [
+      "Kunnskap er fri. Intet besøk påkrevd. Bare online.",
+      "Bare White Hat. Kommandoer er metaforer på dine egne maskiner. Ingenting utføres mot en tredjepart.",
+      "Samtykke først. Attribusjon og gjensidighet. Liten delt kjerne, lokalt prosjekt.",
+      "Skolejournal og plattformeksamener forblir på to linjer. De er ikke det samme objektet. Plattformeksamener er på <a href=\"exams.html\">Eksamener</a>.",
+      "Tilknyttet arbeid er merket i setningen når penger er involvert."
+    ],
+    "operator_heading": "Operatørfakta brukt her",
+    "operator_items": [
+      "Systemadministrator siden 2002. Først Webmin, Virtualmin, CentOS. Senere maskiner inkluderer Linode, Vercel, DigitalOcean.",
+      "Standard er selvhosting når hastighet ikke er prioritet.",
+      "Lærer i informatikk, IT og AI. Uavhengig. Aldri ansatt av serbiske statlige institusjoner.",
+      "Vukova diplom, OŠ Nikola Tesla, Vinča, 11. juni 1998. Fag på det skolediplomet: engelsk, biologi, fysikk, matematikk.",
+      "Ingen doktorgrad. Diplomoppgave uferdig. Deretter eksternt arbeid for et kanadisk selskap."
+    ],
+    "muted": "Hvem som helst kan be om tillegg eller kilder på et oppgitt faktum."
+  },
+  "writing": {
+    "title": "Skriving",
+    "page_title": "Skriving — admin.education",
+    "description": "Langform skriving for admin.education bor på Substack.",
+    "h1": "Skriving",
+    "lead": "Papiret er på Substack. Dette domenet er ryggraden.",
+    "intro": "Langform går til <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Korte offentlige utklipp går til Bluesky først, deretter de andre aktive flatene. Dette nettstedet trykker ikke en feed.",
+    "priority": "Artikler bærer metoden. Korte innlegg er overflate. Hvis de to er uenige, vinner artikkelen.",
+    "live_heading": "Aktive flater brukt til skriving",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X er ikke oppført. LinkedIn brukes ikke som en utkastflate her."
+  },
+  "exams": {
+    "title": "Plattformeksamener",
+    "page_title": "Plattformeksamener — admin.education",
+    "description": "Ansettelsesplattform eksamener fra en freelancer/vWorker journal. Ikke et departementsdiplom. Skolejournal forblir på Metode.",
+    "h1": "Plattformeksamener",
+    "lead": "Ansettelsesplattform UI merker disse som sertifiseringer. På dette domenet forblir de markedseksamener. Ikke et departementsdiplom. Ikke en doktorgrad. Skolejournal forblir på Metode.",
+    "source": "Freelancer.com / vWorker ansettelsesplattform journal, som vist på 19. september 2026 skjermbilder. Originale små SVG merker på denne siden. Ikke markedskunst.",
+    "muted": "Skolejournal (Vukova diplom, 11. juni 1998) er et annet objekt og forblir på Metode. Ikke slå sammen de to listene.",
+    "note": "Hvem som helst kan be om en kilde på et oppgitt faktum. Hvis en senere offisiell Skillshop, Adobe eller Microsoft ID produseres, får den sin egen linje. Disse flisene er ikke det.",
+    "exam_meta": "Eksamen. Ansettelsesplattform journal: {stars} stjerne.",
+    "exam_meta_plural": "Eksamen. Ansettelsesplattform journal: {stars} stjerner.",
+    "orientation_meta": "Orientering. Ansettelsesplattform journal: {stars} stjerne.",
+    "membership_meta": "Medlemskap. Medlemskapsmerke. Ingen stjerne på flisen."
+  },
+  "links": {
+    "title": "Lenker",
+    "page_title": "Lenker — admin.education",
+    "description": "Utvalgte lenker for admin.education. Bluesky, skriving, kilde, kontakt.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Systemadministrasjon som en offentlig metode. Undervisningsflate for infrastruktur, anvendt AI-kompetanse og måling. Kunnskap forblir fri.",
+    "featured_label": "Utvalgte lenker",
+    "link_method": "Metode",
+    "link_method_desc": "Hvordan dette domenet lærer",
+    "link_exams": "Eksamener",
+    "link_exams_desc": "Ansettelsesplattform fliser, forklart",
+    "link_writing": "Skriving",
+    "link_writing_desc": "Langform på Substack",
+    "link_source": "Kilde",
+    "link_source_desc": "Statisk ryggrad på GitHub",
+    "link_contact": "Kontakt",
+    "link_contact_desc": "Skriv først. Intet nummer her.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "page_title": "Kontakt — admin.education",
+    "description": "Kontaktstier for admin.education. WhatsApp Business eller e-post.",
+    "h1": "Kontakt",
+    "lead": "Primær vei: WhatsApp Business. E-post som backup.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "E-post:",
+    "email_also": "Når også mapkomah at gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber og Telegram finnes på samme ekte nummer skranke. De kanalene er ikke publisert. Cloaked er for aliaser til fremmede og skjemaer, ikke en erstatning for den skranken.",
+    "note": "Hvis forespørselen er en signatur, en lisens eller penger, les dokumentet først. Ta deg tid. Spør før du signerer, ikke etter."
+  }
+}

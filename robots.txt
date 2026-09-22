@@ -1,5 +1,5 @@
 # robots.txt for admin.education
-# Static multilingual site - 31 locales
+# Static multilingual site - 50 locales
 
 User-agent: *
 Allow: /
@@ -39,6 +39,25 @@ Allow: /ar/
 Allow: /zh-TW/
 Allow: /el/
 Allow: /bn/
+Allow: /pt/
+Allow: /nb/
+Allow: /he/
+Allow: /bg/
+Allow: /sl/
+Allow: /lt/
+Allow: /lv/
+Allow: /et/
+Allow: /ca/
+Allow: /ms/
+Allow: /fil/
+Allow: /fa/
+Allow: /ur/
+Allow: /sw/
+Allow: /ta/
+Allow: /af/
+Allow: /sq/
+Allow: /mk/
+Allow: /ka/
 
 # Static assets
 Allow: /css/

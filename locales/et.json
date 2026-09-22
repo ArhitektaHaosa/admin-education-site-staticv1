@@ -1,0 +1,136 @@
+{
+  "locale": "et",
+  "lang_native": "Eesti",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "teadmised on tasuta",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Avaleht",
+    "method": "Meetod",
+    "writing": "Kirjutamine",
+    "exams": "Eksamid",
+    "links": "Lingid",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Avalik meetod süsteemiadministratsiooni ja tehnoloogiahariduse jaoks. Teadmised jäävad tasuta.",
+    "h1": "Süsteemiadministratsioon kui avalik meetod.",
+    "lead": "admin.education on õppepind. Mitte ministeerium. Mitte kursuste pood. Mitte pakkumiste profiil.",
+    "intro": "Töö on infrastruktuur, rakenduslik AI kirjaoskus ja mõõtmine. Teadmised jäävad tasuta. Meetodi omand jääb selle domeeni operaatorile.",
+    "what_heading": "Mis see veebisait on",
+    "what_items": [
+      "Selgroog pika vormi kirjutamisele ja labori märkmetele.",
+      "Koht meetodi avaldamiseks ilma viisa, diplomi või ime müümiseta.",
+      "Avalik märge, et operaator on süsteemiadministraator ja õpetaja, mitte riiklik institutsioon."
+    ],
+    "what_not_heading": "Mis see veebisait ei ole",
+    "what_not_items": [
+      "Ei ole RateZip.com. See register on aegunud töö, 2007–2022.",
+      "Ei ole freelancer.com/u/kerberus. See leht on töölevõtu märge aastast 2006.",
+      "Ei ole kontsertide korraldaja ega laenatud albumi pealkiri.",
+      "Ei ole doktorikraad. Siin pole PhD-d. Diplomiväitekiri jääb lõpetamata."
+    ],
+    "note": "Kui lauset ei saa mõõta ega allikatega kinnitada, ei kuulu see sellesse domeeni."
+  },
+  "method": {
+    "title": "Meetod",
+    "page_title": "Meetod — admin.education",
+    "description": "Kuidas admin.education õpetab: kõigepealt mõõtmine, tasuta teadmised, ainult White Hat.",
+    "h1": "Meetod",
+    "lead": "Kõigepealt mõõda. Teiseks õpeta. Ära leia üles pealkirja, et lauset kanda.",
+    "rules_heading": "Reeglid, mis jäävad lehele",
+    "rules_items": [
+      "Teadmised on tasuta. Visiit pole vajalik. Ainult veebis.",
+      "Ainult White Hat. Käsud on metafoorid teie enda masinate peal. Mitte midagi ei käivitata kolmanda osapoole vastu.",
+      "Kõigepealt nõusolek. Omistamine ja vastastikkus. Väike ühine tuum, kohalik projekt.",
+      "Koolimärge ja platvormi eksamid jäävad kahele reale. Need ei ole sama objekt. Platvormi eksamid on <a href=\"exams.html\">Eksamid</a>.",
+      "Partnerlik töö on märgitud lauses, kui on kaasatud raha."
+    ],
+    "operator_heading": "Operaatori faktid, mida siin kasutatakse",
+    "operator_items": [
+      "Süsteemiadministraator alates 2002. Kõigepealt Webmin, Virtualmin, CentOS. Hilisemad masinad hõlmavad Linode, Vercel, DigitalOcean.",
+      "Vaikimisi on ise majutamine, kui kiirus pole prioriteet.",
+      "Õpetaja informaatikas, IT-s ja AI-s. Sõltumatu. Pole kunagi Serbias riiklike institutsioonide poolt tööle võetud.",
+      "Vukova diplom, OŠ Nikola Tesla, Vinča, 11. juuni 1998. Ained sellel koolidiplomil: inglise, bioloogia, füüsika, matemaatika.",
+      "Doktorikraad puudub. Diplomiväitekiri lõpetamata. Seejärel kaugtöö Kanada ettevõttele."
+    ],
+    "muted": "Igaüks võib küsida täiendusi või allikaid väidetud fakti kohta."
+  },
+  "writing": {
+    "title": "Kirjutamine",
+    "page_title": "Kirjutamine — admin.education",
+    "description": "Pika vormi kirjutamine admin.education jaoks elab Substackis.",
+    "h1": "Kirjutamine",
+    "lead": "Paber on Substackis. See domeen on selgroog.",
+    "intro": "Pikk vorm läheb <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Lühikesed avalikud lõigud lähevad kõigepealt Blueskysse, seejärel teistele aktiivsetele pindadele. See veebisait ei trüki voogu.",
+    "priority": "Artiklid kannavad meetodit. Lühikesed postitused on pind. Kui need kaks ei nõustu, võidab artikkel.",
+    "live_heading": "Aktiivsed pinnad, mida kasutatakse kirjutamiseks",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X ei ole loetletud. LinkedIni ei kasutata siin mustandipinnana."
+  },
+  "exams": {
+    "title": "Platvormi eksamid",
+    "page_title": "Platvormi eksamid — admin.education",
+    "description": "Töölevõtu platvormi eksamid freelancer/vWorker registrist. Mitte ministeeriumidiplom. Koolimärge jääb Meetodisse.",
+    "h1": "Platvormi eksamid",
+    "lead": "Töölevõtu platvormi kasutajaliides märgistab neid sertifikaatidena. Selles domeenis jäävad need turu eksamiteks. Mitte ministeeriumidiplom. Mitte doktorikraad. Koolimärge jääb Meetodisse.",
+    "source": "Freelancer.com / vWorker töölevõtu platvormi register, nagu on näidatud 19. septembri 2026 ekraanipiltidel. Originaalsed väikesed SVG-märgid sellel lehel. Mitte turundukunst.",
+    "muted": "Koolimärge (Vukova diplom, 11. juuni 1998) on erinev objekt ja jääb Meetodisse. Ärge segage kahte nimekirja.",
+    "note": "Igaüks võib küsida allikat väidetud fakti kohta. Kui hiljem toodetakse ametlik Skillshop, Adobe või Microsoft ID, saab see oma rea. Need plaadid pole see.",
+    "exam_meta": "Eksam. Töölevõtu platvormi register: {stars} täht.",
+    "exam_meta_plural": "Eksam. Töölevõtu platvormi register: {stars} tähte.",
+    "orientation_meta": "Orientatsioon. Töölevõtu platvormi register: {stars} täht.",
+    "membership_meta": "Liikmelisus. Liikmelisuse märk. Plaadil pole tähte."
+  },
+  "links": {
+    "title": "Lingid",
+    "page_title": "Lingid — admin.education",
+    "description": "Esiletõstetud lingid admin.education jaoks. Bluesky, kirjutamine, allikas, kontakt.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Süsteemiadministratsioon kui avalik meetod. Õppepind infrastruktuuri, rakenduslike AI kirjaoskuse ja mõõtmise jaoks. Teadmised jäävad tasuta.",
+    "featured_label": "Esiletõstetud lingid",
+    "link_method": "Meetod",
+    "link_method_desc": "Kuidas see domeen õpetab",
+    "link_exams": "Eksamid",
+    "link_exams_desc": "Töölevõtu platvormi plaadid, selgitatud",
+    "link_writing": "Kirjutamine",
+    "link_writing_desc": "Pikk vorm Substackis",
+    "link_source": "Allikas",
+    "link_source_desc": "Staatiline selgroog GitHubis",
+    "link_contact": "Kontakt",
+    "link_contact_desc": "Kõigepealt kirjutage. Siin pole numbrit.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "page_title": "Kontakt — admin.education",
+    "description": "Kontaktteed admin.education jaoks. WhatsApp Business või e-post.",
+    "h1": "Kontakt",
+    "lead": "Peamine tee: WhatsApp Business. E-post varukoopiana.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "E-post:",
+    "email_also": "Jõuab ka mapkomah at gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber ja Telegram eksisteerivad samal pärisnumbri laual. Neid kanaleid ei ole avaldatud. Cloaked on varjunimed võõrastele ja vormidele, mitte asendus sellele lauale.",
+    "note": "Kui taotlus on allkiri, litsents või raha, lugege kõigepealt dokument. Võtke aega. Küsige enne allkirjastamist, mitte pärast seda."
+  }
+}

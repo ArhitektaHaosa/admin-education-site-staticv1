@@ -1,0 +1,136 @@
+{
+  "locale": "ur",
+  "lang_native": "اردو",
+  "lang_dir": "rtl",
+  "site": {
+    "name": "admin.education",
+    "tagline": "علم مفت ہے",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "ہوم",
+    "method": "طریقہ",
+    "writing": "تحریر",
+    "exams": "امتحانات",
+    "links": "لنکس",
+    "contact": "رابطہ"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "سسٹم ایڈمنسٹریشن اور ٹیکنالوجی تعلیم کے لیے عوامی طریقہ۔ علم مفت رہتا ہے۔",
+    "h1": "سسٹم ایڈمنسٹریشن بطور عوامی طریقہ۔",
+    "lead": "admin.education ایک تعلیمی سطح ہے۔ کوئی وزارت نہیں۔ کوئی کورس کی دکان نہیں۔ کوئی پیشکش کی پروفائل نہیں۔",
+    "intro": "کام بنیادی ڈھانچہ، اطلاقی AI خواندگی اور پیمائش ہے۔ علم مفت رہتا ہے۔ طریقہ کی ملکیت اس ڈومین کے آپریٹر کے پاس رہتی ہے۔",
+    "what_heading": "یہ سائٹ کیا ہے",
+    "what_items": [
+      "طویل تحریر اور لیبارٹری نوٹس کے لیے ریڑھ کی ہڈی۔",
+      "ویزا، ڈپلومہ یا معجزہ بیچے بغیر طریقہ شائع کرنے کی جگہ۔",
+      "عوامی ریکارڈ کہ آپریٹر ایک سسٹم ایڈمنسٹریٹر اور ایک استاد ہے، کوئی سرکاری ادارہ نہیں۔"
+    ],
+    "what_not_heading": "یہ سائٹ کیا نہیں ہے",
+    "what_not_items": [
+      "RateZip.com نہیں۔ وہ رجسٹر پرانا کام ہے، 2007–2022۔",
+      "freelancer.com/u/kerberus نہیں۔ وہ صفحہ 2006 سے ملازمت کا ریکارڈ ہے۔",
+      "کوئی کنسرٹ پروموٹر نہیں اور نہ ہی قرض لیا ہوا البم کا عنوان۔",
+      "کوئی ڈاکٹریٹ نہیں۔ یہاں کوئی PhD نہیں۔ ڈپلومہ تھیسس نامکمل رہتا ہے۔"
+    ],
+    "note": "اگر کوئی جملہ ناپا یا حوالہ نہیں دیا جا سکتا، تو یہ اس ڈومین سے تعلق نہیں رکھتا۔"
+  },
+  "method": {
+    "title": "طریقہ",
+    "page_title": "طریقہ — admin.education",
+    "description": "admin.education کیسے سکھاتا ہے: پہلے پیمائش، مفت علم، صرف White Hat۔",
+    "h1": "طریقہ",
+    "lead": "پہلے ناپیں۔ دوسرے سکھائیں۔ جملے کو لے جانے کے لیے کوئی عنوان ایجاد نہ کریں۔",
+    "rules_heading": "قواعد جو صفحے پر رہتے ہیں",
+    "rules_items": [
+      "علم مفت ہے۔ کوئی دورہ ضروری نہیں۔ صرف آن لائن۔",
+      "صرف White Hat۔ احکامات آپ کی اپنی مشینوں پر استعارے ہیں۔ کسی تیسرے فریق کے خلاف کچھ نہیں چلایا جاتا۔",
+      "پہلے رضامندی۔ انتساب اور باہمیت۔ چھوٹا مشترکہ کور، مقامی منصوبہ۔",
+      "اسکول کا ریکارڈ اور پلیٹ فارم کے امتحانات دو لائنوں پر رہتے ہیں۔ یہ ایک ہی چیز نہیں ہیں۔ پلیٹ فارم کے امتحانات <a href=\"exams.html\">امتحانات</a> میں ہیں۔",
+      "جب رقم شامل ہو تو ملحق کام جملے میں نشان زد ہوتا ہے۔"
+    ],
+    "operator_heading": "یہاں استعمال شدہ آپریٹر کے حقائق",
+    "operator_items": [
+      "2002 سے سسٹم ایڈمنسٹریٹر۔ پہلے Webmin، Virtualmin، CentOS۔ بعد کی مشینوں میں Linode، Vercel، DigitalOcean شامل ہیں۔",
+      "ڈیفالٹ خود میزبانی ہے جب رفتار ترجیح نہیں۔",
+      "انفارمیٹکس، IT اور AI میں معلم۔ آزاد۔ کبھی سربیا کے سرکاری اداروں نے ملازم نہیں رکھا۔",
+      "Vukova ڈپلومہ، OŠ Nikola Tesla، Vinča، 11 جون 1998۔ اس اسکول ڈپلومے میں مضامین: انگریزی، حیاتیات، طبیعیات، ریاضی۔",
+      "کوئی ڈاکٹریٹ نہیں۔ ڈپلومہ تھیسس نامکمل۔ پھر کینیڈا کی کمپنی کے لیے دور دراز کا کام۔"
+    ],
+    "muted": "کوئی بھی بیان کردہ حقیقت پر اضافے یا ذرائع کی درخواست کر سکتا ہے۔"
+  },
+  "writing": {
+    "title": "تحریر",
+    "page_title": "تحریر — admin.education",
+    "description": "admin.education کے لیے طویل شکل کی تحریر Substack پر رہتی ہے۔",
+    "h1": "تحریر",
+    "lead": "کاغذ Substack پر ہے۔ یہ ڈومین ریڑھ کی ہڈی ہے۔",
+    "intro": "طویل شکل <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a> پر جاتی ہے۔ مختصر عوامی کٹ پہلے Bluesky پر جاتے ہیں، پھر دیگر فعال سطحوں پر۔ یہ سائٹ فیڈ کو دوبارہ پرنٹ نہیں کرتی۔",
+    "priority": "مضامین طریقہ لے جاتے ہیں۔ مختصر پوسٹس سطح ہیں۔ اگر دونوں متفق نہیں ہیں تو مضمون جیت جاتا ہے۔",
+    "live_heading": "تحریر کے لیے استعمال شدہ فعال سطحیں",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X فہرست میں نہیں۔ LinkedIn یہاں مسودہ کی سطح کے طور پر استعمال نہیں ہوتا۔"
+  },
+  "exams": {
+    "title": "پلیٹ فارم کے امتحانات",
+    "page_title": "پلیٹ فارم کے امتحانات — admin.education",
+    "description": "freelancer/vWorker ریکارڈ سے ملازمت کے پلیٹ فارم کے امتحانات۔ کوئی وزارتی ڈپلومہ نہیں۔ اسکول کا ریکارڈ طریقہ میں رہتا ہے۔",
+    "h1": "پلیٹ فارم کے امتحانات",
+    "lead": "ملازمت کے پلیٹ فارم کی UI ان کو سرٹیفیکیشن کے طور پر لیبل کرتی ہے۔ اس ڈومین میں یہ مارکیٹ کے امتحانات رہتے ہیں۔ کوئی وزارتی ڈپلومہ نہیں۔ کوئی ڈاکٹریٹ نہیں۔ اسکول کا ریکارڈ طریقہ میں رہتا ہے۔",
+    "source": "Freelancer.com / vWorker ملازمت کے پلیٹ فارم کا ریکارڈ، جیسا کہ 19 ستمبر 2026 کے اسکرین شاٹس میں دکھایا گیا ہے۔ اس صفحے پر اصل چھوٹے SVG نشانات۔ مارکیٹ کا فن نہیں۔",
+    "muted": "اسکول کا ریکارڈ (Vukova ڈپلومہ، 11 جون 1998) ایک مختلف چیز ہے اور طریقہ میں رہتا ہے۔ دو فہرستوں کو ضم نہ کریں۔",
+    "note": "کوئی بھی بیان کردہ حقیقت پر ذریعہ کی درخواست کر سکتا ہے۔ اگر بعد میں سرکاری Skillshop، Adobe یا Microsoft ID تیار کی جاتی ہے تو اس کی اپنی لائن ملتی ہے۔ یہ ٹائلیں وہ نہیں ہیں۔",
+    "exam_meta": "امتحان۔ ملازمت کے پلیٹ فارم کا ریکارڈ: {stars} ستارہ۔",
+    "exam_meta_plural": "امتحان۔ ملازمت کے پلیٹ فارم کا ریکارڈ: {stars} ستارے۔",
+    "orientation_meta": "سمت۔ ملازمت کے پلیٹ فارم کا ریکارڈ: {stars} ستارہ۔",
+    "membership_meta": "رکنیت۔ رکنیت کا بیج۔ ٹائل پر کوئی ستارہ نہیں۔"
+  },
+  "links": {
+    "title": "لنکس",
+    "page_title": "لنکس — admin.education",
+    "description": "admin.education کے لیے نمایاں لنکس۔ Bluesky، تحریر، ذریعہ، رابطہ۔",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "سسٹم ایڈمنسٹریشن بطور عوامی طریقہ۔ بنیادی ڈھانچے، اطلاقی AI خواندگی اور پیمائش کے لیے تعلیمی سطح۔ علم مفت رہتا ہے۔",
+    "featured_label": "نمایاں لنکس",
+    "link_method": "طریقہ",
+    "link_method_desc": "یہ ڈومین کیسے سکھاتا ہے",
+    "link_exams": "امتحانات",
+    "link_exams_desc": "ملازمت کے پلیٹ فارم کی ٹائلیں، وضاحت کی گئی",
+    "link_writing": "تحریر",
+    "link_writing_desc": "Substack پر طویل شکل",
+    "link_source": "ذریعہ",
+    "link_source_desc": "GitHub پر جامد ریڑھ کی ہڈی",
+    "link_contact": "رابطہ",
+    "link_contact_desc": "پہلے لکھیں۔ یہاں کوئی نمبر نہیں۔",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "رابطہ",
+    "page_title": "رابطہ — admin.education",
+    "description": "admin.education کے لیے رابطے کے راستے۔ WhatsApp Business یا ای میل۔",
+    "h1": "رابطہ",
+    "lead": "بنیادی راستہ: WhatsApp Business۔ بیک اپ کے طور پر ای میل۔",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "ای میل:",
+    "email_also": "mapkomah at gmail.com تک بھی پہنچتا ہے",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber اور Telegram اسی حقیقی نمبر ڈیسک پر موجود ہیں۔ وہ چینلز شائع نہیں ہیں۔ Cloaked اجنبیوں اور فارموں کے لیے عرفیت کے لیے ہے، اس ڈیسک کا متبادل نہیں۔",
+    "note": "اگر درخواست دستخط، لائسنس یا رقم ہے تو پہلے دستاویز پڑھیں۔ وقت لیں۔ دستخط کرنے سے پہلے پوچھیں، بعد میں نہیں۔"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "locale": "sw",
+  "lang_native": "Kiswahili",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "maarifa ni bure",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Nyumbani",
+    "method": "Njia",
+    "writing": "Kuandika",
+    "exams": "Mitihani",
+    "links": "Viungo",
+    "contact": "Wasiliana"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Njia ya umma kwa usimamizi wa mfumo na elimu ya teknolojia. Maarifa yanabaki bure.",
+    "h1": "Usimamizi wa mfumo kama njia ya umma.",
+    "lead": "admin.education ni uso wa kufundisha. Sio wizara. Sio duka la kozi. Sio wasifu wa toleo.",
+    "intro": "Kazi ni miundombinu, ujuzi wa AI uliotumika na kipimo. Maarifa yanabaki bure. Umiliki wa njia unabakia kwa opereta wa kikoa hiki.",
+    "what_heading": "Tovuti hii ni nini",
+    "what_items": [
+      "Uti wa mgongo kwa maandishi marefu na vidokezo vya maabara.",
+      "Mahali pa kuchapisha njia bila kuuza viza, digrii au muujiza.",
+      "Rekodi ya umma kwamba opereta ni msimamizi wa mfumo na mwalimu, si taasisi ya serikali."
+    ],
+    "what_not_heading": "Tovuti hii sio nini",
+    "what_not_items": [
+      "Sio RateZip.com. Rekodi hiyo ni kazi ya zamani, 2007–2022.",
+      "Sio freelancer.com/u/kerberus. Ukurasa huo ni rekodi ya kuajiri kutoka 2006.",
+      "Sio mtangazaji wa tamasha na sio kichwa cha albamu kilichokopwa.",
+      "Sio shahada ya udaktari. Hakuna PhD hapa. Tasinifu ya digrii inabaki haijakamilika."
+    ],
+    "note": "Ikiwa sentensi haiwezi kupimwa au kuthibitishwa, haifai kikoa hiki."
+  },
+  "method": {
+    "title": "Njia",
+    "page_title": "Njia — admin.education",
+    "description": "Jinsi admin.education inavyofundisha: pima kwanza, maarifa bure, White Hat tu.",
+    "h1": "Njia",
+    "lead": "Pima kwanza. Fundisha pili. Usiunde kichwa cha kubeba sentensi.",
+    "rules_heading": "Sheria zinazobaki kwenye ukurasa",
+    "rules_items": [
+      "Maarifa ni bure. Hakuna ziara inayohitajika. Mtandaoni tu.",
+      "White Hat tu. Amri ni mfano kwenye mashine zako. Hakuna kinachotekelezwa dhidi ya mtu wa tatu.",
+      "Idhini kwanza. Utambuzi na ushirikiano. Kiini kidogo kinachoshirikiwa, mradi wa ndani.",
+      "Rekodi ya shule na mitihani ya jukwaa zinabakia kwenye mistari miwili. Hazifanani. Mitihani ya jukwaa iko <a href=\"exams.html\">Mitihani</a>.",
+      "Kazi ya ushirikiano imewekwa alama kwenye sentensi pindi pesa zinapohusika."
+    ],
+    "operator_heading": "Ukweli wa opereta uliotumika hapa",
+    "operator_items": [
+      "Msimamizi wa mfumo tangu 2002. Kwanza Webmin, Virtualmin, CentOS. Mashine za baadaye ni pamoja na Linode, Vercel, DigitalOcean.",
+      "Chaguo-msingi ni uandishaji binafsi wakati kasi sio kipaumbele.",
+      "Mwalimu katika informatika, IT na AI. Huru. Kamwe hajapata kazi na taasisi za serikali za Serbia.",
+      "Digrii ya Vukova, OŠ Nikola Tesla, Vinča, Juni 11, 1998. Masomo kwenye digrii hiyo ya shule: Kiingereza, biolojia, fizikia, hisabati.",
+      "Hakuna shahada ya udaktari. Tasinifu ya digrii haijakamilika. Kisha kazi ya mbali kwa kampuni ya Canada."
+    ],
+    "muted": "Mtu yeyote anaweza kuomba nyongeza au vyanzo juu ya ukweli uliotajwa."
+  },
+  "writing": {
+    "title": "Kuandika",
+    "page_title": "Kuandika — admin.education",
+    "description": "Maandishi marefu kwa admin.education yanaishi kwenye Substack.",
+    "h1": "Kuandika",
+    "lead": "Karatasi iko kwenye Substack. Kikoa hiki ni uti wa mgongo.",
+    "intro": "Fomu ndefu inaenda <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Vipande vifupi vya umma vinaenda kwanza Bluesky, kisha nyuso nyingine hai. Tovuti hii haichapishi tena mlisho.",
+    "priority": "Makala yanabeba njia. Machapisho mafupi ni uso. Ikiwa wawili hawakubaliani, makala inashinda.",
+    "live_heading": "Nyuso hai zinazotumika kwa maandishi",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "X haijaorodheshwa. LinkedIn haitumiwi kama uso wa rasimu hapa."
+  },
+  "exams": {
+    "title": "Mitihani ya jukwaa",
+    "page_title": "Mitihani ya jukwaa — admin.education",
+    "description": "Mitihani ya jukwaa la uajiri kutoka rekodi ya freelancer/vWorker. Sio digrii ya wizara. Rekodi ya shule inabaki katika Njia.",
+    "h1": "Mitihani ya jukwaa",
+    "lead": "UI ya jukwaa la uajiri inaweka lebo hizi kama Cheti. Katika kikoa hiki zinabaki mitihani ya soko. Sio digrii ya wizara. Sio shahada ya udaktari. Rekodi ya shule inabaki katika Njia.",
+    "source": "Rekodi ya jukwaa la uajiri la Freelancer.com / vWorker, kama inavyoonyeshwa kwenye picha za skrini za Septemba 19, 2026. Alama ndogo za asili za SVG kwenye ukurasa huu. Sio sanaa ya soko.",
+    "muted": "Rekodi ya shule (digrii ya Vukova, Juni 11, 1998) ni kitu tofauti na kubakia katika Njia. Usichanganye orodha mbili.",
+    "note": "Mtu yeyote anaweza kuomba chanzo cha ukweli uliotajwa. Ikiwa kitambulisho rasmi cha Skillshop, Adobe au Microsoft kinazalishwa baadaye, kinapata mstari wake. Vigae hivi sio hivyo.",
+    "exam_meta": "Mtihani. Rekodi ya jukwaa la uajiri: nyota {stars}.",
+    "exam_meta_plural": "Mtihani. Rekodi ya jukwaa la uajiri: nyota {stars}.",
+    "orientation_meta": "Uelekeo. Rekodi ya jukwaa la uajiri: nyota {stars}.",
+    "membership_meta": "Uanachama. Beji ya uanachama. Hakuna nyota kwenye kigae."
+  },
+  "links": {
+    "title": "Viungo",
+    "page_title": "Viungo — admin.education",
+    "description": "Viungo vilivyoangaziwa kwa admin.education. Bluesky, kuandika, chanzo, wasiliana.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Usimamizi wa mfumo kama njia ya umma. Uso wa kufundisha kwa miundombinu, ujuzi wa AI uliotumika na kipimo. Maarifa yanabaki bure.",
+    "featured_label": "Viungo vilivyoangaziwa",
+    "link_method": "Njia",
+    "link_method_desc": "Jinsi kikoa hiki kinavyofundisha",
+    "link_exams": "Mitihani",
+    "link_exams_desc": "Vigae vya jukwaa la uajiri, vimeelezwa",
+    "link_writing": "Kuandika",
+    "link_writing_desc": "Fomu ndefu kwenye Substack",
+    "link_source": "Chanzo",
+    "link_source_desc": "Uti wa mgongo tuli kwenye GitHub",
+    "link_contact": "Wasiliana",
+    "link_contact_desc": "Andika kwanza. Hakuna nambari hapa.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Wasiliana",
+    "page_title": "Wasiliana — admin.education",
+    "description": "Njia za mawasiliano kwa admin.education. WhatsApp Business au barua pepe.",
+    "h1": "Wasiliana",
+    "lead": "Njia kuu: WhatsApp Business. Barua pepe kama hifadhi.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "Barua pepe:",
+    "email_also": "Pia inafikia mapkomah at gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Viber na Telegram zipo kwenye dawati sawa la nambari halisi. Njia hizo hazijachapishwa. Cloaked ni kwa majina ya bandia kwa wageni na fomu, sio mbadala wa dawati hilo.",
+    "note": "Ikiwa ombi ni saini, leseni au pesa, soma hati kwanza. Chukua muda. Uliza kabla ya kusaini, sio baadaye."
+  }
+}

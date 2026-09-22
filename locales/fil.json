@@ -1,0 +1,136 @@
+{
+  "locale": "fil",
+  "lang_native": "Filipino",
+  "lang_dir": "ltr",
+  "site": {
+    "name": "admin.education",
+    "tagline": "ang kaalaman ay libre",
+    "year": "2026"
+  },
+  "nav": {
+    "home": "Bahay",
+    "method": "Pamamaraan",
+    "writing": "Pagsusulat",
+    "exams": "Pagsusulit",
+    "links": "Mga Link",
+    "contact": "Makipag-ugnayan"
+  },
+  "home": {
+    "title": "admin.education",
+    "description": "Pampublikong pamamaraan para sa pangangasiwa ng sistema at edukasyong teknolohiya. Ang kaalaman ay nananatiling libre.",
+    "h1": "Pangangasiwa ng sistema bilang pampublikong pamamaraan.",
+    "lead": "Ang admin.education ay isang ibabaw ng pagtuturo. Hindi isang ministeryo. Hindi isang tindahan ng kurso. Hindi isang profile ng alok.",
+    "intro": "Ang trabaho ay imprastraktura, inilapat na AI literacy at pagsukat. Ang kaalaman ay nananatiling libre. Ang pagmamay-ari ng pamamaraan ay nananatili sa operator ng domain na ito.",
+    "what_heading": "Ano ang site na ito",
+    "what_items": [
+      "Isang gulugod para sa mahabang pagsusulat at mga tala sa laboratoryo.",
+      "Isang lugar upang maglathala ng pamamaraan nang walang pagbebenta ng visa, diploma o himala.",
+      "Isang pampublikong tala na ang operator ay isang administrator ng sistema at isang tagapagturo, hindi isang institusyong pang-estado."
+    ],
+    "what_not_heading": "Ano ang hindi ng site na ito",
+    "what_not_items": [
+      "Hindi RateZip.com. Ang talaan ay dating trabaho, 2007–2022.",
+      "Hindi freelancer.com/u/kerberus. Ang pahinang iyon ay isang tala ng pag-hire mula 2006.",
+      "Hindi isang promoter ng konsyerto at hindi isang hiniram na pamagat ng album.",
+      "Hindi isang doktorado. Walang PhD dito. Ang thesis ng diploma ay nananatiling hindi tapos."
+    ],
+    "note": "Kung ang isang pangungusap ay hindi masusukat o masusulat, hindi ito kabilang sa domain na ito."
+  },
+  "method": {
+    "title": "Pamamaraan",
+    "page_title": "Pamamaraan — admin.education",
+    "description": "Paano nagtuturo ang admin.education: sukat muna, libreng kaalaman, White Hat lang.",
+    "h1": "Pamamaraan",
+    "lead": "Sukat muna. Magturo pangalawa. Huwag mag-imbento ng titulo upang dalhin ang pangungusap.",
+    "rules_heading": "Mga patakaran na nananatili sa pahina",
+    "rules_items": [
+      "Ang kaalaman ay libre. Walang kinakailangang pagbisita. Online lang.",
+      "White Hat lang. Ang mga utos ay mga metapora sa iyong sariling mga makina. Walang isinasagawa laban sa isang third party.",
+      "Pagpayag muna. Pagkilala at pagtutumbasan. Maliit na nakabahaging core, lokal na proyekto.",
+      "Ang tala ng paaralan at mga pagsusulit ng platform ay nananatili sa dalawang linya. Hindi sila parehong bagay. Ang mga pagsusulit ng platform ay nasa <a href=\"exams.html\">Pagsusulit</a>.",
+      "Ang affiliate work ay minarkahan sa pangungusap kapag sangkot ang pera."
+    ],
+    "operator_heading": "Mga katotohanan ng operator na ginamit dito",
+    "operator_items": [
+      "Administrator ng sistema mula 2002. Una Webmin, Virtualmin, CentOS. Ang mga kalaunang makina ay kinabibilangan ng Linode, Vercel, DigitalOcean.",
+      "Ang default ay self-hosting kapag ang bilis ay hindi prioridad.",
+      "Tagapagturo sa informatika, IT at AI. Independyente. Hindi kailanman nagtrabaho para sa mga institusyong pang-estado ng Serbia.",
+      "Diploma ng Vukova, OŠ Nikola Tesla, Vinča, Hunyo 11, 1998. Mga paksa sa diploma ng paaralan: Ingles, biology, physics, mathematics.",
+      "Walang doktorado. Thesis ng diploma ay hindi tapos. Pagkatapos ay malayong trabaho para sa isang kumpanya ng Canada."
+    ],
+    "muted": "Sinuman ay maaaring humiling ng mga karagdagan o mga pinagmulan sa isang nabanggit na katotohanan."
+  },
+  "writing": {
+    "title": "Pagsusulat",
+    "page_title": "Pagsusulat — admin.education",
+    "description": "Ang mahabang pagsusulat para sa admin.education ay nabubuhay sa Substack.",
+    "h1": "Pagsusulat",
+    "lead": "Ang papel ay nasa Substack. Ang domain na ito ay ang gulugod.",
+    "intro": "Ang mahabang anyo ay pumupunta sa <a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">arhitektahaosa.substack.com</a>. Ang maikling pampublikong mga putol ay pumupunta una sa Bluesky, pagkatapos sa iba pang aktibong mga ibabaw. Ang site na ito ay hindi nag-reprint ng feed.",
+    "priority": "Ang mga artikulo ay nagdadala ng pamamaraan. Ang maikling mga post ay ibabaw. Kung ang dalawa ay hindi sumasang-ayon, ang artikulo ay mananalo.",
+    "live_heading": "Aktibong mga ibabaw na ginamit para sa pagsusulat",
+    "live_items": [
+      "<a href=\"https://arhitektahaosa.substack.com/\" rel=\"noopener noreferrer\">Substack</a>",
+      "<a href=\"https://bsky.app/profile/admin.education\" rel=\"noopener noreferrer\">Bluesky</a>",
+      "<a href=\"https://www.threads.com/@arhitektahaosa\" rel=\"noopener noreferrer\">Threads</a>",
+      "<a href=\"https://www.facebook.com/ArhitektaHaosa\" rel=\"noopener noreferrer\">Facebook</a>",
+      "<a href=\"https://www.instagram.com/ArhitektaHaosa/\" rel=\"noopener noreferrer\">Instagram</a>"
+    ],
+    "note": "Ang X ay hindi nakalista. Ang LinkedIn ay hindi ginagamit bilang ibabaw ng draft dito."
+  },
+  "exams": {
+    "title": "Mga pagsusulit ng platform",
+    "page_title": "Mga pagsusulit ng platform — admin.education",
+    "description": "Mga pagsusulit ng platform ng pag-hire mula sa tala ng freelancer/vWorker. Hindi isang diploma ng ministeryo. Ang tala ng paaralan ay nananatili sa Pamamaraan.",
+    "h1": "Mga pagsusulit ng platform",
+    "lead": "Ang UI ng platform ng pag-hire ay nag-label sa mga ito bilang Certifications. Sa domain na ito sila ay nananatiling mga pagsusulit ng merkado. Hindi isang diploma ng ministeryo. Hindi isang doktorado. Ang tala ng paaralan ay nananatili sa Pamamaraan.",
+    "source": "Tala ng platform ng pag-hire ng Freelancer.com / vWorker, gaya ng ipinapakita sa mga screenshot ng Setyembre 19, 2026. Orihinal na maliliit na mga marka ng SVG sa pahinang ito. Hindi ang sining ng merkado.",
+    "muted": "Ang tala ng paaralan (diploma ng Vukova, Hunyo 11, 1998) ay isang ibang bagay at nananatili sa Pamamaraan. Huwag pagsamahin ang dalawang listahan.",
+    "note": "Sinuman ay maaaring humiling ng pinagmulan sa isang nabanggit na katotohanan. Kung ang isang kalaunang opisyal na Skillshop, Adobe o Microsoft ID ay ginawa, ito ay makakakuha ng sariling linya. Ang mga tiles na ito ay hindi iyon.",
+    "exam_meta": "Pagsusulit. Tala ng platform ng pag-hire: {stars} bituin.",
+    "exam_meta_plural": "Pagsusulit. Tala ng platform ng pag-hire: {stars} bituin.",
+    "orientation_meta": "Oryentasyon. Tala ng platform ng pag-hire: {stars} bituin.",
+    "membership_meta": "Miyembro. Badge ng miyembro. Walang bituin sa tile."
+  },
+  "links": {
+    "title": "Mga Link",
+    "page_title": "Mga Link — admin.education",
+    "description": "Mga tampok na link para sa admin.education. Bluesky, pagsusulat, pinagmulan, makipag-ugnayan.",
+    "h1": "admin.education",
+    "handle": "@ArhitektaHaosa",
+    "lead": "Pangangasiwa ng sistema bilang pampublikong pamamaraan. Ibabaw ng pagtuturo para sa imprastraktura, inilapat na AI literacy at pagsukat. Ang kaalaman ay nananatiling libre.",
+    "featured_label": "Mga tampok na link",
+    "link_method": "Pamamaraan",
+    "link_method_desc": "Paano nagtuturo ang domain na ito",
+    "link_exams": "Pagsusulit",
+    "link_exams_desc": "Mga tiles ng platform ng pag-hire, ipinaliwanag",
+    "link_writing": "Pagsusulat",
+    "link_writing_desc": "Mahabang anyo sa Substack",
+    "link_source": "Pinagmulan",
+    "link_source_desc": "Static na gulugod sa GitHub",
+    "link_contact": "Makipag-ugnayan",
+    "link_contact_desc": "Magsulat muna. Walang numero dito.",
+    "link_bluesky": "Bluesky",
+    "link_bluesky_desc": "admin.education",
+    "link_instagram": "Instagram",
+    "link_instagram_desc": "@ArhitektaHaosa",
+    "link_facebook": "Facebook",
+    "link_facebook_desc": "@ArhitektaHaosa"
+  },
+  "contact": {
+    "title": "Makipag-ugnayan",
+    "page_title": "Makipag-ugnayan — admin.education",
+    "description": "Mga landas ng contact para sa admin.education. WhatsApp Business o email.",
+    "h1": "Makipag-ugnayan",
+    "lead": "Pangunahing landas: WhatsApp Business. Email bilang backup.",
+    "whatsapp_label": "WhatsApp Business:",
+    "email_label": "Email:",
+    "email_also": "Umaabot din sa mapkomah at gmail.com",
+    "bluesky_label": "Bluesky:",
+    "instagram_label": "Instagram:",
+    "facebook_label": "Facebook:",
+    "substack_label": "Substack:",
+    "other_channels": "Ang Viber at Telegram ay umiiral sa parehong tunay na numero desk. Ang mga channel na iyon ay hindi naka-publish. Ang Cloaked ay para sa mga alias sa mga dayuhan at mga form, hindi isang kapalit para sa desk na iyon.",
+    "note": "Kung ang hiling ay isang pirma, isang lisensya o pera, basahin muna ang dokumento. Maglaan ng oras. Magtanong bago ka pumirma, hindi pagkatapos."
+  }
+}

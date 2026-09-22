@@ -2,6 +2,8 @@
 
 This site is optimized for **Linode + Cloud Panel** with nginx as the production environment.
 
+**Pure Static Deployment:** This site requires **NO Node.js** on the server. All 300 HTML files (50 locales × 6 pages) are committed to the repository. Simply clone or rsync the files to your document root.
+
 ## Prerequisites
 
 - Cloud Panel installed on Linode VPS

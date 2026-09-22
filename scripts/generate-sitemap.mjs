@@ -2,7 +2,7 @@
 /**
  * generate-sitemap.mjs
  * 
- * Generates sitemap.xml for all 31 locales × 6 pages = 186 URLs
+ * Generates sitemap.xml for all 50 locales × 6 pages = 300 URLs
  * 
  * Usage:
  *   node scripts/generate-sitemap.mjs
@@ -18,8 +18,8 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const rootDir = path.resolve(__dirname, '..');
 
-// All 31 locales
-const LOCALES = ['en', 'sr', 'fr', 'de', 'hi', 'vi', 'pt-BR', 'es', 'ja', 'ko', 'zh-CN', 'ru', 'pl', 'it', 'nl', 'tr', 'hr', 'uk', 'cs', 'sk', 'ro', 'hu', 'sv', 'fi', 'da', 'id', 'th', 'ar', 'zh-TW', 'el', 'bn'];
+// All 50 locales
+const LOCALES = ['en', 'sr', 'fr', 'de', 'hi', 'vi', 'pt-BR', 'es', 'ja', 'ko', 'zh-CN', 'ru', 'pl', 'it', 'nl', 'tr', 'hr', 'uk', 'cs', 'sk', 'ro', 'hu', 'sv', 'fi', 'da', 'id', 'th', 'ar', 'zh-TW', 'el', 'bn', 'pt', 'nb', 'he', 'bg', 'sl', 'lt', 'lv', 'et', 'ca', 'ms', 'fil', 'fa', 'ur', 'sw', 'ta', 'af', 'sq', 'mk', 'ka'];
 
 // All pages
 const PAGES = ['index.html', 'method.html', 'writing.html', 'exams.html', 'links.html', 'contact.html'];
@@ -38,7 +38,7 @@ const PAGE_METADATA = {
 };
 
 function generateSitemap() {
-  console.log('🗺️  Generating sitemap.xml for 31 locales...\n');
+  console.log('🗺️  Generating sitemap.xml for 50 locales...\n');
   
   let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
   xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
@@ -68,7 +68,7 @@ function generateSitemap() {
   fs.writeFileSync(sitemapPath, xml, 'utf8');
   
   console.log(`✅ Generated sitemap.xml with ${urlCount} URLs`);
-  console.log(`   31 locales × 6 pages = ${urlCount} URLs`);
+  console.log(`   50 locales × 6 pages = ${urlCount} URLs`);
   console.log(`\n📍 Sitemap location: ${sitemapPath}`);
 }
 
