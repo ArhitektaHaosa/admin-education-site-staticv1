@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="general orientation">
+  <circle cx="48" cy="48" r="46" fill="#111111"/>
+  <circle cx="48" cy="48" r="22" fill="none" stroke="#F7F4EE" stroke-width="3"/>
+  <text x="48" y="56" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="26" font-weight="800" fill="#FF6719">G</text>
+</svg>
