@@ -4,6 +4,10 @@
     <xs:documentation>
       Serialization of data/certs.json. JSON is canonical. XML is the validated copy.
       Do not add date, score, or issuer unless a sourced value exists.
+      content-quality-score/content-quality-confidence are the exception: they are not
+      a claim about the exam. They are a TypeSafe Score judgment of this tile's own
+      copy (does it state what the exam covers and disclaim what it isn't), produced
+      by scripts/score-exam-quality.mjs. Optional; absent until that script runs.
     </xs:documentation>
   </xs:annotation>
   <xs:element name="certs">
@@ -19,6 +23,8 @@
             <xs:attribute name="slug" use="required" type="slugType"/>
             <xs:attribute name="stars" type="starsType"/>
             <xs:attribute name="kind" use="required" type="kindType"/>
+            <xs:attribute name="content-quality-score" type="qualityScoreType"/>
+            <xs:attribute name="content-quality-confidence" type="unitIntervalType"/>
           </xs:complexType>
         </xs:element>
       </xs:sequence>
@@ -43,6 +49,18 @@
     <xs:restriction base="xs:integer">
       <xs:minInclusive value="1"/>
       <xs:maxInclusive value="2"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="qualityScoreType">
+    <xs:restriction base="xs:decimal">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="3"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="unitIntervalType">
+    <xs:restriction base="xs:decimal">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="1"/>
     </xs:restriction>
   </xs:simpleType>
 </xs:schema>

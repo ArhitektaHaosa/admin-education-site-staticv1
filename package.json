@@ -1,0 +1,12 @@
+{
+  "name": "admin-education-site-static",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render-exams": "node scripts/render-exams.mjs",
+    "score-exam-quality": "node scripts/score-exam-quality.mjs"
+  },
+  "dependencies": {
+    "@typesafe-ai/sdk": "^0.6.0"
+  }
+}
