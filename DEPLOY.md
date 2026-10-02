@@ -1,22 +1,22 @@
 # Deploy
 
-**STATIC-ONLY ARCHITECTURE (staticv2.0)**
+**PURE STATIC ARCHITECTURE (staticv3.0)**
 
-This site is pure HTML + CSS + JS. **No Node.js or npm required on the server.**
+This site is pure HTML + CSS + JS. **No Node.js, npm, or build tools required anywhere.**
 
 After `git clone`, simply copy files to `/home/admin/htdocs/www.admin.education` and `chown admin:admin`. The site works immediately with zero build step.
 
-Build scripts (`build-i18n.mjs`, `generate-sitemap.mjs`) are optional maintainer tools. Committed HTML files are the source of truth for deployment.
+All 50 locale directories and 300 HTML files are committed and ready to serve. No generation step exists.
 
 ## GitHub Pages (automated)
 
-Push to `main` rebuilds the public HTML and force-updates the `gh-pages` branch. No tracker. The workflow also confirms `exams.html` and `data/certs.xml` still match `data/certs.json`.
+Push to `main` rebuilds the `gh-pages` branch by copying static files. No tracker. The workflow copies all committed HTML files directly.
 
-**Multilingual structure:** The site now publishes 50 locale directories (`en/`, `sr/`, `fr/`, `de/`, `hi/`, `vi/`, `pt-BR/`, `es/`, `ja/`, `ko/`, `zh-CN/`, `ru/`, `pl/`, `it/`, `nl/`, `tr/`, `hr/`, `uk/`, `cs/`, `sk/`, `ro/`, `hu/`, `sv/`, `fi/`, `da/`, `id/`, `th/`, `ar/`, `zh-TW/`, `el/`, `bn/`, `pt/`, `nb/`, `he/`, `bg/`, `sl/`, `lt/`, `lv/`, `et/`, `ca/`, `ms/`, `fil/`, `fa/`, `ur/`, `sw/`, `ta/`, `af/`, `sq/`, `mk/`, `ka/`), each containing 6 pages.
+**Multilingual structure:** The site publishes 50 locale directories (`en/`, `sr/`, `fr/`, `de/`, `hi/`, `vi/`, `pt-BR/`, `es/`, `ja/`, `ko/`, `zh-CN/`, `ru/`, `pl/`, `it/`, `nl/`, `tr/`, `hr/`, `uk/`, `cs/`, `sk/`, `ro/`, `hu/`, `sv/`, `fi/`, `da/`, `id/`, `th/`, `ar/`, `zh-TW/`, `el/`, `bn/`, `pt/`, `nb/`, `he/`, `bg/`, `sl/`, `lt/`, `lv/`, `et/`, `ca/`, `ms/`, `fil/`, `fa/`, `ur/`, `sw/`, `ta/`, `af/`, `sq/`, `mk/`, `ka/`), each containing 6 pages.
 
-**SEO structure:** Full hreflang tags, canonical tags, sitemap.xml (300 URLs), robots.txt, JSON-LD structured data.
+**SEO structure:** Full hreflang tags in sitemap.xml (15,300 hreflang alternates across 300 URLs), canonical tags in every page, robots.txt, JSON-LD structured data.
 
-Published files: locale directories (50 total), `css/`, `img/`, `js/`, `data/`, `locales/`, `sitemap.xml`, `robots.txt`, `VERSION`, `index.html` (redirects to `/en/`). Build scripts stay in git, not on the published root.
+Published files: locale directories (50 total), `css/`, `img/`, `js/`, `sitemap.xml`, `robots.txt`, `VERSION`, `index.html` (redirects to `/en/`). No build artifacts, no Node files.
 
 Live URL after Pages is serving the `gh-pages` branch:
 
@@ -26,7 +26,7 @@ https://arhitektahaosa.github.io/admin-education-site-staticv1/
 
 ## Linode + Cloud Panel (intended production)
 
-The site is optimized for **Linode + Cloud Panel** with nginx as the primary production environment. This is the recommended deployment path for the `admin.education` apex domain at `/home/admin/htdocs/www.admin.education`.
+The site is optimized for **Linode + Cloud Panel** with nginx as the primary production environment. This is the recommended deployment path for the `www.admin.education` domain at `/home/admin/htdocs/www.admin.education`.
 
 **DEPLOYMENT PATH:** `/home/admin/htdocs/www.admin.education`  
 **OWNER:** `admin:admin`
@@ -37,18 +37,18 @@ The site is optimized for **Linode + Cloud Panel** with nginx as the primary pro
 - Create site in Cloud Panel (Static HTML)
 - Enable SSL/TLS with Let's Encrypt
 - Apply nginx performance directives from `deploy/cloudpanel/nginx-performance.conf`
-- Deploy via `git clone` or rsync to `/home/admin/htdocs/www.admin.education`
+- Deploy via `git clone` or rsync: clone repo, copy all files to docroot
 - Set ownership: `chown -R admin:admin /home/admin/htdocs/www.admin.education`
-- **No Node.js installation required on server**
+- **No Node.js installation or build step required**
 - Expected performance: 95-100 Lighthouse score with gzip, long cache headers, and security headers
 
 **Multilingual nginx config:**
-Add to nginx vhost for locale routing (recommended but optional):
+Add to nginx vhost for locale routing (optional):
 
 ```nginx
-# Redirect root to English locale (or detect from Accept-Language header)
+# Redirect root to English locale
 location = / {
-    return 302 /en/index.html;
+    return 302 /en/;
 }
 
 # Optional: Auto-detect preferred language from browser
@@ -74,7 +74,7 @@ After that, every push to `main` updates the site with no further clicks. Manual
 
 When WordPress should leave the domain:
 
-1. Pages custom domain: `admin.education`
-2. DNS at the registrar: GitHub Pages records for an apex, or `www` CNAME to `arhitektahaosa.github.io`
-3. Add a `CNAME` file in the staged `_site` (one line: `admin.education`)
+1. Pages custom domain: `www.admin.education`
+2. DNS at the registrar: GitHub Pages records for an apex + `www` CNAME to `arhitektahaosa.github.io`
+3. Add a `CNAME` file in the staged `_site` (one line: `www.admin.education`)
 4. HTTPS is provisioned by GitHub after DNS answers

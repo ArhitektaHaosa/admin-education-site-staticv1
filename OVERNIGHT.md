@@ -6,12 +6,9 @@ Follow that file. This note is the short index.
 Repo: https://github.com/ArhitektaHaosa/admin-education-site-staticv1
 Only this repo. No rush. Fast, secure, easy to update.
 
-Canonical exam list: `data/certs.json`
-XML copy: `data/certs.xml`
-XSD: `data/certs.xsd`
-Render: `node scripts/render-exams.mjs` writes `exams.html` and rewrites `data/certs.xml`.
+**Pure static architecture (staticv3.0):** All 300 HTML files are committed. No Node, no npm, no build tools. To update content, edit HTML files directly in locale directories.
 
-JSON is the file you edit. XML is the validated twin. Do not maintain two live lists by hand.
+Exam content lives in the localized HTML files (`*/exams.html`). To edit, update the HTML directly. Maintain consistency across all 50 locales manually or with find/replace.
 
 Hire-platform tiles are marketplace exams, not a ministry diploma. School record stays on Method.
 

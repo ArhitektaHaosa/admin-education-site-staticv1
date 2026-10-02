@@ -5,7 +5,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://admin.education/sitemap.xml
+Sitemap: https://www.admin.education/sitemap.xml
 
 # Allow all locale directories
 Allow: /en/

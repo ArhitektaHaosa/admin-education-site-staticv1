@@ -55,27 +55,26 @@ The directives enable:
 
 ### 5. Deploy Files
 
-Upload the public HTML files and assets to your document root via SFTP, rsync, or git:
+Clone the repository and copy files to your document root:
 
-**Files to deploy:**
-- `index.html`, `method.html`, `writing.html`, `exams.html`, `links.html`, `contact.html`
-- `css/` directory (site.css, site.min.css)
-- `img/` directory (all SVG assets)
-- `VERSION`
-
-**Do NOT deploy:**
-- `OVERNIGHT.md`, `PROMPT-*.md`, `HANDOFF.md`
-- `scripts/`, `data/`, `.github/`, `.git/`
-- Development/prompt files
-
-**Example rsync:**
+**Simple deployment:**
 ```bash
-rsync -avz --exclude='.git' --exclude='scripts' --exclude='data' --exclude='*.md' \
-  --include='*.html' --include='css/**' --include='img/**' --include='VERSION' \
-  ./ user@your-linode-ip:/home/cloudpanel/htdocs/admin.education/
+cd /tmp
+git clone https://github.com/ArhitektaHaosa/admin-education-site-staticv1.git
+cd admin-education-site-staticv1
+rsync -av --exclude='.git' ./ /home/admin/htdocs/www.admin.education/
+chown -R admin:admin /home/admin/htdocs/www.admin.education
 ```
 
-Or use Cloud Panel's built-in **File Manager** for manual upload.
+**Files deployed:**
+- All 50 locale directories (`en/`, `sr/`, `fr/`, ..., `ka/`) with 6 HTML pages each
+- `css/` directory (site.css)
+- `img/` directory (all SVG/PNG assets)
+- `js/` directory (lang-switcher.js)
+- `index.html` (root redirect to /en/)
+- `sitemap.xml`, `robots.txt`, `VERSION`
+
+**No build step required.** All files are ready to serve.
 
 ### 6. Verify
 
@@ -106,5 +105,5 @@ Cloud Panel supports Varnish as an optional HTTP accelerator. For a fully static
 ## Notes
 
 - **No Cloudflare required**: Direct Linode + Cloud Panel + nginx provides excellent performance for static sites.
-- **GitHub Pages**: The site also deploys to `gh-pages` branch via GitHub Actions (see main `DEPLOY.md`). Cloud Panel is the intended production path for `admin.education` apex domain.
-- **DNS cutover**: Update your domain's DNS A record to point to your Linode IP. Then configure custom domain in Cloud Panel as above.
+- **GitHub Pages**: The site also deploys to `gh-pages` branch via GitHub Actions (see main `DEPLOY.md`). Cloud Panel is the intended production path for `www.admin.education` domain.
+- **DNS cutover**: Update your domain's DNS A record to point to your Linode IP, plus CNAME for www. Then configure custom domain in Cloud Panel as above.
