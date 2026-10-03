@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="adsense">
+  <circle cx="48" cy="48" r="46" fill="#111111"/>
+  <rect x="28" y="34" width="40" height="28" rx="4" fill="none" stroke="#F7F4EE" stroke-width="3"/>
+  <path d="M36 48 L44 56 L60 38" fill="none" stroke="#FF6719" stroke-width="3" stroke-linecap="square"/>
+</svg>

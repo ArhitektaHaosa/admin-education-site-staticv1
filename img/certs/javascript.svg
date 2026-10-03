@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="javascript">
+  <circle cx="48" cy="48" r="46" fill="#111111"/>
+  <rect x="26" y="26" width="44" height="44" rx="6" fill="#FF6719"/>
+  <text x="48" y="56" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="20" font-weight="800" fill="#111111">JS</text>
+</svg>
