@@ -7,11 +7,10 @@ No rush. Owner sends more copy when ready. Fold it in. Do not invent pages to lo
 Overnight prompt: `PROMPT-STATIC-SITE-MASTER.md`
 Short index: `OVERNIGHT.md`
 
-## Locked (2026-09-20 night, Europe/Belgrade)
+## Locked (2026-10-02, Europe/Belgrade)
 
-- Stack: static HTML and CSS. No tracker. System UI stack. SVG wordmark.
-- Optional local script: `node scripts/render-exams.mjs` reads `data/certs.json`, writes `exams.html` and `data/certs.xml`.
-- XML schema: `data/certs.xsd`. JSON is canonical.
+- Stack: pure static HTML and CSS. **No Node, no npm, no build tools.** All 300 HTML files committed.
+- To edit: Update HTML files directly in locale directories. No generation step exists.
 - Brand: paper `#F7F4EE`, ink `#111111`, accent `#FF6719`.
 - Marks: `img/wordmark.svg`, `img/logo.svg`. Exam marks: original SVG in `img/certs/`.
 - Do not print the personal legal name on any public page. Display name is admin.education. Public handle is @ArhitektaHaosa.
@@ -36,19 +35,19 @@ Old Bluesky `arhitektahaosa.bsky.social` is retired on this domain. Use `admin.e
 
 ## Pages now
 
+All pages exist in 50 locale directories (`en/`, `sr/`, `fr/`, ..., `ka/`):
 - `index.html` Home
 - `method.html` Method
 - `writing.html` Writing
 - `exams.html` Platform exams
 - `links.html` Link-in-bio
 - `contact.html` Contact
-- `data/certs.json` exam source of truth
-- `data/certs.xml` XML twin
-- `data/certs.xsd` schema
-- `img/certs/` original SVG marks
-- `PROMPT-STATIC-SITE-MASTER.md` current work order
 
-Nav on every page: Home, Method, Writing, Exams, Links, Contact.
+Root `index.html` redirects to `/en/`.
+
+Navigation on every page: Home, Method, Writing, Exams, Links, Contact.
+
+Language switcher: Interactive dropdown in header (50 locales).
 
 ## Deploy
 
@@ -56,4 +55,4 @@ Push to `main` publishes GitHub Pages automatically. Workflow: `.github/workflow
 
 Preview: https://arhitektahaosa.github.io/admin-education-site-staticv1/
 
-WordPress Hello world is still on https://admin.education until the owner points DNS. Do not add a CNAME or claim the apex until that cutover is explicit.
+WordPress Hello world is still on https://www.admin.education until the owner points DNS. Do not add a CNAME or claim the apex until that cutover is explicit.

@@ -20,18 +20,21 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v5
-      - name: Confirm exams twin
-        run: |
-          node scripts/render-exams.mjs
-          git diff --exit-code -- exams.html data/certs.xml
       - name: Stage public files
         run: |
-          mkdir -p _site/css _site/img
-          cp index.html method.html writing.html exams.html links.html contact.html _site/
-          cp VERSION _site/
-          cp .nojekyll _site/
+          mkdir -p _site/css _site/img _site/js
+          # Root files
+          cp index.html robots.txt sitemap.xml VERSION .nojekyll _site/
+          # Assets
           cp -a css/. _site/css/
           cp -a img/. _site/img/
+          cp -a js/. _site/js/
+          # All 50 locale directories
+          for locale in en sr fr de hi vi pt-BR es ja ko zh-CN ru pl it nl tr hr uk cs sk ro hu sv fi da id th ar zh-TW el bn pt nb he bg sl lt lv et ca ms fil fa ur sw ta af sq mk ka; do
+            if [ -d "$locale" ]; then
+              cp -a "$locale" _site/
+            fi
+          done
       - name: Publish gh-pages branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

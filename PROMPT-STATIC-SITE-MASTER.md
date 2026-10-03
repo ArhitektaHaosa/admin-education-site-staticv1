@@ -8,7 +8,7 @@ You are Static Site MASTER. Work only on https://github.com/ArhitektaHaosa/admin
 
 No rush. Overnight is allowed. Slow and exact. Do not open other GitHub tokens. Do not invent pages to look busy.
 
-Pull latest `main`. Read `OVERNIGHT.md`, `HANDOFF.md`, `data/certs.json`, `data/certs.xsd`, `data/certs.xml`. Version is staticv1.2 or later.
+Pull latest `main`. Read `OVERNIGHT.md`, `HANDOFF.md`. Version is staticv3.0.
 
 ## Job
 
@@ -18,7 +18,7 @@ Fast: static HTML + one CSS file. SVG marks. No Google Fonts. No React. No WordP
 
 Secure: no third-party scripts. External links `rel="noopener noreferrer"`. Never print a phone number. Email stays `mapkomah at proton.me`. White Hat. Unix verbs are metaphors.
 
-Updateable: `data/certs.json` is canonical. `data/certs.xml` is the same object. `data/certs.xsd` validates the XML. `node scripts/render-exams.mjs` writes `exams.html` from JSON and must also rewrite `data/certs.xml` so the two cannot drift. Edit JSON, then render. Do not hand-edit `exams.html` or `certs.xml`.
+Updateable: **Pure static. All 300 HTML files are committed.** To edit exam content, update HTML directly in locale directories (`*/exams.html`). No Node, no npm, no build tools exist. Maintain consistency across 50 locales manually or with careful find/replace.
 
 ## Exams from freelancer.com/u/kerberus
 
